@@ -1,0 +1,264 @@
+{
+    "metadata": {
+        "title": "The Space Between",
+        "author": [
+            "Ernesto Bassi"
+        ],
+        "position": 4,
+        "chapter": 3,
+        "short-reference": "bassi-between"
+    },
+    "content": [
+        {
+            "type": "anvil-gallery",
+            "images": [
+                {
+                    "url-format": "/000/001/625/***/LibroEntradasYSalidas1793.jpg",
+                    "alt": "Ship Log",
+                    "caption": "Title page of Cartagena’s 1793 book of ship arrivals and departures.",
+                    "credit": "Archivo General de la Nación, Bogota, Colombia. Archivo Anexo 1, Aduanas, 22, 539-569"
+                },
+                {
+                    "url-format": "/000/001/626/***/Entradas1793.jpg",
+                    "alt": "Ship Log",
+                    "caption": "Sample pages of Cartagena’s 1793 book of arrivals and departures.",
+                    "credit": "Archivo General de la Nación, Bogota, Colombia. Archivo Anexo 1, Aduanas, 22, 539-569"
+                },
+                {
+                    "url-format": "/000/001/627/***/Salidas1793.jpg",
+                    "alt": "Ship Log",
+                    "caption": "Sample pages of Cartagena’s 1793 book of arrivals and departures.",
+                    "credit": "Archivo General de la Nación, Bogota, Colombia. Archivo Anexo 1, Aduanas, 22, 539-569"
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": "On January 9, 1793, the schooner _Ana María_, captained by Pedro Camariles, sailed from Cartagena to Sabanilla. In Sabanilla (so it declared when leaving Cartagena) it was going to load cotton, most likely to sell later in Jamaica or in another foreign colony. This much we can know from a single entry into shipping returns like the one pictured above.",
+            "number": 1
+        },
+        {
+            "type": "paragraph",
+            "content": "In theory, shipping returns, also called books of arrivals and departures, register every legal arrival into and departure from a particular port. Much like modern airport arrival and departure screens, shipping returns give us a sense of the ways in which a particular port was connected with the world. Shipping returns list the name of the ship’s captain, the ship’s nationality, its port of origin or destination, and a brief description of its cargo. On occasion, they also include the tonnage of the ship and a short note regarding unusual circumstances accounting for a ship’s arrival (it was common to make a note about ships that entered after being captured at sea as well as those that entered _de arribada_ or in distress).",
+            "number": 2
+        },
+        {
+            "type": "paragraph",
+            "content": "In an ideal world, one might piece together thousands of records like that of the _Ana María_ to get a complete picture of the workings of the maritime networks connecting Cartagena (or any other port) to the wider world. Such a reconstruction, in turn, would provide a clear picture of the geographic space that sailors and other frequent travelers inhabited. But that assumes that these records exist for all ships. And it assumes that all ships’ movements were recorded.",
+            "number": 3
+        },
+        {
+            "type": "paragraph",
+            "content": "Following ships in the archives, tracing the routes of the sloops and schooners that navigated the Caribbean during the late eighteenth and early nineteenth centuries, is a difficult task. The problem—mostly—has to do with the fragmentary nature of the information available in archival repositories. Neither the Spanish colonial archives (I worked at Seville’s Archivo General de Indias and Colombia’s Archivo General de la Nación) nor the UK’s National Archives allow for a complete reconstruction of the dynamic world of transimperial exchanges in which New Granada’s Caribbean ports were actively involved.",
+            "number": 4
+        },
+        {
+            "type": "anvil-gallery",
+            "images": [
+                {
+                    "url-format": "/000/001/680/***/bassinew1.jpg",
+                    "caption": "Nightingale (1825), a two gun schooner.",
+                    "credit": "National Maritime Museum, Greenwich, London"
+                },
+                {
+                    "url-format": "/000/001/681/***/bassinew2.jpg",
+                    "caption": "The schooner Little Cumberland, 1802.",
+                    "credit": "National Maritime Museum, Greenwich, London"
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": "Shipping returns, to begin with, are only available for selected ports and selected years. In addition, because many ships sailed the Caribbean carrying contraband, their owners, captains, and sailors made conscious efforts to avoid colonial authorities and, by extension, the colonial archive. A certain lack of imagination when it came to naming ships—or religious scruples demanding seamen to seek heavenly protection when braving the seas—adds difficulty to the task of following ships as they navigated Caribbean waters. Names like _San Josef_ (or _San Joseph_ or _San Josef y las Ánimas_ and many other variations) and _Carmen_ (or _Nuestra Señora del Carmen_ or _El Carmen_ and many variations thereof) were very common. With multiple ships bearing the same name it is often impossible to avoid confusion and successfully follow the maritime path and archival trail of a specific ship. Sometimes ship aliases, captain names, and tonnage are helpful in distinguishing between two ships of the same name. But aliases and tonnage are not always available. And frequent changes of captains, sometimes unaccounted for in the shipping returns, do not always make it easy to distinguish between two schooners called _Nuestra Señora del Carmen._ Add to this other issues, including flag changes, sales that lead to renaming, and shipwrecks, and you could imagine maritime historians finding themselves lost at sea while trying to follow a ship across the seas.",
+            "number": 5
+        },
+        {
+            "type": "paragraph",
+            "content": "Even in cases where shipping returns yield what seems to be a detailed itinerary of a ship’s Caribbean cruise, a careful look at the arrival and departure dates reveals moments in which the ship “gets lost.” Where does a ship go when it temporarily disappears from the archival record? It enters the space between. That is, the geographic area and the time elapsed between the moments of visibility afforded by shipping returns. While shipping returns allow us to see ships entering and leaving ports, much of their actual journeys remains invisible. What happens in between ports is concealed from the historian’s gaze unless the ship encounters troubles that put it again on the archival record. Sometimes the space between falls well between the parameters of what can be considered normal. Often, it does not. This is when things get interesting.",
+            "number": 6
+        },
+        {
+            "type": "paragraph",
+            "content": "The visible trajectories of two schooners, the _Samaria_ and the _Santiago_, demonstrate the possibilities and limitations of shipping returns. They also show the almost limitless possibilities of the space between. Maps 1a to 1d depict the estimated cruise of the schooner _Samaria_ during 1814. The _Samaria_’s documented cruise began in Kingston on March 26. Eleven days later it entered Santa Marta, on April 6, carrying rum, candles, and dry goods. After two weeks in Santa Marta it sailed, in ballast, toward Riohacha. The _Samaria_’s next documented sighting was in Kingston, on May 12, which it entered loaded with Nicaragua wood, a cargo commonly found in ships entering Kingston, Cartagena, and Santa Marta from Riohacha. There is no registry of the _Samaria_ entering or leaving Riohacha. In fact, there are no port records available for Riohacha at all. Still, the twenty-two days that elapsed between its departure from Santa Marta and its arrival at Kingston make its declared Santa Marta-Riohacha-Kingston itinerary credible. The path traversed by the _Samaria_ between Santa Marta and Kingston seems to have been—as declared—the seaspace between Santa Marta and Riohacha, the port of Riohacha itself, and the seaspace between Riohacha and Kingston.",
+            "number": 7
+        },
+        {
+            "type": "anvil-gallery",
+            "images": [
+                {
+                    "url-format": "/000/001/628/***/Bassi1a.jpg",
+                    "alt": "Map"
+                },
+                {
+                    "url-format": "/000/001/629/***/Bassi1b.jpg",
+                    "alt": "Map"
+                },
+                {
+                    "url-format": "/000/001/630/***/bassi1c.jpg",
+                    "alt": "Map"
+                },
+                {
+                    "url-format": "/000/001/646/***/bassi1d.jpg",
+                    "alt": "Map"
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": "Nine days after sailing from Kingston on May 21, again carrying rum and dry goods, the _Samaria_ entered Santa Marta. After a twenty-day stopover it sailed, in ballast, from Santa Marta to Riohacha and Maracaibo. Forty days later, on July 30, it entered Santa Marta from Riohacha with _registro_ from Maracaibo (_registro_ refers to paperwork and merchandise that confirmed that it actually was in Maracaibo). Even in the absence of shipping returns for Riohacha and Maracaibo, the fact that it entered Santa Marta with _registro_ from Maracaibo gives credence to the itinerary depicted in map 1b. In addition, assuming navigation times of about a week for each of the four steps of the Santa Marta-Riohacha-Maracaibo-Riohacha-Santa Marta journey, and stays in port of about five days, the forty days elapsed between its departure from Santa Marta and its return to the same port further add credibility to the _Samaria_’s declared itinerary. Nevertheless, one wonders.",
+            "number": 8
+        },
+        {
+            "type": "paragraph",
+            "content": "The next steps in the _Samaria_’s 1814 journey (map 1c) involve two new ports: La Guaira and Puerto Cabello. In this case, the space between gets murky. Shipping returns only show that it sailed from Santa Marta to Riohacha on August 8 and, two months later, on October 11, returned to Santa Marta from Riohacha with _registro_ from La Guaira and Puerto Cabello. Did the _Samaria_ follow the Santa Marta-Riohacha-Puerto Cabello-La Guaira-Puerto Cabello-Riohacha-Santa Marta route that the shipping returns imply? The _registro_ from La Guaira and Puerto Cabello proves that the _Samaria_ visited these two ports. The order in which it entered them, and potential visits to other Spanish or foreign ports, cannot be verified. The conspicuousness of contraband in the area raises suspicions about the likelihood of the _Samaria_ actually following its stated route. Dutch merchants from Curaçao and the indigenous Wayuu of the Province of Riohacha were known to be actively engaged in this illicit trade. Proving these suspicions, however, is not possible.",
+            "number": 9
+        },
+        {
+            "type": "paragraph",
+            "content": "The last portion of the schooner’s 1814 journey is far clearer. After sailing from Santa Marta to Riohacha on November 3, records show it entered Kingston, from Riohacha, on November 16. Eight days later, on November 24, it sailed from Kingston to Santa Marta, entering this last port (declaring that it was coming from Kingston) on December 1. On December 20, it sailed from Santa Marta to Riohacha, only to return two days later claiming that strong winds made it impossible to continue its journey. After a week docked in Santa Marta, the _Samaria_ began its last trip of 1814, sailing to Riohacha on December 30.",
+            "number": 10
+        },
+        {
+            "type": "paragraph",
+            "content": "The retrievable itinerary of the _Santiago_ (maps 2a-2e) provides a better sense of the possibilities of the space between. From January 10, 1793, when it sailed from Cartagena to Riohacha with _frutos_ (agricultural produce) to December 24, when it sailed from Cartagena to Kingston (again with _frutos_), the _Santiago_ frequently crisscrossed the seaspace between Jamaica and the Caribbean coast of New Granada. Its declared itinerary includes repeated visits to Kingston, Cartagena, Riohacha, and the small port of Sabanilla. But the _Santiago_’s 1793 journey is full of holes—the kind that make a historian wonder what might have happened in the vast spaces between its documented entries in Cartagena’s book of arrivals and departures. During the first half of the year, for instance, the _Santiago_ appears to have followed two identical triangular paths sailing from Cartagena to Riohacha, from Riohacha to Jamaica, and from Jamaica to Cartagena.",
+            "number": 11
+        },
+        {
+            "type": "anvil-gallery",
+            "images": [
+                {
+                    "url-format": "/000/001/632/***/Bassi2a.jpg",
+                    "alt": "Map"
+                },
+                {
+                    "url-format": "/000/001/633/***/Bassi2b.jpg",
+                    "alt": "Map"
+                },
+                {
+                    "url-format": "/000/001/634/***/bassi2c.jpg",
+                    "alt": "Map"
+                },
+                {
+                    "url-format": "/000/001/636/***/bassi2d.jpg",
+                    "alt": "Map"
+                },
+                {
+                    "url-format": "/000/001/637/***/bassi2e.jpg",
+                    "alt": "Map"
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": "Appearances, in this case, can be deceiving. Shipping returns only provide certainty about four dates:",
+            "number": 12
+        },
+        {
+            "type": "paragraph",
+            "content": "1) January 10, when the _Santiago_ sailed from Cartagena declaring that it was sailing to Riohacha; <br />2) April 3, when it entered Cartagena from Jamaica; <br />3) May 29, when it left Cartagena declaring Riohacha as its destination; and <br />4) June 25, when, once again, it entered Cartagena from Jamaica.",
+            "number": 13
+        },
+        {
+            "type": "paragraph",
+            "content": "It is tempting to fill the gaps in this itinerary with two straightforward trips from Riohacha to Jamaica in order to complete the triangular path suggested by Cartagena’s shipping returns. While this is a possibility, there are other plausible scenarios. Did the _Santiago_ actually sail to Riohacha both times? If it did, what port did it visit next? Did it sail from Riohacha to Jamaica or did it sail to another foreign port? If, in fact, it followed the same path on both occasions, why did it take it almost two months to return to Cartagena the first time and less than a month the second time?",
+            "number": 14
+        },
+        {
+            "type": "paragraph",
+            "content": "The space between, here, bursts with possibilities: delays in Riohacha and Kingston linked to procuring supplies and commodities; weather, in the form of rough seas or complete lack of wind; harassment by foreign ships at sea; undeclared trips to other foreign ports to procure foreign (mostly British) clothes to later introduce surreptitiously to New Granada; even clandestine arrivals to hidden coves to unload said contraband.  Any of these things could have happened. And because all of these things happened with some regularity, customs officers could not simply dismiss them. Neither can historians combing through the archives today.",
+            "number": 15
+        },
+        {
+            "type": "paragraph",
+            "content": "In the absence of further records documenting its arrival to other ports between January 10 and April 3 (or between May 29 and June 25), the _Santiago_’s itinerary remains murky. Its maritime path for the second half of 1793, given that it involved sailing to Sabanilla—a hidden, yet well known, cove frequented by smugglers—features an equally murky space between.",
+            "number": 16
+        },
+        {
+            "type": "paragraph",
+            "content": "What are historians to do when facing these gaps? Fleeing them to avoid the dreaded (by some, not me) speculation is definitely one path. Embracing them and working to suggest an account that is simultaneously speculative and persuasive seems more enticing.",
+            "number": 17
+        },
+        {
+            "type": "paragraph",
+            "content": "Contemporary reports abound with complaints about unauthorized travels and testimonies describing the tricks small vessels performed to bypass regulations. French traveler François Depons, writing from Venezuela, described the practice by which Spanish vessels sailing from Neogranadan and Venezuelan ports in 1801 claimed to be sailing to Guadeloupe, when in fact they were headed for British islands like Jamaica, Trinidad, and Curaçao (in 1801 Curaçao was under British control). Similarly, William Walton described how, during the Anglo-Spanish War of 1796-1808, “many Spanish vessels cleared out for Guadeloupe, Martinique, and St. Domingo, then in possession of their allies, and when they returned, produced false clearances and fabricated papers” to cover their actual trips to British islands. Taking advantage of the permissions granted by all imperial powers to trade with neutrals, James Stephen denounced, merchants of all nations were pursuing “a war in disguise” characterized by the fraudulent use of neutral flags to undertake trade with war enemies. The schemes, most times, involved declaring to sail to a port and then proceeding to a different one. This practice warns against taking shipping returns at face value.",
+            "number": 18
+        },
+        {
+            "type": "paragraph",
+            "content": "Like these foreign observers, local merchants also doubted the advisability of trusting shipping returns. Prominent Cartagena merchant José Ignacio de Pombo, for instance, denounced the contraband transported under the cover of the legal trade in slaves as well as the ways in which small vessels abused permits granted to trade with foreign neutrals. In his opinion, trade with foreigners not only favored contraband but also set a negative precedent and constituted “an addiction, difficult to cure after acquired.” Provincial authorities in Cartagena, Santa Marta, and Portobelo shared Pombo’s concerns. Manuel Hernández, the Spanish crown’s treasurer at Portobelo decried the practice some vessels legally trading with Jamaica pursued: they _added_ stopovers in hidden coves like Sabanilla, and Bahía Honda before entering their official ports of destination. Sabanilla, as ship captain Domingo Negrón witnessed after his schooner, the _Concepción_, fell prey to a British ship, was a dynamic hidden port, which Spanish vessels legally sailing from Jamaica to Cartagena frequently entered to unload illegal merchandise before officially entering Cartagena with their legal cargo. Bahía Honda, which Spanish authorities considered a marvelous bay “capable of harboring the biggest fleet,” was—unfortunately for Spanish purposes—“only useful to foreign… ships” that used it “to introduce their goods… and take away the _palo del Brasil_, pearls, cottons, and gold from this province” of Riohacha.",
+            "number": 19
+        },
+        {
+            "type": "paragraph",
+            "content": "Even when captured _in flagrante_, smugglers and sailors facing charges of piracy could come up with alibis to save themselves from jail or execution. Claiming that they had entered a forbidden port because their ships were sinking (suspicious Spanish authorities called these arrivals _arribadas maliciosas_) or that the “winds and currents” had deviated them from their stated courses, many sailors ended up giving judicial declarations in ports where, according to their navigation documents, they were not scheduled to stop. The archival bundles containing these declarations stand as visible counterparts to the invisible files never created by the many ships that fraudulently—either without being noticed by colonial authorities or with their complicity—entered a forbidden port before continuing their navigation to the scheduled port.",
+            "number": 20
+        },
+        {
+            "type": "paragraph",
+            "content": "Let’s get back to the _Santiago_ to imagine a possible pathway to explain its space between. Two intervals between recorded departures from and arrivals to Cartagena stand out as particularly intriguing: the 83 days between January 10 and April 3 and the 71 days between July 12 and September 21 (maps 2a and 2c). Two months (almost three in the first case) at sea is an awful lot of time for direct Cartagena-Riohacha-Kingston-Cartagena and Cartagena-Sabanilla-Kingston-Cartagena trips. In the first case, the _Santiago_’s arrival record contains information that makes it possible to believe that its actual trip included illicit transactions in the hidden coves of New Granada’s Caribbean coastline.",
+            "number": 21
+        },
+        {
+            "type": "paragraph",
+            "content": "Upon entering Cartagena, the _Santiago_ declared “3 _bozales_” (African slaves) among its cargo. While selling slaves imported from foreign colonies was legal, having _only_ 3 slaves for sale seems hardly a wise business decision. Given the abundance of voices that claimed that “the ships that sailed [to foreign colonies] to look for slaves, brought back contraband goods,” it seems (highly) plausible that the _Santiago_ took part in this illegal trade, many times consisting of clothes. An undeclared stopover in Sabanilla, one of the most frequented hidden coves, to unload said clothes could have accounted for a portion of the 83 days it supposedly spent sailing to Riohacha, Kingston, and back to Cartagena. If the contraband goods included weapons—another item frequently present in reports, denunciations, and seizures—it also makes sense to imagine a potential stopover in Bahía Honda, where the Wayuu were always ready to buy British weapons. Adding these two hidden stopovers still allows time for the winds and currents to have played a role in the _Santiago_’s journey between its January 10 departure from Cartagena and its April 3 return.",
+            "number": 22
+        },
+        {
+            "type": "paragraph",
+            "content": "The second long unaccounted interval—between July 12 and September 21—raises similar questions regarding the business skills of the _Santiago_’s owners and captains. If shipping returns are to be trusted (and it seems, in this case, they should not), the _Santiago_ sailed to Sabanilla “to get _palo mora_ [a dyewood] for sale in Jamaica.” With its cargo of palo mora, it proceeded from Sabanilla to Kingston, sold the palo mora, and then returned to Cartagena “in ballast.” This trip took the _Santiago_ 71 days. Both the duration and the cargo (or lack thereof) make this straightforward trip unlikely. While palo mora was certainly a valuable commodity, it is hard to believe that the only commercial transaction the _Santiago_ undertook during its 71 days of navigation was the selling of palo mora in Jamaica. It simply does not make business sense. In this case, it appears that the _Santiago_’s navigational trajectory included much more than the shipping returns show. Before entering Cartagena in ballast, the _Santiago_ may have visited Sabanilla or another hidden cove to unload contraband goods obtained in Jamaica. The unlikelihood of a two-month-long Cartagena-Sabanilla-Kingston-Cartagena trip that only involved obtaining palo mora in Sabanilla to sell in Kingston simply calls for other explanations. In the absence of hard evidence, the _Santiago_’s trip requires speculation.",
+            "number": 23
+        },
+        {
+            "type": "paragraph",
+            "content": "While shipping returns do not allow us to fill the _Santiago_’s space between, properly contextualized, they can help us understand its possibilities. Knowing exactly what path the _Santiago_ traversed is impossible. Concluding that its navigational trajectory between January 10 and April 3 (and then between July 12 and September 21) was much more truculent than Cartagena’s port records suggest, seems in this case to be a safe bet.",
+            "number": 24
+        },
+        {
+            "type": "paragraph",
+            "content": "Using shipping returns to reconstruct the navigational trajectories of Caribbean schooners offers historians a way to imagine alternative paths that deviate from the official ones delineated in books of arrivals and departures. Despite their fragmentary information, shipping returns remain the key source to study maritime networks in the Age of Sail. Reading them with an awareness of their limits helps us understand the mobile world sailors inhabited.",
+            "number": 25
+        },
+        {
+            "type": "paragraph",
+            "content": "Mobility and mobile lives help us see the world in a different way. Instead of a world of hard borders and fixed geographic units, a focus on mobility brings to life a world of connections invisible to the eyes trained to see through the lens of political geographies. In the world of the Age of Revolutions—the world I inhabit in my research—focusing on mobility allows us to demolish the fiction of “imperial self-sufficiency” created by an excessive emphasis on imperial political geographies as units of analysis. Mobility and mobile lives also pose great challenges and make us aware of the many possible paths mobile subjects could have taken. Following ships as they cut across political boundaries makes these potential paths visible. It opens up the possibilities of the space between.",
+            "number": 26
+        },
+        {
+            "type": "alt-voice-paragraph",
+            "content": "Maps created by Ernesto Bassi",
+            "number": 27
+        }
+    ],
+    "supernotes": {
+        "5": {
+            "commentary": [
+                "Information of arrivals into and departures from New Granada’s ports is only available for selected ports (Cartagena and Santa Marta) and selected years (1785, 1789, 1793, 1800, 1801, 1807, 1808, 1814, 1817). Similarly, information about foreign vessels—including many Spanish vessels from New Granada—entering the free ports of Jamaica only exists for selected years between 1767 and 1818. While exploring French, Dutch, and Danish archives could enhance the quality of the picture of the participation of New Granada’s ports in the Caribbean commercial networks, that picture would necessarily continue to be incomplete."
+            ]
+        },
+        "18": {
+            "commentary": [
+                "For more detailed descriptions of the schemes described by Depons, Walton, and Stephen see François Depons, _Travels in South America during the Years 1801, 1802, 1803, and 1804; Containing a Description of the Captain-Generalship of Caracas, and an Account of the Discovery. Conquest, Topography, Legislature, Commerce, Finance, and Natural Productions of the Country, with a View of the Manners and Customs of the Spaniards and the Native Indians_ (London: Longman, Hurst, Rees, and Orme, 1807); William Walton, _Present State of the Spanish Colonies, including a Particular Report of Hispaniola, or the Spanish Part of Santo Domingo_ (London: Longman, Hurst, Rees, Orme, and Brown, 1810); and [James Stephen], _War in Disguise; or, the Frauds of the Neutral Flags_ (London: C. Wittingham, 1806)."
+            ]
+        },
+        "19": {
+            "commentary": [
+                "José Ignacio de Pombo, _Comercio y contrabando en Cartagena de Indias_ (Bogota: Procultura, 1986); “Informe de Manuel Hernández… sobre el estado del comercio en el virreinato de Santa Fe,” Archivo General de Indias (AGI), Santa Fe, 959, no. 67; (for Domingo Negrón’s story) Antonio Amar to Miguel Cayetano Soler, December 7, 1806, AGI, Santa Fe, 653, no. 10; and (for descriptions of Bahía Honda) Antonio Julián, _La perla de América, Provincia de Santa Marta_ (Bogota: Academia Colombiana de Historia, 1980); Manuel Guirior, “Instrucción que deja a su sucesor en el mando el virrey D. Manuel Guirior,” in Germán Colmenares (ed.), _Relaciones e informes de los gobernantes de la Nueva Granada_ (Bogota: Ediciones Banco Popular, 1989), 1:271-359; and Antonio de Arévalo, “Plano Particular de Bahía Honda, situado en el Cavo de la Vela y el de Chichivacoa en la Provincia de los Yndios Goagiros, que llaman del Río del Hacha,” AGI, MP-Panamá, 182."
+            ]
+        },
+        "20": {
+            "commentary": [
+                "For examples of the types of files I have consulted in the Spanish and Colombian archives see: “Expediente sobre la arribada legítima del bergantín holandés Cornelia Luisa, su capitán Thimoteo Seud a Portobelo, de donde fue llevado a Cartagena,” Archivo General de Indias (AGI), Santa Fe, 955; “Diligencia que se actúan por este gobierno sobre la aprehensión hecha por el comandante del bergantín Cartagenero guarda costa de SM a una goleta que de arribada entró en este puerto nombrada San Francisco Xavier,” Santa Marta, July15, 1803, AGI, Sante Fe, 952; “Informe sobre comiso en Cartagena de la balandra La Victoria,” September 25, 1806, AGI, Santa Fe, 1149; “Autos seguidos en el gobierno de esta capital de Santiago de Veraguas contra los individuos que sirvieron de corsarios con nación leal, en la goleta nombrada _La Belona_ y la suerte les condujo a varar en el Escudo de Veraguas en la goleta apresada por quella nombrada _Altagracia_” (hereafter Autos _La Belona_), Archivo General de la Nación, Colombia, AA1, Guerra y Marina, 130, 395-481."
+            ]
+        },
+        "22": {
+            "commentary": [
+                "The quote is from Lorenzo Corbacho in a report to viceroy José Manuel de Ezpeleta. Complaining voices also included Cartagena’s merchant Juan de León y Páez who informed Ezpeleta that “the navigation to [foreign] colonies to negotiate slaves, is simply a pretext to trade in clothes.” Based on these reports Ezpeleta concluded that in the viceroyalty of New Granada the legal trade in slaves functioned as “a shadow for contraband.” Corbacho to Ezpeleta, Portobelo, November 6, 1794, AGI, Santa Fe, 645, No. 4; Corbacho to Ezpeleta, Portobelo, February 22, 1795, AGI, Santa Fe, 645, No. 5; Leo´n y Pa´ez to Ezpeleta, Cartagena, October 30, 1794, AGI, Santa Fe, 645, No. 1; Ezpeleta to Lerena, Santa Fe. December 19, 1791, AGI, Santa Fe, 640, no. 201."
+            ]
+        },
+        "26": {
+            "commentary": [
+                "For the fiction of “imperial self-sufficiency” see David Hancock, _Oceans of Wine: Madeira and the Emergence of American Trade and Taste_ (New Haven: Yale University Press, 2009). Many other works including Lauren Benton, _A Search for Sovereignty: Law and Geography in European Empires, 1400-1900_ (Cambridge: Cambridge University Press, 2010); Linda Rupert, _Creolization and Contraband:  Curaçao in the Early Modern Atlantic World_ (Athens: University of Georgia Press, 2012); Eliga Gould, “Entangled Histories, Entangled Worlds: The English-Speaking Atlantic as Spanish Periphery,” _American Historical Review_ 112/3 (2007): 764-786; Jorge Cañizares-Esguerra, “Entangled Histories: Borderland Historiographies in New Clothes?” _American Historical Review_ 112/3 (June 2007), 787-799; James Sweet, _Domingos Álvares, African Healing, and the Intellectual History of the Atlantic World_ (Chapel Hill: University of Carolina Press, 2011); and Ernesto Bassi, “Beyond Compartmentalized Atlantics: A Case for Embracing the Atlantic from Spanish American Shores,” _History Compass_ 12:9 (2014), 704-716 are increasingly thinking of imperial borders as porous, permeable, fluid, and entangled. For a recent summary of the problem and ongoing trends to solve it see Jorge Cañizares-Esguerra and Benjamin Breen, “Hybrid Atlantics: Future Directions for the History of the Atlantic World,” _History Compass_ 11/8 (2013: 597-609."
+            ]
+        }
+    }
+}

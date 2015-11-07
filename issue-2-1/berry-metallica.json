@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "title": "_De Re Metallica_",
+        "author": [
+            "Justin Berry"
+        ],
+        "position": 4,
+        "chapter": 1,
+        "short-reference": "berry-metallica"
+    },
+    "content": [
+        {
+            "type": "editorial-intro-paragraph",
+            "content": "_De Re Metallica_, by [Georgius Agricola](http://en.wikipedia.org/wiki/Georgius_Agricola) (Georg Pawer) was one of the earliest books on metallurgy and mining to be based on observation, rather than relying on the word of others or personal speculation. Published in 1556, it was illustrated with woodcuts based on on-site drawings by the artist [Basilius Wefring](http://echo.mpiwg-berlin.mpg.de/ECHOdocuView?url=/permanent/archimedes_repository/large/agric_remet_002_en/index.meta&amp;tocMode=concordance&amp;pn=19).",
+            "number": 1
+        },
+        {
+            "type": "editorial-intro-paragraph",
+            "content": "For contemporary artist Justin Berry, the most fascinating features of the book are these woodcuts and the multiple levels on which they operate. Like all drawings from observation, they reveal more than they intend. Though their overt purpose is to show the mechanisms and implements of the mining process, they also show the world around those objects, such as the ground ripped open, the trees cut down, and the refuse of the mining process running off into the waterways.",
+            "number": 2
+        },
+        {
+            "type": "editorial-intro-paragraph",
+            "content": "By making the original subject of these drawings—human intervention—vanish, Justin Berry creates a new illustration, which focuses on the landscape itself. We see a scene that appears to be the aftermath of a battle or the site of some natural catastrophe. Though in truth it is neither, perhaps in some ways it is both.",
+            "number": 3
+        },
+        {
+            "type": "alt-voice-paragraph",
+            "content": "We have included one of the original illustrations by way of example, followed by Berry’s series of illustrations in which the human presence has vanished. For a more interactive comparison, please [visit our online version](http://theappendix.net/issues/2014/1/de-re-metallica).",
+            "number": 4
+        },
+        {
+            "type": "major-divider"
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/801/***/p040_orig2400.jpg",
+            "no-border": true,
+            "fullpage": true
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/802/***/p040_clean2400.jpg",
+            "no-border": true,
+            "fullpage": true
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/811/***/p045_clean2400.jpg",
+            "no-border": true,
+            "fullpage": true
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/804/***/p318_clean2400.jpg",
+            "no-border": true,
+            "fullpage": true
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/805/***/p334_clean2400.jpg",
+            "no-border": true,
+            "fullpage": true
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/806/***/p054_clean2400.jpg",
+            "no-border": true,
+            "fullpage": true
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/807/***/p346_clean2400.jpg",
+            "no-border": true,
+            "fullpage": true
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/810/***/p073_clean2400.jpg",
+            "no-border": true,
+            "fullpage": true
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/809/***/p347_clean2400.jpg",
+            "no-border": true,
+            "fullpage": true
+        }
+    ]
+}

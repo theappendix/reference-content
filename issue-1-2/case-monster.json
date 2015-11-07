@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "title": "Showing His Monster",
+        "author": [
+            "Susana H. Case"
+        ],
+        "position": 10,
+        "short-reference": "case-monster",
+        "summary": "“The twin never opened his eyes, or closed his drooling halitosis.” A poem from Susana H. Case on human nature, doppelgangers, and seventeenth century monstrosity in Italy."
+    },
+    "content": [
+        {
+            "type": "paragraph",
+            "content": "Lazarus Colloredo of Genoa<br />\nhad a conjoined twin,<br />\n_Monstrum novissimum_,<br />\na human Janus<br />\nhidden under his cloak,<br />\nwhose torso, head and left leg<br />\ndangled from the belly",
+            "number": 1
+        },
+        {
+            "type": "paragraph",
+            "content": "of the mobile Lazarus.<br />\nThe sins of the mother,<br />\nseventeenth century belief—<br />\nparasitic hydrocephalic, flesh<br />\nand blood doppelgänger.<br />\nThe twin never opened his eyes,<br />\nor closed his drooling halitosis.",
+            "number": 2
+        },
+        {
+            "type": "paragraph",
+            "content": "Lazarus married, had children.<br />\nBy all accounts, his wife<br />\nwas happy, learned to love him.<br />\nAudiences paid to see and pinch<br />\nthe twin, Joannes Baptista,<br />\nto hear him peep.<br />\nShowing made them rich.",
+            "number": 3
+        },
+        {
+            "type": "paragraph",
+            "content": "They visited Paris,<br />\nthe court of Charles the First.<br />\nIn a bar, Lazarus killed<br />\na teasing man, was reprieved<br />\nto save his innocent brother,<br />\nthe echo, the contained<br />\nmonster-twin of every man.   ",
+            "number": 4
+        },
+        {
+            "type": "major-divider"
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/233/***/Case2.jpg",
+            "alt": "Arcimboldo",
+            "caption": "Giuseppe Arcimboldo, _Water_, 1566, Kunsthistorisches Museum Vienna, Austria (detail).",
+            "credit": "Wikimedia Commons"
+        }
+    ],
+    "supernotes": {}
+}

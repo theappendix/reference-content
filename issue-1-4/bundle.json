@@ -1,0 +1,118 @@
+{
+    "bundle-version": 2,
+    "volume": 1,
+    "number": 4,
+    "month": 10,
+    "year": 2013,
+    "title": "Off the Map",
+    "chaptered": false,
+    "articles": [
+        "ashton_hepworth-fugitive",
+        "breen-made_in_taiwan",
+        "brownell-cropped_out",
+        "cannon-appendixed",
+        "carney-silence",
+        "editorial-letter",
+        "fibiger-off_the_record",
+        "heaney-DoS3",
+        "heaney-march_interview",
+        "inoue-karaoke",
+        "koretzky-white_nights",
+        "letters_to_the_editor",
+        "mandelkern-turtle_feast",
+        "march-excerpt",
+        "mundy-cempoala",
+        "noble-animal_kingdoms",
+        "odle-tattoo",
+        "ron-golden_likeness",
+        "scranton-melville",
+        "shelton-feet_first",
+        "whitaker-proto_spam"
+    ],
+    "contributors": [
+        "susanna-ashton",
+        "andrew-aydin",
+        "benjamin-breen",
+        "emily-brownell",
+        "kevin-cannon",
+        "hannah-carney",
+        "mattias-fibiger",
+        "robert-scott-field",
+        "christopher-heaney",
+        "jonathan-hepworth",
+        "daisuke-inoue",
+        "maya-koretzky",
+        "john-lewis",
+        "india-mandelkern",
+        "barbara-mundy",
+        "katherine-noble",
+        "mairin-odle",
+        "nate-powell",
+        "ariel-ron",
+        "roy-scranton",
+        "kyle-shelton",
+        "robert-whitaker"
+    ],
+    "staff-roles": [
+        {
+            "role": "Editor-in-Chief",
+            "staff": [
+                "Christopher Heaney"
+            ]
+        },
+        {
+            "role": "Executive Editor",
+            "staff": [
+                "Benjamin Breen"
+            ]
+        },
+        {
+            "role": "Managing Editor",
+            "staff": [
+                "Felipe Fernandes Cruz"
+            ]
+        },
+        {
+            "role": "Publisher",
+            "staff": [
+                "Brian Jones"
+            ]
+        },
+        {
+            "role": "Editor",
+            "staff": [
+                "Amy Kohout"
+            ]
+        },
+        {
+            "role": "Local History Editor",
+            "staff": [
+                "Hannah Carney"
+            ]
+        },
+        {
+            "role": "Copy Editors",
+            "staff": [
+                "J.R. Jones",
+                "Andrea Kinnison",
+                "Shannon Nagy"
+            ]
+        },
+        {
+            "role": "Design and Layout",
+            "staff": [
+                "Benjamin Breen",
+                "Brian Jones"
+            ]
+        },
+        {
+            "role": "Founders",
+            "staff": [
+                "Benjamin Breen",
+                "Felipe Fernandes Cruz",
+                "Christopher Heaney",
+                "Brian Jones"
+            ]
+        }
+    ]
+}

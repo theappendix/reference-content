@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "title": "<i>There’s a Starman / Waiting in the Sky</i>: Yuri Gagarin sings!",
+        "author": [
+            "Kevin Cannon",
+            "Christopher Heaney"
+        ],
+        "position": 8,
+        "chapter": 3,
+        "short-reference": "cannon-gagarin"
+    },
+    "content": [{
+        "type": "paragraph",
+        "content": "What to hum to the cosmos? Surrounded by uncaring vacuum, what to whistle in the dark?",
+        "number": 1
+    }, {
+        "type": "paragraph",
+        "content": "Yuri Gagarin, the first man in space, had time to decide. On April 12, 1961, while waiting on the launch pad in Kazakhstan to take off for his pioneering orbit around Earth in the spacecraft Vostok—depicted wonderfully in this issue’s carto-biography by Kevin Cannon—the twenty-seven year-old learned that a minor problem had caused a six-minute delay. His cosmonaut comrade Pavel Popovich worried Gagarin might get restless during the wait; during his pre-flight medical exam Yuri had been pale and quiet, and had sometimes started humming songs. To keep him from getting “bored,” Popovich went to see about piping some music over the radio. A few minutes later, Sergei Korolev, the father of the Soviet Union’s space program, asked if Gagarin could hear it.",
+        "number": 2
+    }, {
+        "type": "paragraph",
+        "content": "“Nothing yet,” Gagarin replied.",
+        "number": 3
+    }, {
+        "type": "paragraph",
+        "content": "“Of course, that’s the way musicians are,” said Korolev. “Now they’re here, now they’re there, but they don’t do anything fast, as the saying goes, Yuri Alekseyevich.”",
+        "number": 4
+    }, {
+        "type": "paragraph",
+        "content": "On came the music.",
+        "number": 5
+    }, {
+        "type": "paragraph",
+        "content": "“Oh, now they’ve done it,” Gagarin said. “They gave me love songs.”",
+        "number": 6
+    }, {
+        "type": "paragraph",
+        "content": "“A love song? Good choice, I’d say, Yuri.”",
+        "number": 7
+    }, {
+        "type": "paragraph",
+        "content": "Popovich came back on the line. “Yuri, they gave you the music, right?”",
+        "number": 8
+    }, {
+        "type": "paragraph",
+        "content": "“They gave me the music, all is well.”",
+        "number": 9
+    }, {
+        "type": "paragraph",
+        "content": "“Well, well, now you won’t be so bored.”",
+        "number": 10
+    }, {
+        "type": "paragraph",
+        "content": "Half an hour passed. Gagarin stayed cheerful. He kept his heart rate at sixty-four beats per minute. The music was presumably cut by the time mission control told him to turn his volume up to loud. As 0906 hours turned to 0907 hours, in kicked the ignition.",
+        "number": 11
+    }, {
+        "type": "paragraph",
+        "content": "“POYEKHALI!” Gagarin shouted. _Off we go!_",
+        "number": 12
+    }, {
+        "type": "paragraph",
+        "content": "Humanity, shaking hands with the cosmos. Weightlessness, before Kubrick’s 2001 made Strauss’s ‘Blue Danube Waltz’ its soundtrack. Gagarin, the first man to see two dawns on one day.",
+        "number": 13
+    }, {
+        "type": "paragraph",
+        "content": "The flight lasted 108 minutes. For ten of them near the end, the capsule failed to separate from the instrument module, and Gagarin spun on three axes. The capsule separated, righted, and flames began to lick its sides. It was then, perhaps, that Gagarin began to sing or whistle—or so he later told Nikita Khruschev—a tune by Dmitri Shostakovich.",
+        "number": 14
+    }, {
+        "type": "paragraph",
+        "content": "“_The Motherland hears, the Motherland knows/Where her son flies in the sky!_”",
+        "number": 15
+    }, {
+        "type": "paragraph",
+        "content": "Seven kilometers above the ground, Gagarin was ejected from the spacecraft, presumably no longer singing. He landed in Siberia, assured a farmer and her daughter that he too was a Soviet, and went to find a phone to call Moscow.",
+        "number": 16
+    }, {
+        "type": "paragraph",
+        "content": "Back home, Yuri’s sister Zoya waited nervously for reports on the radio. The cheerful patriotic music stopped, and it was announced that Gagarin had been enrolled in the Komsomol Central Committee Roll of Honour. Zoya thought it was a prelude to announcing his death.",
+        "number": 17
+    }, {
+        "type": "paragraph",
+        "content": "It was not. That moment would come seven years in the future, during a training accident.  When the music returned in 1961, Zoya took heart that Yuri was safe. ",
+        "number": 18
+    }, {
+        "type": "major-divider"
+    }, {
+        "type": "image",
+        "url-format": "/000/001/471/***/cannon-web.jpg",
+        "alt": "The map of Gagarin’s flight",
+        "credit": "Kevin Cannon, 2014",
+        "full-page": true
+    }],
+    "supernotes": {
+        "2": {
+            "citation": [
+                "“[Celebrating a Star: 50 years since Gagarin’s Spaceflight](http://rt.com/news/gagarin-space-anniversary-history/),” RT.com, 12 April 2011. Accessed 27 June 2014."
+            ]
+        },
+        "10": {
+            "commentary": [
+                "The above exchange draws from three translations: this awkwardly translated transcript of the launch; Asif A. Siddiq,  _Challenge to Apollo: The Soviet Union and the Space Race, 1945-1974_ (Washington, D.C.: Nasa History Division, 2000), 276, and Jamie Doran and Piers Bizony, _Starman: The Truth Behind the Legend of Yuri Gagarin_ (New York: Walker &amp; Company, 2011), 101. Some [space historians](http://www.npr.org/blogs/krulwich/2011/05/03/135919389/a-cosmonauts-fiery-death-retold) have raised red flags about some aspects of _Starman_, particularly its reliance on one ex-KGB source, but for this sequence—and the sequence of events rendered in Kevin Cannon’s narrative—it flies."
+            ]
+        }
+    }
+}

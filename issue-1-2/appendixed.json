@@ -1,0 +1,246 @@
+{
+    "metadata": {
+        "title": "_The Appendix_, Appendixed.",
+        "author": [
+            "Benjamin Breen"
+        ],
+        "short-reference": "appendixed.json",
+        "position": 25,
+        "summary": "On the occasion of developing an index for <i>The Appendix</i>, its editors take a tour of past  attempts to catalogue the universe, letting Borges, Descartes, and others be their guide."
+    },
+    "content": [
+        {
+            "type": "image",
+            "url-format": "/000/000/542/***/Appendixed1.jpg",
+            "alt": "",
+            "caption": "Detail from Giuseppe Arcimboldo, _The Librarian_, 1566.",
+            "credit": "Wikimedia Commons"
+        },
+        {
+            "type": "blockquote",
+            "content": "The Universe (which others call the Library) is composed of an indefinite perhaps infinite number of hexagonal galleries…When it was announced that the Library contained all books, the first reaction was unbounded joy. All men felt themselves to be possessors of an intact and secret treasure. There was no personal problem, no world problem, whose eloquent solution did not exist—somewhere in some hexagon. The universe was justified; the universe suddenly became congruent with the unlimited width and breadth of humankind’s hope.-Jorge Luis Borges",
+            "number": 1
+        },
+        {
+            "type": "paragraph",
+            "content": "How do we order what we’ve learned of the world?",
+            "number": 2
+        },
+        {
+            "type": "paragraph",
+            "content": "In her book _Too Much to Know: Managing Scholarly Information before the Modern World_ Anne Blair observes that the “Information Age” is of not-so-recent vintage. By the sixteenth century, an explosion of printed material in Europe had begun to challenge the polymathic instincts of medieval scholarship. It was no longer possible to read every book. (The polymath Athasius Kircher, born at the century’s close, may indeed have been “the last man who knew everything.”)",
+            "number": 3
+        },
+        {
+            "type": "paragraph",
+            "content": "René Descartes was among the first to diagnose the problem faced by readers of his generation:",
+            "number": 4
+        },
+        {
+            "type": "blockquote",
+            "content": "Even if all knowledge could be found in books, where it is mixed in with so many useless things and confusingly heaped in such large volumes, it would take longer to read those books than we have to live in this life and more effort to select the useful things than to find them oneself.",
+            "number": 5
+        },
+        {
+            "type": "paragraph",
+            "content": "Descartes, with characteristic sass, decided that it was better to throw out books and start from scratch than to spend a lifetime poring through them.",
+            "number": 6
+        },
+        {
+            "type": "minor-divider"
+        },
+        {
+            "type": "paragraph",
+            "content": "Jorge Luis Borges reached a different conclusion. In 1941, he imagined a “Library of Babel” that contained every book that could possibly exist: histories of the future, “autobiographies of archangels,” lost gnostic gospels, “the treatise Bede could have written (but did not)” even “the true story of your death.” And dwarfing all of these works, Borges envisioned a universe-worth of endless nonsense, jumbled texts without coherence. A book that repeats the letters M C and V over and over. A book of utter gibberish surrounding one phrase at its center: “O Time thy pyramids.”",
+            "number": 7
+        },
+        {
+            "type": "paragraph",
+            "content": "Although the library initially seems to be a blessing to humankind, it breeds violence and madness: “thousands of greedy individuals abandoned their sweet native hexagons,” writes Borges. “These pilgrims squabbled in the narrow corridors, muttered dark imprecations, strangled one another on the divine staircases, threw deceiving volumes down ventilation shafts.”",
+            "number": 8
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/543/***/appendixed2.jpg",
+            "alt": "",
+            "caption": "“The Long Library” at Trinity College Library, Dublin, Ireland.",
+            "credit": "Nic McPhee ([Flickr](http://flickr.com/photos/nicmcphee))"
+        },
+        {
+            "type": "paragraph",
+            "content": "The problem was this: although, somewhere in the endless branching hexagons of books there existed a “faithful catalog of the Library,” no one knew its location. Nor, even were it to be found, could the true index to the library’s contents be reliably distinguished from the “thousands of false catalogs.” As law professor James Grimmelman notes, Borges’s Library of Babel is “a pure and perfect example of information overload.”",
+            "number": 9
+        },
+        {
+            "type": "paragraph",
+            "content": "For Borges the librarian, the problem wasn’t too many books, or too large an accumulation of data, but not having a good index.",
+            "number": 10
+        },
+        {
+            "type": "paragraph",
+            "content": "On the occasion of attempting an index for our own articles, we at _The Appendix_ grappled with the problem presented by Borges’s library. To paraphrase Carl Sagan, “If you wish to make an index from scratch, you must first invent the universe.”",
+            "number": 11
+        },
+        {
+            "type": "paragraph",
+            "content": "Indexing isn’t just about recording what belongs in which category, dryly quantifying and tabulating like the Charles Dickens tutor Gradgrind, who insists that his students define a horse thusly:",
+            "number": 12
+        },
+        {
+            "type": "blockquote",
+            "content": "Quadruped. Graminivorous. Forty teeth, namely twenty-four grinders, four eye-teeth, and twelve incisive. Sheds coat in the spring; in marshy countries, sheds hoofs, too. Hoofs hard, but requiring to be shod with iron. Age known by marks in mouth.",
+            "number": 13
+        },
+        {
+            "type": "paragraph",
+            "content": "Creating an index can be a work of imagination, a creative act. In deciding precisely what an object is, we also make an incremental step toward constructing our own mental universe, and the universes of those who interact with us.",
+            "number": 14
+        },
+        {
+            "type": "paragraph",
+            "content": "Granted, the poetic nature of the index is not much in evidence nowadays. They run pretty dry in the twenty-first century, usually consisting of little more than a list of proper names and common nouns.",
+            "number": 15
+        },
+        {
+            "type": "paragraph",
+            "content": "In the early decades of their existence, however, indices were quite a bit weirder. The “General Index” to William Dampier’s 1697 _Voyages_ distinguished between “Bells, musical, struck upon, 342” and “Bells, with claws, worshipt, 411.” It classified both scorpions and tea as drugs, and contained individual entries for things like “Dew at night where it never rains” and “Burying alive, where and why.” Dampier’s index even contained miniature narratives: the entry for ‘Night’ continued on with “Singing and Dancing then usual,” “Fires then seen,” and “Drum heard.”",
+            "number": 16
+        },
+        {
+            "type": "paragraph",
+            "content": "Likewise, the sheer exuberance of early modern attempts to categorize and index exhibit a sort of poetic approach to understanding life. The title page of Rafael Bluteau’s 1712 _Dictionario Portuguez e Latino_ promised readers an almost surreal array of conceptual categories. There were the familiar “Economic,” “Qualitative,” “Mathematic,” but also “Dogmatic,” “Fruit-related,” “Xenophonic” and “Quidditative” categories of words.",
+            "number": 17
+        },
+        {
+            "type": "paragraph",
+            "content": "It puts one in mind of _The Celestial Emporium of Benevolent Knowledge_, a faux Chinese text invented by Borges which divides animals into:",
+            "number": 18
+        },
+        {
+            "type": "paragraph",
+            "content": "**a)** those that belong to the emperor<br />\n**b)** embalmed ones<br />\n**c)** those that are trained<br />\n**d)** suckling pigs<br />\n**e)** mermaids<br />\n**f)** fabulous ones<br />\n**g)** stray dogs<br />\n**h)** those that are included in this classification<br />\n**i)** those that tremble as if they were mad<br />\n**j)** innumerable ones<br />\n**k)** those drawn with a very fine camel’s—hair brush<br />\n**l)** etcetera<br />\n**m)** those that have just broken the flower vase<br />\n**n)** those that at a distance resemble flies",
+            "number": 19
+        },
+        {
+            "type": "paragraph",
+            "content": "This poetic approach to indexing is the one that has inspired us at _The Appendix_. Since the web is always text searchable, there’s less need for a guide that lists every proper name or noun. But there is a place for a system that gets more creative. Below are some selections from _The Appendix_’s new index, which will debut online in the summer of 2013.",
+            "number": 20
+        },
+        {
+            "type": "major-header",
+            "content": "Index Entries"
+        },
+        {
+            "type": "alt-voice-paragraph",
+            "content": "Bald eagle, giddiness induced by really touching one (_Haliaeetus leucocephalus_, [paragraph 2](kohout-eagle.xhtml#paragraph-2)).",
+            "number": 21
+        },
+        {
+            "type": "paragraph",
+            "content": "Banditry, and assorted misdeeds (_Fourth Skull_, [paragraphs 47-51](walsh-skulls.xhtml#paragraph-47)); with a heroic end (_Fourth Skull_, [paragraph 53](walsh-skulls.xhtml#paragraph-53)).",
+            "number": 22
+        },
+        {
+            "type": "paragraph",
+            "content": "Dwarves, baked into pies (_Jepp, Who Defied the Stars_, [paragraph 51](marsh-jepp.xhtml#paragraph-51)); sharing sleeping quarters with a moose (Jepp, Who Defied the Stars, [paragraph 106](marsh-jepp.xhtml#paragraph-106)).",
+            "number": 23
+        },
+        {
+            "type": "paragraph",
+            "content": "_Fakirs_, strolling, in Civil War era New York (reminiscence of) (_Letters to the Editor_, [paragraph 5](letters-to-the-editors.xhtml#paragraph-5)).",
+            "number": 24
+        },
+        {
+            "type": "paragraph",
+            "content": "Ghosts, hungry ones (_Women in Green_, [paragraph 34](greene-china_ghost.xhtml#paragraph-34)); of words (_Phantom Punch_, [paragraph 72](post-phantom_punch.xhtml#paragraph-72)) See HALLUCINATIONS.",
+            "number": 25
+        },
+        {
+            "type": "paragraph",
+            "content": "Gramophone, pedantic instructions regarding use (_Letters to the Editor_, [paragraph 10](letters-to-the-editors.xhtml#paragraph-10)).",
+            "number": 26
+        },
+        {
+            "type": "paragraph",
+            "content": "Hallucinations, induced in the mind of a young Oliver Sacks by morphine (_Letter from the Editors_, [paragraph 1](letters-to-the-editors.xhtml#paragraph-1)); caused by sailors’ encounter with far-northern climes (_Spectral Passages_, [paragraph 22](hunter-nw_passage.xhtml#paragraph-22)).",
+            "number": 27
+        },
+        {
+            "type": "paragraph",
+            "content": "Laughter, of recognition (_Interview_, [paragraph 47](jsd-interview.xhtml#paragraph-47)); making a terrible stammer even worse (_Woman Filing Her Nails_, [paragraph 11](bogaerts-woman.xhtml#paragraph-11)); by Hollywood studio executives at the character of “Highpockets, a shiftless layabout” (_Phantom Punch_, [paragraph 10](post-phantom_punch.xhtml#paragraph-10)).",
+            "number": 28
+        },
+        {
+            "type": "paragraph",
+            "content": "Legerdemain, wonderful feats of (_Letters to the Editor_, [paragraph 5](letters-to-the-editors.xhtml#paragraph-5)); exposed to view (_Levitation_, [panel 7](ottaviani-levitation.xhtml)). See FAKIRS.",
+            "number": 29
+        },
+        {
+            "type": "paragraph",
+            "content": "Magic, interpenetration with religion (_Bespelled_, [paragraphs 8-9](smith-bespelled.xhtml#paragraph-8)).",
+            "number": 30
+        },
+        {
+            "type": "paragraph",
+            "content": "Man-bats, hypothetical existence on the surface of the moon (_The Hoaxers_, [paragraphs 39-44](heaney-hoaxers.xhtml#paragraph-39)). See MOON.",
+            "number": 31
+        },
+        {
+            "type": "paragraph",
+            "content": "Maps, contradictory navigation (_Spectral Passages_, [paragraph 25](hunter-nw_passage.xhtml#paragraph-25)); fictitious land mass (_Spectral Passages_, [paragraph 26](hunter-nw_passage.xhtml#paragraph-26)); and the magnetic North Pole (_Spectral Passages_, [paragraph 27](hunter-nw_passage.xhtml#paragraph-27)).",
+            "number": 32
+        },
+        {
+            "type": "paragraph",
+            "content": "Moon, hypothetical collision with earth leading to destruction of Atlantis (_Andean Atlantis_, [paragraph 24](gildner-atlantis.xhtml#paragraph-24)).",
+            "number": 33
+        },
+        {
+            "type": "paragraph",
+            "content": "Nahuas, in Paris (_Fourth Skull_, [paragraphs 16-26](walsh-skulls.xhtml#paragraph-16)).",
+            "number": 34
+        },
+        {
+            "type": "paragraph",
+            "content": "Ornate Fruitdove, resemblance of its cries to the weeping of men and women (_Anthropology, Footnoted_, [paragraph 23](golub-diamond.xhtml#paragraph-23)).",
+            "number": 35
+        },
+        {
+            "type": "paragraph",
+            "content": "Sailors, enslaved in Tunisia (_The Many Lives of Ned Coxere_, [paragraph 5](harasemovitch-coxere.xhtml#paragraph-5)); their tendency toward mutiny (_Spectral Passages_, [paragraph 32](hunter-nw_passage.xhtml#paragraph-32)); their confidence regarding sighting of mermaids (_Spectral Passages_, [paragraph 32](hunter-nw_passage.xhtml#paragraph-32)); stealing money from the captain (_Lieutenant Nun_, [paragraph 19](stepto-lieutenant_nun.xhtml#paragraph-19)).",
+            "number": 36
+        },
+        {
+            "type": "paragraph",
+            "content": "Skulls, drilled vertically, not horizontally as in Aztec temple racks (_Fourth Skull_, [paragraph 22](walsh-skulls.xhtml#paragraph-22)).",
+            "number": 37
+        },
+        {
+            "type": "paragraph",
+            "content": "Twins, conjoined (_Showing His Monster_, [passim](case-monster.xhtml)).",
+            "number": 38
+        },
+        {
+            "type": "paragraph",
+            "content": "Women, cross-dressing and seducing other women (_Lieutenant Nun_, [paragraph 19](stepto-lieutenant_nun.xhtml#paragraph-19)); giving birth to rabbits (_Mother Machine_, [paragraph 4](schillace-mechanical_mother.xhtml#paragraph-4)); vanishing in store display (_The Lady Vanishes_, [paragraph 1](reading-lady_vanishes.xhtml#paragraph-1)).",
+            "number": 39
+        }
+   ],
+    "supernotes": {
+        "1": {
+            "commentary": [
+                "Jorge Luis Borges, “The Library of Babel,” originally published in Spanish as _El Jardín de senderos que se bifurcan_ (Buenos Aires, 1941). The story first appeared in English in Jorge Luis Borges, _Labyrinths_ (New Directions, 1962), translated by Donald A. Yates."
+            ]
+        },
+        "3": {
+            "commentary": [
+                "As James Delbourgo notes in his review of Blair’s book, the concept of the review itself is a seventeenth-century invention. The physiologist Albrecht von Haller claimed to have written 9,000 of them, averaging 290 books a year. He died in 1777 with many thousands left to go."
+            ]
+        },
+        "15": {
+            "commentary": [
+                "With a few exceptions—a special shout out is in order for Carla Nappi’s _The Monkey and the Inkpot_, that rare scholarly book which contains an index entry for “human flesh.”"
+            ]
+        }
+    }
+}

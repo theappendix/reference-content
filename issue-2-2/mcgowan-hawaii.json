@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "title": "Hawaii",
+    "author": [
+      "Jed McGowan"
+    ],
+    "position": 6,
+    "chapter": 3,
+    "short-reference": "mcgowan-hawaii"
+  },
+  "content": [
+    {
+      "type": "image",
+      "url-format": "/000/001/269/***/hawaii_1.jpg",
+      "alt": "Hawaii",
+      "credit": "Jed McGowan",
+      "no-border": true
+    },
+    {
+      "type": "paragraph",
+      "content": "“There are scenes to which description, and even painting, can do no justice,” [wrote](http://books.google.com/books?id=lnxUAAAAYAAJ&amp;pg=PA366&amp;lpg=PA366&amp;dq=%22scenes+to+which+description,+and+even+painting%22&amp;source=bl&amp;ots=MxTqv-oQOC&amp;sig=cY6MMWF2r2rAQVNoAY8ZteIZrWA&amp;hl=en&amp;sa=X&amp;ei=h2soU-CWMofn0gG444FQ&amp;ved=0CCkQ6AEwAQ) William Ellis from the island of Oahu in 1825, remembering the sublime sight of a volcano. “To behold it without singular and deep emotion, demands a familiarity with the more terrible phenomena of nature which few have the opportunity of acquiring.”",
+      "number": 1
+    },
+    {
+      "type": "paragraph",
+      "content": "In 2014, description and images still don’t do it justice—but they can try. Los Angeles-based artist and animator Jed McGowan, who released the wordless comic “Voyager” last year (you can read our post about it [here](http://theappendix.net/blog/2013/9/history-of-outer-space)), has outdone himself with his second self-release about the formation and eventual destruction of the Hawaiian island chain. “I knew I didn’t want humans in the comic,” McGowan [has said](http://www.comicbookresources.com/?page=article&amp;id=50827) about his take on the _Voyager_ probe, “but I still wanted something that was emotional, with a clear beginning, middle and end.” The same approach is in play here: McGowan offers up a sensitive visual narration of the natural forces that shape a landscape, humanizing a process that is almost inconceivable in its immense temporal and geological scale.",
+      "number": 2
+    },
+    {
+      "type": "paragraph",
+      "content": "McGowan points to the long tradition of story-telling and historical narrative in the physical sciences, and to a lineage of scientific illustrators that stretches back to the [Victorian era](http://theappendix.net/blog/2014/2/st-george-and-the-pterodactyl). For the “Bodies” issue, we decided to highlight the panels from “Hawaii” which visualize the corporeal forms of the earth itself—the vast tectonic plates and oceans of magma that give our planet a corporeal shape and substance. As McGowan shows, even these impersonal forces have stories to tell.",
+      "number": 3
+    },
+    {
+      "type": "anvil-gallery",
+      "images": [
+        {
+          "url-format": "/000/001/270/***/hawaii_2.jpg",
+          "alt": "Hawaii",
+          "credit": "Jed McGowan",
+          "full-page": true
+        },
+        {
+          "url-format": "/000/001/271/***/hawaii_3.jpg",
+          "alt": "Hawaii",
+          "credit": "Jed McGowan",
+          "full-page": true
+        },
+        {
+          "url-format": "/000/001/272/***/hawaii_4.jpg",
+          "alt": "Hawaii",
+          "credit": "Jed McGowan",
+          "full-page": true
+        },
+        {
+          "url-format": "/000/001/273/***/hawaii_5.jpg",
+          "alt": "Hawaii",
+          "credit": "Jed McGowan",
+          "full-page": true
+        },
+        {
+          "url-format": "/000/001/274/***/hawaii_6.jpg",
+          "alt": "Hawaii",
+          "credit": "Jed McGowan",
+          "full-page": true
+        },
+        {
+          "url-format": "/000/001/275/***/hawaii_7.jpg",
+          "alt": "Hawaii",
+          "credit": "Jed McGowan",
+          "full-page": true
+        },
+        {
+          "url-format": "/000/001/276/***/hawaii_8.jpg",
+          "alt": "Hawaii",
+          "credit": "Jed McGowan",
+          "full-page": true
+        }
+      ]
+    },
+    {
+      "type": "alt-voice-paragraph",
+      "content": "View “Hawaii” in full at [McGowan’s personal site](http://www.jedmcgowan.com/).",
+      "number": 4
+    }
+  ]
+}

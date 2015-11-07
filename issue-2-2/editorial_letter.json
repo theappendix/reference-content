@@ -1,0 +1,239 @@
+{
+  "metadata": {
+    "title": "Letter from the Editors: Bodies",
+    "position": 1,
+    "chapter": 1,
+    "short-reference": "editorial_letter"
+  },
+  "content": [
+    {
+      "type": "image",
+      "url-format": "/000/001/195/***/2.2letter.jpg",
+      "alt": "Appendectomy",
+      "caption": "Leonid Rogozov removes his own appendix—”the cursed appendage”—in Antarctica, 1961.",
+      "credit": "Wikimedia Commons"
+    },
+    {
+      "type": "paragraph",
+      "content": "In April of 1961, a twenty-seven year-old surgeon named Leonid Rogozov took a scalpel and sliced open his own abdomen, watching, in a mirror, to make sure that his hand didn’t slip and damage the organs inside. He and eleven other Russians were in Antarctica, in a base beyond the help of any other doctors, and Leonid had been feeling sick for days. It was appendicitis, he had realized, and he needed to operate on himself before that strange, vestigial organ—otherwise ignored—ruptured. Reclining on the operating table, dressed in both surgical mask and patient’s smock, doctor and doctored, he rummaged about in his insides, without gloves, feeling for the inflamed organ, growing weaker and weaker.",
+      "number": 1
+    },
+    {
+      "type": "paragraph",
+      "content": "“Finally, here it is, the cursed appendage!” he later wrote in his journal.",
+      "number": 2
+    },
+    {
+      "type": "blockquote",
+      "content": "With horror I notice the dark stain at its base. That means just a day longer and it would have burst … At the worst moment of removing the appendix I flagged: my heart seized up and noticeably slowed; my hands felt like rubber. Well, I thought it’s going to end badly.",
+      "number": 3
+    },
+    {
+      "type": "paragraph",
+      "content": "It didn’t. Rogozov successfully excised his appendix, lived on, and died in 2000. His journal got a nice swell of [attention](http://www.theatlantic.com/technology/archive/2011/03/antarctica-1961-a-soviet-surgeon-has-to-remove-his-own-appendix/72445/) a few years later, after an article about his auto-appendectomy co-written by his son, Vladislav, appeared in the _[British Medical Journal](http://www.bmj.com/content/339/bmj.b4965)_. We at _The Appendix_ have avoided writing about Leonid’s lost organ until now for obvious reasons—a little too on the nose, yes—but also because we were saving it for this, our long-planned sixth issue, ‘Bodies.’",
+      "number": 4
+    },
+    {
+      "type": "paragraph",
+      "content": "With apologies to Raymond Carver: what do we talk about when we talk about history? Politics? Religion? Economics? Culture? But what about that bright sharp knife pressed—cold, hard—into our own warm skin, and the blood that wells up after?",
+      "number": 5
+    },
+    {
+      "type": "paragraph",
+      "content": "It is very easy for history to untether and float away into abstractions; but it is far harder for it to do so when we remember that history, no matter what, happens to bodies. Not just our own, but those of others, and indeed of other species, bodies of water, planetary bodies, and so on. History itself is a body of knowledge. There’s abstraction here too, but it’s a useful abstraction. It suggests the connectedness of the body being considered: its ability to be born, live, and change. Its sensitivity to foreign objects, and the complexity of the organs it contains—ignored organs, sometimes, that might just go corrupt and provoke the death of the body entire.",
+      "number": 6
+    },
+    {
+      "type": "paragraph",
+      "content": "Bodies. We have them, and we see and make them everywhere we go. As much as we try and divide, and distinguish, we ultimately come back to the core fact that all of us have a heart that, for some short spell of eternity, will pump blood out over our skin and into the world.",
+      "number": 7
+    },
+    {
+      "type": "major-divider"
+    },
+    {
+      "type": "image",
+      "url-format": "/000/001/196/***/2.2letter2.jpg",
+      "alt": "Man As Industrial Palace",
+      "caption": "A Persian version of Fritz Kahn’s famous “Man as Industrial Palace” image from 1967.",
+      "credit": "<a href=\"http://machinatorium.wordpress.com\">Machinatorium</a>"
+    },
+    {
+      "type": "major-header",
+      "content": "Chapter One: Human Bodies"
+    },
+    {
+      "type": "paragraph",
+      "content": "Bodies in the world of classical antiquity, [writes](http://books.google.com/books?id=gIDeAhZG9a4C&amp;lpg=PA17&amp;dq=little%20fiery%20universes%2C%20through%20whose%20heart%2C%20brain&amp;pg=PA17#v=onepage&amp;q&amp;f=false) Peter Brown, were “little fiery universes, through whose heart, brain and veins there pulsed the same heat and vital spirit as glowed in the stars.” The microcosm of the human frame mirrored the macrocosm of the universe. But this tidy of the conception of the body hides the complexity of what it means to be a physical being: as the eight pieces in chapter one of this issue explore, every human culture and epoch has embodied itself in different ways, from [**preserved hearts**](#1) to [**barbered beards**](#2), and from [**Panamanian blood-letting**](#3) to [**Pennsylvania mugshots**](#4), [**scurvy sailors**](#5), and [**early modern apothecaries**](#6).",
+      "number": 8,
+      "internal-links": [
+        {
+          "token": "#1",
+          "web": "http://theappendix.net/issues/2014/4/the-aviators-heart",
+          "epub": "cruz-heart.xhtml",
+          "chapter": 1
+        },
+        {
+          "token": "#2",
+          "web": "http://theappendix.net/issues/2014/4/abe-lincolns-whiskers",
+          "epub": "trainor-beard.xhtml",
+          "chapter": 1
+        },
+        {
+          "token": "#3",
+          "web": "http://theappendix.net/issues/2014/4/a-pirate-surgeon-in-panama",
+          "epub": "breen-pirate_surgeon.xhtml",
+          "chapter": 1
+        },
+        {
+          "token": "#4",
+          "web": "http://theappendix.net/issues/2014/4/mug-shots-a-small-town-noir",
+          "epub": "mogg-noir.xhtml",
+          "chapter": 1
+        },
+        {
+          "token": "#5",
+          "web": "http://theappendix.net/issues/2014/4/terrestriality",
+          "epub": "chaplin-circumnavigation.xhtml",
+          "chapter": 1
+        },
+        {
+          "token": "#6",
+          "web": "http://theappendix.net/issues/2014/4/interpreting-physick-the-familiar-and-foreign-eighteenth-century-body",
+          "epub": "keiter-apothecaries.xhtml",
+          "chapter": 1
+        }
+      ]
+    },
+    {
+      "type": "major-header",
+      "content": "Chapter Two: Bodies on Display"
+    },
+    {
+      "type": "paragraph",
+      "content": "When the South Asian ruler Tipu Sultan commissioned a pipe organ in the shape of a tiger mauling an Englishman, what precisely was he doing? That’s the question posed in “[**Robot of Jihad**](#1),” but it also informs the other pieces in this chapter. From [**extinct species given new life**](#2) to [**cuts of meat in an icebox**](#3) and [**the skulls in a museum**](#4), bodies on display speak a language of their own. They can be [**assertions of will**](#5), or [**threats of violence**](#6). And the [**memory of their display**](#7) often outlives the bodies themselves.",
+      "number": 9,
+      "internal-links": [
+        {
+          "token": "#1",
+          "web": "http://theappendix.net/issues/2014/4/robot-of-jihad-a-guide-to-tipus-tiger",
+          "epub": "smith-tiger.xhtml",
+          "chapter": 2
+        },
+        {
+          "token": "#2",
+          "web": "http://theappendix.net/issues/2014/4/ditsongs-dioramas-putting-a-body-on-a-fossil-and-a-fossil-in-a-narrative",
+          "epub": "pyne-ditsong.xhtml",
+          "chapter": 2
+        },
+        {
+          "token": "#3",
+          "web": "http://theappendix.net/issues/2014/4/flesh-made-wood-the-invention-of-artificial-refrigeration",
+          "epub": "woods-refrigeration.xhtml",
+          "chapter": 2
+        },
+        {
+          "token": "#4",
+          "web": "http://theappendix.net/issues/2014/4/mozarts-skull-the-hyrtl-skull-collection-at-the-college-of-physicians-of-philadelphia",
+          "epub": "open_source-hyrtl.xhtml",
+          "chapter": 2
+        },
+        {
+          "token": "#5",
+          "web": "http://theappendix.net/issues/2014/4/on-looking-friendship-and-the-new-haven-green",
+          "epub": "schwartz-new_haven.xhtml",
+          "chapter": 2
+        },
+        {
+          "token": "#6",
+          "web": "http://theappendix.net/issues/2014/4/elegy-and-effigy",
+          "epub": "crabtree-elegy.xhtml",
+          "chapter": 2
+        },
+        {
+          "token": "#7",
+          "web": "http://theappendix.net/issues/2014/4/el-nanigo-spirit-dancer-of-afro-cuba",
+          "epub": "rodriguez-nanigo.xhtml",
+          "chapter": 2
+        }
+      ]
+    },
+    {
+      "type": "major-header",
+      "content": "Chapter Three: Foreign Bodies"
+    },
+    {
+      "type": "paragraph",
+      "content": "Bodies, by their very nature, occupy a liminal space between the inner world of the mind and the external cosmos. They are gatekeepers, fighting off [**fevers**](#1), negotiating linkages between [**mother and child**](#2), or transmitting the [**sensory world**](#3) to the brain. Yet there are other kinds of foreign bodies: in the realm of religion, we envision [**mystical resonances**](#4) between bodies at a distance, and in bodies of water we search for [**unfamiliar creatures**](#5). Beyond our sublunary sphere, [**cosmic bodies**](#6) survey it all, forever out of reach.",
+      "number": 10,
+      "internal-links": [
+        {
+          "token": "#1",
+          "web": "http://theappendix.net/issues/2014/4/fever-to-tell-interactive-storytelling-online-and-philadelphias-yellow-fever-outbreak",
+          "epub": "ponce-qa.xhtml",
+          "chapter": 3
+        },
+        {
+          "token": "#2",
+          "web": "http://theappendix.net/issues/2014/4/angelicas-baby-pregnancy-narratives-in-twentieth-century-rio-de-janeiro",
+          "epub": "roth-pregnancies.xhtml",
+          "chapter": 3
+        },
+        {
+          "token": "#3",
+          "web": "http://theappendix.net/issues/2014/4/victorian-occultism-and-the-art-of-synesthesia",
+          "epub": "breen-synesthesia.xhtml",
+          "chapter": 3
+        },
+        {
+          "token": "#4",
+          "web": "http://theappendix.net/issues/2014/4/the-history-of-mana-how-an-austronesian-concept-became-a-video-game-mechanic",
+          "epub": "golub-mana.xhtml",
+          "chapter": 3
+        },
+        {
+          "token": "#5",
+          "web": "http://theappendix.net/issues/2014/4/where-be-monsters-daedalus-sea-serpent-and-war-for-credibility",
+          "epub": "willis-sea_monsters.xhtml",
+          "chapter": 3
+        },
+        {
+          "token": "#6",
+          "web": "http://theappendix.net/issues/2014/4/letters-to-the-editor-bodies",
+          "epub": "letters.xhtml",
+          "chapter": 3
+        }
+      ]
+    },
+    {
+      "type": "major-divider"
+    },
+    {
+      "type": "image",
+      "url-format": "/000/001/197/***/2.2letter3.jpg",
+      "alt": "Saturn",
+      "caption": "A recent NASA image of a storm on Saturn.",
+      "credit": "NASA"
+    },
+    {
+      "type": "paragraph",
+      "content": "“What it is like to be a human being, or a bat, or a Martian?” the philosopher Thomas Nagel famously [asked](http://organizations.utep.edu/portals/1475/nagel_bat.pdf) in 1974. His conclusion? Every experience of selfhood is based on “facts that embody a particular point of view.” To have a body, to inhabit it, to experience reality through it, is the core of our consciousness—what makes an experience _ours_, and not someone else’s. Our bodies both instruct and construct us.",
+      "number": 11
+    },
+    {
+      "type": "paragraph",
+      "content": "Here’s hoping that the body of work in this issue does the same.",
+      "number": 12
+    },
+    {
+      "type": "paragraph",
+      "content": "Your Appendix editors,",
+      "number": 13
+    },
+    {
+      "type": "paragraph",
+      "content": "Benjamin Breen<br />Felipe Cruz<br />Christopher Heaney<br />Brian Jones<br />Amy Kohout<br />Lydia Pyne",
+      "number": 14
+    }
+  ]
+}

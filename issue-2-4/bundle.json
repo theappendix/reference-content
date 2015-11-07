@@ -1,0 +1,99 @@
+{
+    "bundle-version": 2,
+    "volume": 2,
+    "number": 4,
+    "month": 10,
+    "year": 2014,
+    "title": "In Motion",
+    "chaptered": true,
+    "chapters": [
+        "People in Motion",
+        "Objects in Motion",
+        "Ideas in Motion"
+    ],
+    "articles": [
+        "parks-bird",
+        "burton-drunkenness",
+        "cohen-earnest",
+        "draper-grave",
+        "pyne-fire",
+        "reid-clown",
+        "jack-teeth",
+        "edwards-guillotine",
+        "pyne-russia",
+        "capistran-california",
+        "breen-gemstone",
+        "keller-family",
+        "cunningham-review",
+        "lehman-rapids",
+        "blair-rodin",
+        "weinberg-view",
+        "bassi-between",
+        "lerer-hawaii",
+        "cruz-balloons",
+        "editorial-letter",
+        "wazer-sanitation"
+    ],
+    "contributors": [
+        "cara-parks",
+        "kristen-burton",
+        "br-cohen",
+        "mary-draper",
+        "steve-pyne",
+        "darren-reid",
+        "caroline-jack",
+        "stephanie-steinhardt",
+        "stassa-edwards",
+        "lydia-pyne",
+        "maria-capistran",
+        "benjamin-breen",
+        "kevin-keller",
+        "maura-cunningham",
+        "kathryn-lehman",
+        "anna-blair",
+        "elizabeth-weinberg",
+        "ernesto-bassi",
+        "david-lerer",
+        "felipe-cruz",
+        "caroline-wazer"
+    ],
+    "staff-roles": [{
+        "role": "Editor-in-Chief",
+        "staff": [
+            "Benjamin Breen"
+        ]
+    }, {
+        "role": "Editors",
+        "staff": [
+            "Christopher Heaney",
+            "Amy Kohout"
+        ]
+    }, {
+        "role": "Managing Editor",
+        "staff": [
+            "Felipe Fernandes Cruz"
+        ]
+    }, {
+        "role": "Publisher",
+        "staff": [
+            "Brian Jones"
+        ]
+    }, {
+        "role": "Contributing Editors",
+        "staff": [
+            "Marissa Nicosia",
+            "Lydia Pyne"
+        ]
+    }, {
+        "role": "Assistant Managing Editor",
+        "staff": [
+            "Andrea Kinnison"
+        ]
+    }, {
+        "role": "Copy Editors",
+        "staff": [
+            "J.R. Jones",
+            "Shannon Nagy"
+        ]
+    }]
+}

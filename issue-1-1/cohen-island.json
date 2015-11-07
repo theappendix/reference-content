@@ -1,0 +1,50 @@
+{
+    "metadata": {
+        "title": "“On the Island of Thieves”",
+        "author": [
+            "Andrew Cohen"
+        ],
+        "position": 22,
+        "short-reference": "cohen-island",
+        "summary": "A sixteenth century voyage to southeast Asia ends in shipwreck. Or does it? Andrew Cohen adapts a chapter from <i>The Travels of Fernão Mendes Pinto</i> (1614) into comic book form."
+    },
+    "content": [
+        {
+            "type": "editorial-intro-paragraph",
+            "content": "Andrew Cohen is a comic booker in Washington, DC.  In addition to his self-published projects like Howzit Funnies, he has contributed stories to the Eisner-nominated anthology [_Trickster_](http://www.amazon.com/Trickster-American-Graphic-Collection-Fulcrum/dp/1555917240) and the follow-up anthology [_District Comics_](http://www.amazon.com/District-Comics-Unconventional-History-Washington/dp/1555917518). His most recent work, “Surrealia,” with writer Billy Lopez, appeared in the Fall issue of _Mount Hope_, the literary magazine of Roger Williams University.  More of his work appears on his website, [http://howzitfunnies.blogspot.com](http://howzitfunnies.blogspot.com).",
+            "number": 1
+        },
+        {
+            "type": "editorial-intro-paragraph",
+            "content": "For this first original installment of the Not-So-Funny Pages of _The Appendix_ Andrew illustrated an epic moment from [_The Travels of Fernão Mendes Pinto_](http://books.google.com/books/about/The_Travels_of_Mendes_Pinto.html?id=PRqGfeAwryIC) (1614), a posthumously-published travelogue by a Portuguese merchant, Fernão Mendes Pinto, who sailed throughout the Indian Ocean and South China Sea in the sixteenth century, surviving a series of misfortunes. This was one of them.",
+            "number": 2
+        },
+        {
+            "type": "major-divider"
+        },
+        {
+            "type": "anvil-gallery",
+            "images": [
+                {
+                    "url-format": "/000/000/133/***/island-of-thieves-1.jpg",
+                    "alt": "comics page 1",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "url-format": "/000/000/134/***/island-of-thieves-2.jpg",
+                    "alt": "comics page 2",
+                    "caption": "",
+                    "credit": ""
+                },
+                {
+                    "url-format": "/000/000/135/***/island-of-thieves-3.jpg",
+                    "alt": "comics page 3",
+                    "caption": "",
+                    "credit": ""
+                }
+            ]
+        }
+    ],
+    "supernotes": {}
+}

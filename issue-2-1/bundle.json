@@ -1,0 +1,98 @@
+{
+    "bundle-version": 2,
+    "volume": 2,
+    "number": 1,
+    "month": 1,
+    "year": 2014,
+    "title": "Digs",
+    "chaptered": true,
+    "chapters": [
+        "Digging in the Dirt",
+        "Digging in the Archives",
+        "Nice Digs"
+    ],
+    "articles": [
+        "berry-metallica",
+        "bigelow-minerals",
+        "breen-beaton",
+        "breen-history_digs",
+        "breen-meerkats",
+        "brodak-poems",
+        "bsumek-insults",
+        "buck-fake_butch",
+        "cannon-bell",
+        "duffy-penitentiary",
+        "editorial_letter",
+        "gaffield-open_source",
+        "heaney-interview",
+        "heaney-yale",
+        "hartman-review",
+        "klehm-beads",
+        "lampert-archives",
+        "letters_to_appendix",
+        "ottaviani-bones",
+        "payne-animals",
+        "remes-crush",
+        "shaw-vdnkh",
+        "song_of_excavators",
+        "stepto-basin",
+        "ward-migrant"
+    ],
+    "contributors": [
+        "justin-berry",
+        "allison-bigelow",
+        "benjamin-breen",
+        "molly-brodak",
+        "erika-bsumek",
+        "daniel-buck",
+        "kevin-cannon",
+        "zander-cannon",
+        "kate-duffy",
+        "julia-gaffield",
+        "darrel-hartman",
+        "christopher-heaney",
+        "carla-klehm",
+        "corinne-lampert",
+        "jim-ottaviani",
+        "ansel-payne",
+        "jacob-remes",
+        "charles-shaw",
+        "michele-stepto",
+        "josi-ward"
+    ],
+    "staff-roles": [
+        {
+            "role": "Editor-in-Chief",
+            "staff": [
+                "Benjamin Breen"
+            ]
+        },
+        {
+            "role": "Editors",
+            "staff": [
+                "Christopher Heaney",
+                "Amy Kohout"
+            ]
+        },
+        {
+            "role": "Managing Editor",
+            "staff": [
+                "Felipe Fernandes Cruz"
+            ]
+        },
+        {
+            "role": "Publisher",
+            "staff": [
+                "Brian Jones"
+            ]
+        },
+        {
+            "role": "Copy Editors",
+            "staff": [
+                "J.R. Jones",
+                "Andrea Kinnison",
+                "Shannon Nagy"
+            ]
+        }
+    ]
+}

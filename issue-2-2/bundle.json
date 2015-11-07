@@ -1,0 +1,110 @@
+{
+    "bundle-version": 2,
+    "volume": 2,
+    "number": 2,
+    "month": 4,
+    "year": 2014,
+    "title": "Bodies",
+    "chaptered": true,
+    "chapters": [
+        "Human Bodies",
+        "Bodies on Display",
+        "Foreign Bodies"
+    ],
+    "articles": [
+        "ayers-gorillas",
+        "breen-pirate_surgeon",
+        "breen-synesthesia",
+        "chaplin-circumnavigation",
+        "crabtree-elegy",
+        "cruz-heart",
+        "editorial_letter",
+        "edwards-csi",
+        "golub-mana",
+        "heaney-machu_picchu",
+        "keiter-apothecaries",
+        "letters",
+        "mcgowan-hawaii",
+        "mogg-noir",
+        "open_source-hyrtl",
+        "ponce-qa",
+        "pyne-ditsong",
+        "rodriguez-nanigo",
+        "roth-pregnancies",
+        "schwartz-new_haven",
+        "smith-tiger",
+        "trainor-beard",
+        "willis-sea_monsters",
+        "woods-refrigeration"
+    ],
+    "contributors": [
+        "elaine-ayers",
+        "benjamin-breen",
+        "kevin-cannon",
+        "joyce-chaplin",
+        "mari-crabtree",
+        "felipe-cruz",
+        "ryan-edwards",
+        "alex-golub",
+        "christopher-heaney",
+        "lindsay-keiter",
+        "jed-mcgowan",
+        "diarmid-mogg",
+        "rachel-ponce",
+        "lydia-pyne",
+        "linda-rodriguez",
+        "cassia-roth",
+        "claire-schwartz",
+        "blake-smith",
+        "sean-trainor",
+        "matthew-willis",
+        "rebecca-woods"
+    ],
+    "staff-roles": [
+        {
+            "role": "Editor-in-Chief",
+            "staff": [
+                "Benjamin Breen"
+            ]
+        },
+        {
+            "role": "Editors",
+            "staff": [
+                "Christopher Heaney",
+                "Amy Kohout"
+            ]
+        },
+        {
+            "role": "Managing Editor",
+            "staff": [
+                "Felipe Fernandes Cruz"
+            ]
+        },
+        {
+            "role": "Publisher",
+            "staff": [
+                "Brian Jones"
+            ]
+        },
+        {
+            "role": "Contributing Editor",
+            "staff": [
+                "Lydia Pyne"
+            ]
+        },
+        {
+            "role": "Copy Editors",
+            "staff": [
+                "J.R. Jones",
+                "Andrea Kinnison",
+                "Shannon Nagy"
+            ]
+        },
+        {
+            "role": "Production Assistant",
+            "staff": [
+                "John Watson"
+            ]
+        }
+    ]
+}

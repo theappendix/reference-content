@@ -1,0 +1,122 @@
+{
+    "bundle-version": 2,
+    "volume": 1,
+    "number": 3,
+    "month": 7,
+    "year": 2013,
+    "title": "Out Loud",
+    "chaptered": false,
+    "articles": [
+        "abbas-sound_of_her_voice",
+        "appendixed",
+        "buckingham-lyre",
+        "editorial-letter",
+        "erlmann-beetles",
+        "fawkes_franklin-kinyras",
+        "fulford-shamanism",
+        "goodman-captivity",
+        "hailwood-ditty",
+        "heaney-rose_interview",
+        "jtw-lomax",
+        "kagen-musical_torture",
+        "kolar-conch_shells",
+        "krause-deep_history",
+        "letters-to-the-editors",
+        "lingold-lullaby",
+        "meiburg-hidden_masterpiece",
+        "mendoza-yma_sumac",
+        "open-source",
+        "ozanne-silence",
+        "schmidt-history_through_sound",
+        "schmidt-open_sound",
+        "skeehan-deadly_notes",
+        "smith-discharge",
+        "strang-turisas",
+        "webster-burma"
+    ],
+    "contributors": [
+        "amber-abbas",
+        "will-buckingham",
+        "veit-erlmann",
+        "glynnis-fawkes",
+        "john-franklin",
+        "timothy-fulford",
+        "glenda-goodman",
+        "mark-hailwood",
+        "christopher-heaney",
+        "brian-jones",
+        "jtw",
+        "melissa-kagen",
+        "miriam-kolar",
+        "bernie-krause",
+        "mary-caton-lingold",
+        "jonathan-meiburg",
+        "zoila-mendoza",
+        "rachel-ozanne",
+        "michael-schmidt",
+        "danielle-skeehan",
+        "chris-smith",
+        "cameron-strang",
+        "jonathan-webster"
+    ],
+    "staff-roles": [
+        {
+            "role": "Executive Editor",
+            "staff": [
+                "Christopher Heaney"
+            ]
+        },
+        {
+            "role": "Managing Editor",
+            "staff": [
+                "Felipe Fernandes Cruz"
+            ]
+        },
+        {
+            "role": "Creative Editor",
+            "staff": [
+                "Benjamin Breen"
+            ]
+        },
+        {
+            "role": "Publisher",
+            "staff": [
+                "Brian Jones"
+            ]
+        },
+        {
+            "role": "Guest Editor",
+            "staff": [
+                "Michael Schmidt"
+            ]
+        },
+        {
+            "role": "Contributing Editor",
+            "staff": [
+                "Amy Kohout"
+            ]
+        },
+        {
+            "role": "Copy Editor",
+            "staff": [
+                "Shannon Nagy"
+            ]
+        },
+        {
+            "role": "Design and Layout",
+            "staff": [
+                "Benjamin Breen",
+                "Brian Jones"
+            ]
+        },
+        {
+            "role": "Founders",
+            "staff": [
+                "Benjamin Breen",
+                "Felipe Fernandes Cruz",
+                "Christopher Heaney",
+                "Brian Jones"
+            ]
+        }
+    ]
+}

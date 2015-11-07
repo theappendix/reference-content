@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "title": "Letters to _The Appendix_",
+        "author": [
+        ],
+        "short-reference": "letters-to-the-appendix.json",
+        "position": 1,
+        "summary": "The first installment of our letters column, composed entirely of letters to editors of newspapers past, on beestings, fishing, and racial justice."
+    },
+    "content": [
+        {
+            "type": "editorial-intro-paragraph",
+            "content": "Welcome to _The Appendix_ letters page. In future issues, we hope to combine a mixture of readers’ letters and letters to the editors of newspapers past. For this first issue, we offer _only_ letters from the past: bee stings for the blind, Sunday fishing in Nova Scotia, and racial justice in Maryland. We hope they inspire you to write letters of your own—to _The Appendix_ and to other deserving parties.",
+            "number": 1
+        },
+        {
+            "type": "editorial-intro-paragraph",
+            "content": "—The Editors",
+            "number": 2
+        },
+        {
+            "type": "major-divider"
+        },
+        {
+            "type": "paragraph",
+            "content": "“[LONDON](http://news.google.com/newspapers?id=zbRbAAAAIBAJ&sjid=P1INAAAAIBAJ&pg=5081%2C1784472),” *The Providence Gazette and Country Journal*, Providence, Rhode Island, (No. I of Vol. XXIV) Saturday, 6 January 1787 (No. 1201).",
+            "number": 3
+        },
+        {
+            "type": "paragraph",
+            "content": "*Sept. 9.* A correspondent from Columb says, the following curious fact may be depended on:— John Nichols, of St. Eval, Cornwall, aged about 70 years, the last 18 of which he has been blind, was about ten days ago, instantaneously restored to sight in one eye, by being stung thereon by a bee. His eye swelled, itched, and was painful; he rubbed it, and behold a miracle! The blind received his sight.",
+            "number": 4
+        },
+        {
+            "type": "minor-divider"
+        },
+        {
+            "type": "paragraph",
+            "content": "“[THE SABBATH DAY](http://news.google.com/newspapers?id=QtgHAAAAIBAJ&sjid=ohEDAAAAIBAJ&pg=4681%2C16138),” *The Acadian Recorder*, Halifax, Nova Scotia, Saturday, 13 October 1860.",
+            "number": 5
+        },
+        {
+            "type": "paragraph",
+            "content": "MR. EDITOR,<br />\n—In my former communication, which you were kind enough to publish last week, I gave the reason of my desire to bring the subject of the Sabbath day before the people: namely, because of the losses fishermen oft sustain in consequence of their belief—in common with multitudes who ought to know better—that Sunday is the Sabbath day referred to in the fourth commandment of the Mosaic Law—a law which is as binding upon us as are the laws of the Medes and Persians! What should we do if bound to keep the law of the Sabbath day, I can hardly say, for it forbade the *kindling of fire* on the Sabbath (see Ex. XXXV, 3,) and a man found gathering sticks was stoned to death (Numbers XV, 32 to 36 verses). Surely such a law was not designed for Nova Scotians; and if not, why do so many of them say continually, “Lord have mercy upon us, and incline our hearts to keep this law,”? (see the church communion service.) “Remember, the Sabbath-day to keep it holy; in it thou shalt not do *any work,* thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle,” &c.? A poor, conscientious fisherman looking at this commandment and believing it incumbent on him to keep it under pain, not only of death, but of “eternal torments,” may sit on the rocks, and loll on the green, sunny banks, and cast a wistful eye on the fish schooling within reach of his seine, and wish it were not the Sabbath-day. —but, he dare not, as he values his “immortal soul,” go to work. There are exceptions, I admit, but these are accounted reprobates, sabbath breakers, infidels, &c., by their more conscientious neighbours. And, no doubt, they who fish on Sunday, believing it to be the Sabbath day, are generally indifferent characters….",
+            "number": 6
+        },
+        {
+            "type": "paragraph",
+            "content": "October 11, 1860<br />\nJAS R. LITHGOW",
+            "number": 7
+        },
+        {
+            "type": "minor-divider"
+        },
+        {
+            "type": "paragraph",
+            "content": "“[ON LYNCHING](http://news.google.com/newspapers?id=eSgmAAAAIBAJ&sjid=Av4FAAAAIBAJ&pg=4161%2C899037),” *The Afro-American Ledger*, Baltimore, Maryland, Saturday, 5 January 1906.",
+            "number": 8
+        },
+        {
+            "type": "paragraph",
+            "content": "MR. EDITOR:—",
+            "number": 9
+        },
+        {
+            "type": "paragraph",
+            "content": "This note will inform you that several gentlemen of Annapolis and vicinity have greatly impressed me with words of deprecation of the heinous crime committed by one of our people. Also many of our Afro-Americans who have the interest of our race at heart, denounce the criminal (a brutish fool). I being one of the humble religious leaders of our unfortunate race of people, feel impelled to express my religious indignation toward the conduct of the guilty criminal of Anne Arundel Co., Md., who is not only guilty of the recent crime perpetrated upon the white woman, but a similar one upon a colored woman, in the same section of the country. His attempt at that time was with a club, felled his prey, without success as in the last case.",
+            "number": 10
+        },
+        {
+            "type": "paragraph",
+            "content": "We do now and forever denounce such culprits who would dare cross the threshold of peaceable citizens, endangering the lives of innocent men and women. This, I hope, is the sentiment of all Marylanders that have race pride, and we hope that law will take its full course without necessary delay. We also hope that no one will besmear themselves with the blood of such a filthy criminal who would dare violate the laws as one of the lower brutes or beasts of the forest.",
+            "number": 11
+        },
+        {
+            "type": "paragraph",
+            "content": "[signed,] S. T. C.",
+            "number": 12
+        },
+        {
+            "type": "paragraph",
+            "content": "P. S.  Dear Sir:<br />\n—On making my way to the Postoffice, I was met by a school teacher, who told me that the man was lynched and riddled with bullets. I then decided that it was futile to send such a letter to the press, for they had already besmeared themselves with the blood of a culprit, the same that colored men, in respect to the laws of Maryland, would not lynch for the first crime committed eight years ago, when, if he had been given the full extent of law, ten instead of two years, he would not have been guilty of the second crime.",
+            "number": 13
+        },
+        {
+            "type": "paragraph",
+            "content": "Awhile, I stood looking on the bloody spot with wonder and surprise at the conduct of respectable citizens, when we have such well-established laws provided for the transgression of any of the Ten Commandments or anything outside of them. It is now rather late to impress the colored respectable citizens of America that the Dred Scott Decision is still in full force when we have learned to respect the Declaration of Independence established by the father of this country, which says: “We hold these truths to be self-evident, that all men are created equal; that they are endowed by their Creator with certain inalienable rights, that among these are life, liberty and the pursuit of happiness.”",
+            "number": 14
+        },
+        {
+            "type": "paragraph",
+            "content": "It is also a well-established fact, to wit: That God’s Holy Word tell us [<i>sic</i>] that righteousness exalts a nation while sin is a reproach to any people. If lynching or Judge Lynch is a deserving penalty for the sins of the colored race in America, we hold that to and a half million souls are full enough to pay the debt, and now let the law have its full course. We long to see the time when justice and law will blend into one truth which is of God, the great Judge of world. The Holy Scripture tells us that God is not mocked, what men sow they must reap. It would be sad for this country to reap some things that have been sown. It would be best to pray for forgiveness of God than to continue on with Judge Lynch.",
+            "number": 15
+        }
+    ],
+    "supernotes": {
+        "4": {
+            "commentary": [
+                "Or, with the “Long  S’s” left in: “A correfpondent from Columb fays, the following curious fact may be depended on:— John Nichols, of St. Eval, Cornwall, aged about 70 years, the laft 18 of which he has been blind, was about ten days ago, inftantaneousfly reftored to fight in one eye, by being ftung thereon by a bee. His eye fwelled, itched, and was painful ; he rubbed it, and behold a miracle! The blind received his fight.”"
+            ]
+        },
+        "14": {
+            "commentary": [
+                "We have added one letter to this paragraph’s first sentence, to help twenty-first century eyes. In the original text: “While, I stood looking on the bloody spot with wonder and surprise…”",
+                "In 1857, Dred Scott sued for his freedom, and the freedom of his wife and daughters, arguing that he had lived with his master in free states. The Supreme Court found against him, on the grounds that no African-American could claim United States citizenship, and could thus bring no suit to federal court. The ruling was overthrown by the Emancipation Proclamation, and the Constitution’s Thirteenth, Fourteenth, and Fifteenth Amendments."
+            ]
+        }
+    }
+}

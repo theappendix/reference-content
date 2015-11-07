@@ -1,0 +1,116 @@
+{
+    "metadata": {
+        "title": "EXCERPT: _Bone Sharps, Cowboys, and Thunderlizards: A Tale of Edward Drinker Cope, Othniel Charles Marsh, and the Gilded Age of Paleontology_",
+        "author": [
+            "Jim Ottaviani",
+            "Kevin Cannon",
+            "Zander Cannon",
+            "Shadi Petosky"
+        ],
+        "position": 9,
+        "chapter": 1,
+        "short-reference": "ottaviani-bones"
+    },
+    "content": [
+        {
+            "type": "editorial-intro-paragraph",
+            "content": "In our second issue, “Illusions,” we were honored to excerpt Jim Ottaviani and Janine Johnston’s [_Levitation: Physics and Psychology in the Service of Deception_](http://theappendix.net/issues/2013/4/not-so-funny-pages-excerpt-levitation), a comic book history about the science behind one of the greatest magic tricks ever performed on stage: the levitating woman. In our fourth issue, we featured a romping, [cartographic biography](http://theappendix.net/issues/2013/10/the-appendix-appendixed) by the artist Kevin Cannon about a Danish explorer named Peter Freuchen. And when we remembered that Ottaviani, Cannon, and the other half of the art studio [Big Time Attic](http://www.bigtimeattic.com/), Zander Cannon—no relation—had collaborated on a graphic history of paleontological skullduggery and childish competition in the American West, we knew we needed to feature it in “Digs.”",
+            "number": 1
+        },
+        {
+            "type": "editorial-intro-paragraph",
+            "content": "Its name is [_Bone Sharps, Cowboys, and Thunderlizards: A Tale of Edward Drinker Cope, Othniel Charles Marsh, and the Gilded Age of Paleontology_](http://www.gt-labs.com/bonesharps.html), and, while highly informative, it is also just plain fun, telling the story of how two nineteenth-century field marshals of paleontology—Cope, a romantic Jeffersonian-style collector, and Marsh, a stern establishment man at the Yale Peabody Museum—deployed armies of bonehunters in the American West, each fighting over their own hoard of brontosauri skulls and T-Rex teeth. Fanning the flames of their competition were newspapers like the _New York Herald_ and participants—sometimes caught in the crossfire—like P. T. Barnum, Wild Bill Cody, the Oglala Sioux Red Cloud, Alexander Graham Bell, and Charles R. Knight, whose art brought dinosaurs to life for the public.",
+            "number": 2
+        },
+        {
+            "type": "editorial-intro-paragraph",
+            "content": "Over a century later, Ottaviani and Big Time Attic brought their story to life to new readers, carefully documenting the details they smudged for the sake of narrative. In the lovely excerpt that follows, the sympathetic Knight gets a lesson in how to breathe warmth into supposedly cold-blooded creatures on paper, and Cope arrives in Wyoming, where the Geological Survey is assisting the collector to gather his dinosauric dead. Afterward Cope gives his own lesson imagining the past, and Marsh gets ready to pull the wool over his eyes.",
+            "number": 3
+        },
+        {
+            "type": "editorial-intro-paragraph",
+            "content": "We hope this brings out the childish paleontologist in all of you.",
+            "number": 4
+        },
+        {
+            "type": "major-divider"
+        },
+        {
+            "type": "anvil-gallery",
+            "images": [
+                {
+                    "url-format": "/000/000/857/***/page24.jpg",
+                    "alt": "Page 24",
+                    "no-border": true,
+                    "full-page": true
+                },
+                {
+                    "url-format": "/000/000/858/***/page25.jpg",
+                    "alt": "Page #25",
+                    "no-border": true,
+                    "full-page": true
+                },
+                {
+                    "url-format": "/000/000/859/***/page26.jpg",
+                    "alt": "Page #26",
+                    "no-border": true,
+                    "full-page": true
+                },
+                {
+                    "url-format": "/000/000/860/***/page27.jpg",
+                    "alt": "Page #27",
+                    "no-border": true,
+                    "full-page": true
+                },
+                {
+                    "url-format": "/000/000/861/***/page28.jpg",
+                    "alt": "Page #28",
+                    "no-border": true,
+                    "full-page": true
+                },
+                {
+                    "url-format": "/000/000/862/***/page29.jpg",
+                    "alt": "Page #29",
+                    "no-border": true,
+                    "full-page": true
+                },
+                {
+                    "url-format": "/000/000/863/***/page30.jpg",
+                    "alt": "Page #30",
+                    "no-border": true,
+                    "full-page": true
+                },
+                {
+                    "url-format": "/000/000/864/***/page31.jpg",
+                    "alt": "Page #31",
+                    "no-border": true,
+                    "full-page": true
+                },
+                {
+                    "url-format": "/000/000/865/***/page32.jpg",
+                    "alt": "Page #32",
+                    "no-border": true,
+                    "full-page": true
+                },
+                {
+                    "url-format": "/000/000/866/***/page33.jpg",
+                    "alt": "Page #33",
+                    "no-border": true,
+                    "full-page": true
+                },
+                {
+                    "url-format": "/000/000/867/***/page34.jpg",
+                    "alt": "Page #34",
+                    "no-border": true,
+                    "full-page": true
+                },
+                {
+                    "url-format": "/000/000/868/***/page35.jpg",
+                    "alt": "Page #35",
+                    "no-border": true,
+                    "full-page": true
+                }
+            ]
+        }
+    ]
+}

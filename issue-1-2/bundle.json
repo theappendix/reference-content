@@ -1,0 +1,124 @@
+{
+    "bundle-version": 2,
+    "volume": 1,
+    "number": 2,
+    "month": 4,
+    "year": 2013,
+    "title": "Illusions",
+    "chaptered": false,
+    "articles": [
+        "appendixed",
+        "bogaerts-woman",
+        "case-monster",
+        "cohen-molineaux",
+        "editorial-letter",
+        "gildner-atlantis",
+        "golub-diamond",
+        "greene-china_ghost",
+        "harasemovitch-coxere",
+        "heaney-hoaxers",
+        "hunter-nw_passage",
+        "jsd-excerpt",
+        "jsd-interview",
+        "kohout-eagle",
+        "letters-to-the-editors",
+        "local-history",
+        "lovejoy-double_world",
+        "marsh-jepp",
+        "ottaviani-levitation",
+        "post-phantom_punch",
+        "reading-lady_vanishes",
+        "schillace-mechanical_mother",
+        "smith-bespelled",
+        "stepto-lieutenant_nun",
+        "walsh-skulls"
+    ],
+    "contributors": [
+        "janet-bell",
+        "gregory-bogaerts",
+        "benjamin-breen",
+        "susana-case",
+        "andrew-cohen",
+        "matthew-gildner",
+        "alex-golub",
+        "maggie-greene",
+        "alexis-harasemovitch",
+        "christopher-heaney",
+        "david-hunt",
+        "douglas-hunter",
+        "amy-kohout",
+        "bess-lovejoy",
+        "duncan-macdonald",
+        "katherine-marsh",
+        "jim-ottaviani",
+        "tina-post",
+        "amy-reading",
+        "brandy-schillace",
+        "jackie-sibblies-drury",
+        "lisa-smith",
+        "gabriel-stepto",
+        "michele-stepto",
+        "jane-walsh"
+    ],
+    "staff-roles": [
+        {
+            "role": "Executive Editor",
+            "staff": [
+                "Christopher Heaney"
+            ]
+        },
+        {
+            "role": "Managing Editor",
+            "staff": [
+                "Felipe Fernandes Cruz"
+            ]
+        },
+        {
+            "role": "Creative Editor",
+            "staff": [
+                "Benjamin Breen"
+            ]
+        },
+        {
+            "role": "Publisher",
+            "staff": [
+                "Brian Jones"
+            ]
+        },
+        {
+            "role": "Local History Editor",
+            "staff": [
+                "Hannah Carney"
+            ]
+        },
+        {
+            "role": "Copy Editor",
+            "staff": [
+                "Shannon Nagy"
+            ]
+        },
+        {
+            "role": "Design and Layout",
+            "staff": [
+                "Benjamin Breen",
+                "Brian Jones"
+            ]
+        },
+        {
+            "role": "Illustration",
+            "staff": [
+                "Justin Berry",
+                "Benjamin Breen"
+            ]
+        },
+        {
+            "role": "Founders",
+            "staff": [
+                "Benjamin Breen",
+                "Felipe Fernandes Cruz",
+                "Christopher Heaney",
+                "Brian Jones"
+            ]
+        }
+    ]
+}

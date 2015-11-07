@@ -1,0 +1,114 @@
+{
+    "bundle-version": 2,
+    "volume": 1,
+    "number": 1,
+    "month": 12,
+    "year": 2012,
+    "title": "The End?",
+    "chaptered": false,
+    "articles": [
+        "appendixed",
+        "benjamin-antichrist",
+        "blair-two_poems",
+        "breen-calypso",
+        "burnett-maya",
+        "canizares-apocalypse",
+        "cohen-island",
+        "cruz-found",
+        "downey-vulture_city",
+        "editorial-letter",
+        "fetter-vorm-trinity",
+        "harper-amelia",
+        "heaney-hochschild",
+        "heaney-marvel",
+        "heaney-sailor",
+        "herrera-santa_muerte",
+        "herrmann-chamomile",
+        "hunt-box_office",
+        "leary-nibs",
+        "letters-to-the-appendix",
+        "mccampbell-maximon",
+        "nixon-surgun",
+        "schweber-yellowstone"
+    ],
+    "contributors": [
+        "jenn-blair",
+        "benjamin-breen",
+        "jorge-canizares",
+        "andrew-cohen",
+        "felipe-cruz",
+        "lynn-downey",
+        "jonathan-fetter-vorm",
+        "virginia-burnett",
+        "ryan-harper",
+        "christopher-heaney",
+        "robinson-herrera",
+        "rachel-herrmann",
+        "bruce-hunt",
+        "john-patrick-leary",
+        "kathleen-mccampbell",
+        "melody-nixon",
+        "nate-schweber"
+    ],
+    "staff-roles": [
+        {
+            "role": "Executive Editor",
+            "staff": [
+                "Christopher Heaney"
+            ]
+        },
+        {
+            "role": "Managing Editor",
+            "staff": [
+                "Felipe Fernandes Cruz"
+            ]
+        },
+        {
+            "role": "Creative Editor",
+            "staff": [
+                "Benjamin Breen"
+            ]
+        },
+        {
+            "role": "Publisher",
+            "staff": [
+                "Brian Jones"
+            ]
+        },
+        {
+            "role": "Local History Editor",
+            "staff": [
+                "Hannah Carney"
+            ]
+        },
+        {
+            "role": "Copy Editor",
+            "staff": [
+                "Shannon Nagy"
+            ]
+        },
+        {
+            "role": "Design and Layout",
+            "staff": [
+                "Benjamin Breen",
+                "Brian Jones"
+            ]
+        },
+        {
+            "role": "Illustration",
+            "staff": [
+                "Emily Davis Adams",
+                "Benjamin Breen"
+            ]
+        },
+        {
+            "role": "Founders",
+            "staff": [
+                "Benjamin Breen",
+                "Felipe Fernandes Cruz",
+                "Christopher Heaney",
+                "Brian Jones"
+            ]
+        }
+    ]
+}

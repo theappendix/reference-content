@@ -1,0 +1,174 @@
+{
+    "metadata": {
+        "title": "Letter from the Editors",
+        "author": [
+            ""
+        ],
+        "position": 1,
+        "short-reference": "editorial-letter",
+        "summary": "What do a hallucinating physician, a seventeenth century Basque nun in conquistador drag, and Aryan ancestors in Bolivia’s Andes have in common? _The Appendix_’s editors introduce their second issue, ‘Illusions,’ and try not to get deluded by the past."
+    },
+    "content": [
+        {
+            "type": "image",
+            "url-format": "/000/000/284/***/editorial.jpg",
+            "alt": "Escaping Criticism",
+            "caption": "",
+            "credit": "Pere Borrell del Caso, <em>Huyendo de la crítica</em> [“Escaping Criticism”], 1874, via Wikimedia Commons."
+        },
+        {
+            "type": "blockquote",
+            "content": "The fellow is distract, and so am I;<br />\nAnd here we wander in illusions.<br />\n-Shakespeare, *A Comedy of Errors*",
+            "number": 1
+        },
+        {
+            "type": "paragraph",
+            "content": "In his book [_Hallucinations_](http://www.npr.org/2012/10/24/163271304/exclusive-first-read-hallucinations-by-oliver-sacks), Oliver Sacks recounts a vision brought on by a high dose of morphine in 1965. Noticing “a sort of commotion” on his dressing gown’s sleeve, Sacks discovers a “microscopically detailed battle scene” with “tents of different colors … gaily caparisoned horses, soldiers on horseback,” and music from silver pipers. He had read Froissart’s *Chronicles and Henry V* before shooting up, Sacks recalled, “and now these became conflated in my hallucination. I realized that what I was gazing at from my aerial viewpoint was Agincourt, late in 1415.” Sacks lay gazing at this illusory scene for twelve hours, enraptured—and tricked.",
+            "number": 2
+        },
+        {
+            "type": "paragraph",
+            "content": "Anyone who casts a glance backward into the past risks a similar delusion. We see history in our minds’ eyes, listening for its voices, hearing its music. But is it the real thing?",
+            "number": 3
+        },
+        {
+            "type": "paragraph",
+            "content": "This, the second issue of *The Appendix*, gives history’s illusions their due.",
+            "number": 4
+        },
+        {
+            "type": "paragraph",
+            "content": "Some illusions we create to survive. Our Open Source starts us off with [the memoir of a seventeenth-century Basque woman](#1) who, rather than spend her life in a Spanish convent, dressed as a man and spent years marauding in South America, fighting Indians and seducing other women. In another article, [a French antiquarian sells faked “crystal skulls”](#2) from Mexico on both sides of the Atlantic, then stumbles when people doubt the real skulls he has to share. And in one of this issue’s feature pieces, [Tina Post digs into the “phantom punch”](#3) that Muhammad Ali may or may not have laid on Sonny Liston; that Ali may or may not have learned from the controversial actor Stepin Fetchit; that takes Post back to herself, and the moves black Americans learn so as to hide and fight in plain sight.",
+            "number": 5,
+            "internal-links": [
+                {
+                    "token": "#1",
+                    "web": "http://theappendix.net/issues/2013/4/open-source-lieutenant-nun",
+                    "epub": "stepto-lieutenant_nun.xhtml"
+                },
+                {
+                    "token": "#2",
+                    "web": "http://theappendix.net/issues/2013/4/the-fourth-skull-a-tale-of-authenticity-and-fraud",
+                    "epub": "walsh-skulls.xhtml"
+                },
+                {
+                    "token": "#3",
+                    "web": "http://theappendix.net/issues/2013/4/the-phantom-punch",
+                    "epub": "post-phantom_punch.xhtml"
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": "Other illusions—those of societies or governments—claim our wealth and labor, make us disappear, strike us from the record. This month’s Local History [spotlights a Scottish town named Drumnadrochit](#1), whose past is overshadowed by a certain nearby loch-based mythical monster. Elsewhere, [Maggie Greene travels backwards through a Chinese ghost play](#2) that questioned corrupt rulers, mourned the dead of Mao’s Great Leap Forward, and led to playwrights being branded non-persons, or “ox ghost-snake spirits.” Lisa Smith’s [discovery of an early modern spell-book](#3) evokes a past when the edges dividing ‘reality’ and magic were beginning to show. Amy Reading reveals [the early twentieth-century department store window displays that were meant to empty pockets](#4), but enchanted their creators instead.",
+            "number": 6,
+            "internal-links": [
+                {
+                    "token": "#1",
+                    "web": "http://theappendix.net/issues/2013/4/local-history-drumnadrochit-scotland",
+                    "epub": "local-history.xhtml"
+                },
+                {
+                    "token": "#2",
+                    "web": "http://theappendix.net/issues/2013/4/the-woman-in-green-a-chinese-ghost-tale-from-mao-to-ming-1981-1381",
+                    "epub": "greene-china_ghost.xhtml"
+                },
+                {
+                    "token": "#3",
+                    "web": "http://theappendix.net/issues/2013/4/bespelled-in-the-archives",
+                    "epub": "smith-bespelled.xhtml"
+                },
+                {
+                    "token": "#4",
+                    "web": "http://theappendix.net/issues/2013/4/the-lady-vanishes",
+                    "epub": "reading-lady_vanishes.xhtml"
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": "In creating and tracing illusions, we risk being caught ourselves. This is the danger of history, the fantasy of the archives. The traces we follow were created by men and women—but mostly men—with agendas very different from our own. Historians once limited themselves to determining which source was more trustworthy; which fact more true. Did the archives show that a ruler had killed thousands? Or was that just a misguided rumor from a ‘bandit’ people that shouldn’t be trusted anyway? Having sorted the ‘facts,’ the historian was free to move on.",
+            "number": 7
+        },
+        {
+            "type": "paragraph",
+            "content": "Taking a cue from anthropology, literature and journalism, historians today are more open to the possibility that archives lie, that insights can be gained from these lies, and that what we seek in our investigations changes us—and sometimes even the historical record itself. This issue, [Matt Gildner excavates a pernicious theory](#1) from late nineteenth-century Bolivia that suggested that Atlanteans, not Indians, built one of South America’s greatest archaeological sites—an idea that Nazis occultists loved. [Douglas Hunter tries not to get lost](#2) in the crisscrossing paths of English explorers searching for a spectral Northwest Passage. And in [our interview with writer Jackie Sibblies Drury](#3) we discuss her latest play, in which a troupe of well-meaning actors try to tell the story of the Herero genocide in southwest Africa using inadequate German sources, but get caught in America’s racial history instead.",
+            "number": 8,
+            "internal-links": [
+                {
+                    "token": "#1",
+                    "web": "http://theappendix.net/issues/2013/4/andean-atlantis-race-science-and-the-nazi-occult-in-bolivia",
+                    "epub": "gildner-atlantis.xhtml"
+                },
+                {
+                    "token": "#2",
+                    "web": "http://theappendix.net/issues/2013/4/spectral-passages",
+                    "epub": "hunter-nw_passage.xhtml"
+                },
+                {
+                    "token": "#3",
+                    "web": "http://theappendix.net/issues/2013/4/interview-with-jackie-sibblies-drury-the-reenactors",
+                    "epub": "jsd-interview.xhtml"
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": "Sibblies Drury’s play is also an example of how modern illusions, or fictions, can sometimes be our only way to capture the more personal truths of history. We’re honored this issue to run an excerpt from Katherine Marsh’s [_Jepp, Who Defied the Stars_](#1), a young adult novel that amplifies the story of a real-life dwarf who worked in the late sixteenth century laboratory of Tycho Brahe. In our Not-So-Funny Pages, Andrew Cohen uses the tricks of sequential art to chop up time, running it forward and backward from [a particularly powerful moment in the life of another American boxer, the ex-slave Tom Molineaux](#2).",
+            "number": 9,
+            "internal-links": [
+                {
+                    "token": "#1",
+                    "web": "http://theappendix.net/issues/2013/4/fiction-jepp-who-defied-the-stars",
+                    "epub": "marsh-jepp.xhtml"
+                },
+                {
+                    "token": "#2",
+                    "web": "http://theappendix.net/issues/2013/4/not-so-funny-pages-the-tremendous-man-of-color",
+                    "epub": "cohen-molineaux.xhtml"
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": "Chronology isn’t all it’s cracked up to be.",
+            "number": 10
+        },
+        {
+            "type": "paragraph",
+            "content": "This was a fact that Herodotus, the ‘Father of History,’ already recognized in the fifth century BCE. “Very few things happen at the right time,” he observed, “and the rest do not happen at all. The conscientious historian will correct these defects.”",
+            "number": 11
+        },
+        {
+            "type": "paragraph",
+            "content": "Except that Herodotus didn’t write that. Although the quote has been widely attributed to him for over a century, it actually issued from the barbed pen of Mark Twain, who falsely ascribed it to the learned Greek in [1905](http://books.google.com/books?id=brk8AAAAYAAJ&amp;dq=%22Very%20few%20things%20happen%20at%20the%20right%20time%22%20twain&amp;pg=PR8#v=onepage&amp;q&amp;f=false).",
+            "number": 12
+        },
+        {
+            "type": "paragraph",
+            "content": "It’s a reminder that we need to be wary when we venture into the past, where we risk not only the delusions of our mind’s eye, but false sources and the confusion of overlapping events as well. The three combine, create new stories, figments of figments, which we then force into narratives. We run them against each other, and in their collision hope for something like truth.",
+            "number": 13
+        },
+        {
+            "type": "paragraph",
+            "content": "Perhaps the past we collectively create is at its core unknowable—the group hallucination into which our present continually recedes. But perhaps it’s also the realest illusion we have.",
+            "number": 14
+        },
+        {
+            "type": "paragraph",
+            "content": "We leave it for you to judge.",
+            "number": 15
+        },
+        {
+            "type": "paragraph",
+            "content": "Your *Appendix* co-founders,",
+            "number": 16
+        },
+        {
+            "type": "paragraph",
+            "content": "Benjamin Breen<br />\nFelipe Cruz<br />\nChristopher Heaney<br />\nBrian Jones",
+            "number": 17
+        }
+    ],
+    "supernotes": {}
+}

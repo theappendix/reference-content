@@ -1,0 +1,103 @@
+{
+    "bundle-version": 2,
+    "volume": 2,
+    "number": 3,
+    "month": 7,
+    "year": 2014,
+    "title": "Futures of the Past",
+    "chaptered": true,
+    "chapters": [],
+    "articles": [
+        "pyne-neanderthals",
+        "breen-islands",
+        "onion-day_after",
+        "smith-zamrock",
+        "pineda-present_tense",
+        "sachs-neotechnic",
+        "nicosia-monstrous",
+        "goldmark-star_trek",
+        "rand-astronauts",
+        "marcy-dancers",
+        "palmieri-quakers",
+        "wythoff-wireless",
+        "bond-divine_reverie",
+        "press-lying_pen",
+        "williams-chronotrigger",
+        "wenz-body_atomic",
+        "burnett-nebulous",
+        "martin-nimh",
+        "roos-science",
+        "dietrich-opec",
+        "diep-dioramas",
+        "editorial-letter",
+        "mcgowan-divination",
+        "cannon-gagarin"
+    ],
+    "contributors": [
+        "lydia-pyne",
+        "benjamin-breen",
+        "rebecca-onion",
+        "chris-smith",
+        "erin-pineda",
+        "aaron-sachs",
+        "marissa-nicosia",
+        "matthew-goldmark",
+        "lisa-rand",
+        "rachel-marcy",
+        "brooke-palmieri",
+        "grant-wythoff",
+        "sarah-bond",
+        "matthew-neujahr",
+        "michael-press",
+        "michael-williams",
+        "john-wenz",
+        "d-burnett",
+        "david-gissen",
+        "laura-martin",
+        "anna-roos",
+        "christopher-dietrich",
+        "france-diep",
+        "jed-mcgowan",
+        "christopher-heaney",
+        "kevin-cannon"
+    ],
+    "staff-roles": [{
+        "role": "Editor-in-Chief",
+        "staff": [
+            "Benjamin Breen"
+        ]
+    }, {
+        "role": "Editors",
+        "staff": [
+            "Christopher Heaney",
+            "Amy Kohout"
+        ]
+    }, {
+        "role": "Managing Editor",
+        "staff": [
+            "Felipe Fernandes Cruz"
+        ]
+    }, {
+        "role": "Publisher",
+        "staff": [
+            "Brian Jones"
+        ]
+    }, {
+        "role": "Contributing Editors",
+        "staff": [
+            "Marissa Nicosia",
+            "Lydia Pyne"
+        ]
+    }, {
+        "role": "Assistant Managing Editor",
+        "staff": [
+            "Andrea Kinnison"
+        ]
+    }, {
+        "role": "Copy Editors",
+        "staff": [
+            "J.R. Jones",
+            "Shannon Nagy"
+        ]
+    }]
+}

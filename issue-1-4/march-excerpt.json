@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "title": "Excerpt: <i>March, Book One</i>",
+        "author": [
+            "John Lewis",
+            "Andrew Aydin",
+            "Nate Powell"
+        ],
+        "position": 19,
+        "short-reference": "march-excerpt",
+        "summary": "John Lewis would become one of the youngest heroes of America’s Civil Rights movement, leading marches in the face of racist and authoritarian abuse. In this excerpt of his graphic memoir, however, he was an eighteen-year-old seminary student—about to meet Dr. Martin Luther King, Jr., for the very first time."
+    },
+    "content": [
+        {
+            "type": "editorial-intro-paragraph",
+            "content": "_The Appendix_ is honored to share the following excerpt from US Congressman and Civil Rights hero [John Lewis’s](http://en.wikipedia.org/wiki/John_Lewis_%28U.S._politician%29) new graphic memoir, _March_. We interview Andrew Aydin and Nate Powell—the writer and artist who are helping Lewis put his inspiring life into comic book form—elsewhere in this issue, but there’s no substitute for the beauty they bring to his story. From his Alabama childhood to his first flush of victory during the Nashville student lunch counter sit-ins, this initial volume of a projected three-part graphic novel brings Lewis’s life to the page. And in the wake of this summer’s Supreme Court decision striking down a crucial condition of the 1965 Voting Rights Act, it is a story whose message comes at exactly the right time.",
+            "number": 1
+        },
+        {
+            "type": "editorial-intro-paragraph",
+            "content": "Readers have responded. _The Washington Post_ has called it a “riveting and beautiful civil-rights story.” _USA Today_ declared it “Essential reading for just about everyone…While it looks a little different than your average comic, it does tell the story of a true American superhero.” And it might also be the first comic in history to get a ringing endorsement by an American president, Bill Clinton: “In _March_, [Lewis] brings a whole new generation with him across the Edmund Pettus Bridge, from a past of clenched fists into a future of outstretched hands.”",
+            "number": 2
+        },
+        {
+            "type": "editorial-intro-paragraph",
+            "content": "The praise is well-deserved. The following excerpt begins after Lewis decides to leave the American Baptist Theological Seminary in Nashville and attempts to transfer to Troy State, back in Alabama, where no black students were allowed. His application is met with silence. He decides to introduce himself to the only person he thinks can help: Dr. Martin Luther King, Jr.",
+            "number": 3
+        },
+        {
+            "type": "major-divider"
+        },
+        {
+            "type": "anvil-gallery",
+            "images": [
+                {
+                    "url-format": "/000/000/620/***/March-interior-hi-res-67.jpg",
+                    "alt": "Page 1",
+                    "full-page": true
+                },
+                {
+                    "url-format": "/000/000/621/***/March-interior-hi-res-68.jpg",
+                    "alt": "Page 2",
+                    "full-page": true
+                },
+                {
+                    "url-format": "/000/000/622/***/March-interior-hi-res-69.jpg",
+                    "alt": "Page 3",
+                    "full-page": true
+                },
+                {
+                    "url-format": "/000/000/623/***/March-interior-hi-res-70.jpg",
+                    "alt": "Page 4",
+                    "full-page": true
+                },
+                {
+                    "url-format": "/000/000/624/***/March-interior-hi-res-71.jpg",
+                    "alt": "Page 5",
+                    "full-page": true
+                },
+                {
+                    "url-format": "/000/000/625/***/March-interior-hi-res-72.jpg",
+                    "alt": "Page 6",
+                    "full-page": true
+                },
+                {
+                    "url-format": "/000/000/626/***/March-interior-hi-res-73.jpg",
+                    "alt": "Page 7",
+                    "full-page": true
+                }  
+            ]
+        }
+    ]
+}

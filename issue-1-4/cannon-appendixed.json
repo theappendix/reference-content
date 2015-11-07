@@ -1,0 +1,57 @@
+{
+    "metadata": {
+        "title": "_The Appendix_, Appendixed.",
+        "author": [
+            "Kevin Cannon"
+        ],
+        "position": 21,
+        "short-reference": "cannon-appendixed",
+        "summary": "Dane Peter Freuchen and half-Inuit Knud Rasmussen go searching in 1912 for a lost explorer in this issue’s <i>The Appendix</i>, Appendixed—a cartographic chronicle by cartoonist Kevin Cannon. Snowblindness and harpoons in legs quickly follow."
+    },
+    "content": [
+        {
+            "type": "major-header",
+            "content": "Cold Cartography: The First Thule Expedition to Greenland, 1912"
+        },
+        {
+            "type": "editorial-intro-paragraph",
+            "content": "[Kevin Cannon](http://kevincannon.org/) knows his science history. As one half of the Minneapolis-based cartooning studio Big Time Attic, Cannon has co-illustrated graphic histories of [evolution](http://www.amazon.com/Evolution-The-Story-Life-Earth/dp/0809094762/), the [space race](http://www.amazon.com/T-Minus-Race-Moon-Jim-Ottaviani/dp/1416949607/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1369966281&amp;sr=1-1&amp;keywords=t-minus) and bickering [paleontologists](http://www.amazon.com/Bone-Sharps-Cowboys-Thunder-Lizards/dp/0966010663/) in the American West. On his own, he’s the creator of Army Shanks, a hard-drinking pirate, former member of the (fictional) Royal Canadian Arctic Navy, and star of two largely hilarious and surprisingly moving graphic novels, _Far Arden_ and [_Crater XV_](http://www.amazon.com/Crater-XV-Kevin-Cannon/dp/1603091009). Kevin Cannon and the other half of Big Time Attic, Zander Cannon—no relation—built up a buzz for _Crater XV_ and Zander’s new work, [_Heck_](http://www.amazon.com/Heck-Zander-Cannon/dp/160309301X), with an ambitious digital project named [Double Barrel](http://www.barrelmag.com/).",
+            "number": 1
+        },
+        {
+            "type": "editorial-intro-paragraph",
+            "content": "Impressed by the Double Barrel initiative and knowing Kevin’s interest in the history of exploration, _The Appendix_ reached out to see if he might have a comic history to contribute. He did us one better and proposed a “cartographic biography” of a little-known Danish explorer named [Peter Freuchen](http://en.wikipedia.org/wiki/Peter_Freuchen) who explored Greenland, lived with the Inuit, lost a leg to frostbite and, in one disastrous episode, claimed that he dug himself out of an ice cave with a knife formed of his own frozen excrement. Freuchen’s life turned out to be too rich, in fact, so Cannon hunkered down to create a cartographic chronicle of the First Thule Expedition, in 1912, in which Freuchen and the Inuit-Danish explorer Knud Rasmussen traveled a thousand kilometers across Greenland’s inland ice by dogsled. “I think polar exploration had gripped me because of its grittiness and lack of sexiness,” Kevin explains. “There are no Jack Sparrows in polar exploration.”",
+            "number": 2
+        },
+        {
+            "type": "editorial-intro-paragraph",
+            "content": "The beautiful and wry result, this issue’s ‘_The Appendix_, Appendixed,’ bookends the conversation this issue started with our ‘Open Source’ on the [Cempoala map of sixteenth-century Mexico](#1). Similar to the Cempoala map, a very local representation of an indigenous community, Cannon warns readers that the map is his personal interpretation of events, meant to",
+            "number": 3,
+            "internal-links": [
+                {
+                    "token": "#1",
+                    "web": "http://theappendix.net/issues/2013/10/mapping-babel-a-sixteenth-century-indigenous-map-from-mexico",
+                    "epub": "mundy-cempoala.xhtml"
+                }
+            ]
+        },
+        {
+            "type": "blockquote",
+            "content": "excite and inspire people who—like me—once viewed Greenland as a big ice-covered rock. Real historians and cartographers will note that besides the obvious fact that the scale is completely off, certain place names are incorrect as I used Freuchen’s account more than modern maps. Due to space limitations, I was also forced to leave out certain anecdotes, like Freuchen’s dive underwater to fetch his lost [theodolite](http://en.wikipedia.org/wiki/Theodolite) or the fact that Freuchen himself was on the Mylius-Erichsen expedition that started the whole chain of events in the first place.",
+            "number": 4
+        },
+        {
+            "type": "editorial-intro-paragraph",
+            "content": "For those stories, he recommends Freuchen’s memoir, the terrifically titled [_Vagrant Viking_](http://www.amazon.com/Vagrant-Viking-My-life-adventures/dp/B0007DNDCC). In the meantime, we hope you get lost in Greenland with Freuchen, like we did.",
+            "number": 5
+        },
+        {
+            "type": "major-divider"
+        },
+        {
+            "type": "image",
+            "alt": "Cannon’s Map of Freuchen’s expedition",
+            "url-format": "/000/000/661/***/appendix_ThuleMap_COLOR72.jpg"
+        }
+    ]
+}

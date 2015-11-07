@@ -1,0 +1,258 @@
+{
+    "metadata": {
+        "title": "_The Appendix_, Appendixed.",
+        "author": [
+            "Benjamin Breen"
+        ],
+        "position": "23",
+        "short-reference": "appendixed",
+        "summary": "Even <i>The Appendix</i> needs an appendix. For this issue, we share a timeline of apocalypses, real or (happily) imagined."
+    },
+    "content": [
+        {
+            "type": "editorial-intro-paragraph",
+            "content": "The inaugaural issue of _The Appendix_ has covered a lot of ground, from the cults of Maya saints to murder in 19th century Manhattan. The final page of this issue introduces a reoccurring feature that we’re calling “_The Appendix_, Appendixed.” Here we step back to take a geographic view of apocalypses in history: from those that were predicted but never came to pass, to those that did in fact destroy civilizations and cultures.",
+            "number": 1
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/531/***/Appendixedkindle.jpg",
+            "alt": "",
+            "caption": "",
+            "credit": ""
+        },
+        {
+            "type": "major-divider"
+        },
+        {
+            "type": "major-header",
+            "content": "Predicted Apocalypses"
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/532/***/Miller.jpg",
+            "alt": "",
+            "caption": "",
+            "credit": ""
+        },
+        {
+            "type": "paragraph",
+            "content": "**William Miller**<br />\n_Upstate New York, 1844_",
+            "number": 2
+        },
+        {
+            "type": "paragraph",
+            "content": "Born in 1782, William Miller was a Baptist preacher who attracted a considerable following during the era of the Second Great Awakening. Miller preached an apocalyptic, millenarian interpretation of Biblical scripture and came to believe that the second coming would arrive in 1844. After the “Great Disappointment” that followed his failed apocalyptic prediction, a splinter group of Millerites formed the Seventh Day Adventists. See [here](#1) for more on the Millerites.",
+            "number": 3,
+            "internal-links": [
+                {
+                    "token": "#1",
+                    "web": "http://theappendix.net/issues/2012/12/calypso's-island:-a-short-history-of-the-apocalypse",
+                    "epub": "breen-calypso.xhtml"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/533/***/Maya2012.jpg",
+            "alt": "",
+            "caption": "",
+            "credit": ""
+        },
+        {
+            "type": "paragraph",
+            "content": "**The Mayan Apocalypse**<br />\n_Global 2012_",
+            "number": 4
+        },
+        {
+            "type": "paragraph",
+            "content": "From Virginia Garrard-Burnett’s [article on the Maya](#1) elsewhere in the issue: “The turning over of the Maya long-count calendar on December 21, 2012… [has] seized the imagination of New Agers and others who find it appealing to imagine an apocalyptic end to a post-industrial, polluted, and highly capitalized post-modern world—an end predicted by an ancient and noble indigenous culture, no less.” If you’re reading this in 2013, it seems safe to say that this was a failed apocalyptic prediction.",
+            "number": 5,
+            "internal-links": [
+                {
+                    "token": "#1",
+                    "web": "http://theappendix.net/issues/2012/12/time-and-the-maya-apocalypse-guatemala-1982-and-2012",
+                    "epub": "burnett-maya.xhtml"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/534/***/Joachim.jpg",
+            "alt": "",
+            "caption": "",
+            "credit": ""
+        },
+        {
+            "type": "paragraph",
+            "content": "**Joachim of Fiore**<br />\n_Italy, 1260 CE_",
+            "number": 6
+        },
+        {
+            "type": "paragraph",
+            "content": "For Jorge Cañizares-Esguerra’s article [elsewhere in this issue](#1): “Joachim of Fiore [was] a twelfth-century Calabrian abbot who numbers among the most influential Christian philosophers of all time. Fiore thought that contemporary events were recapitulations of past ones. The key to understanding time was figuring out how the Old Testament prefigured the history of Christianity, from Christ to the present.”  Fiore (1135-1202 CE) analyzed the Book of Revelations and concluded that a “Third Age” would come in 1260 CE which would radically transform human societies.",
+            "number": 7,
+            "internal-links": [
+                {
+                    "token": "#1",
+                    "web": "http://theappendix.net/issues/2012/12/whose-apocalypse-a-new-meaning-of-the-the-end-in-the-new-world-circa-1600",
+                    "epub": "canizares-apocalypse.xhtml"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/535/***/BenjaminAntichrist.jpg",
+            "alt": "",
+            "caption": "",
+            "credit": ""
+        },
+        {
+            "type": "paragraph",
+            "content": "**Benjamin, the Anti-Christ**<br />\n_California, 1866_",
+            "number": 8
+        },
+        {
+            "type": "paragraph",
+            "content": "The Appendix editor Christopher Heaney found this bizarre prophecy from 19th century San Francisco in the archives of the Smithsonian. It is [featured in this issue](#1). He writes: “[Benjamin’s prophecy] lays out nothing less than a earthquake-based cataclysm that would literally change the shape of the United States. The West Coast would disappear, Mexico would be absorbed, and the Caribbean would become an American lake—again, a literal one. The cataclysm would then set the stage for a final battle between the U.S. and the Catholic countries of the world.”",
+            "number": 9,
+            "internal-links": [
+                {
+                    "token": "#1",
+                    "web": "http://theappendix.net/issues/2012/12/open-source-prophecy-of-benjamin-the-anti-christ",
+                    "epub": "benjamin-antichrist.xhtml"
+                }
+            ]
+        },
+        {
+            "type": "major-header",
+            "content": "Cataclysms"
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/536/***/Krakatoa.jpg",
+            "alt": "",
+            "caption": "",
+            "credit": ""
+        },
+        {
+            "type": "paragraph",
+            "content": "**Krakatoa**<br />\n_Between Java and Sunda, Indonesia, 1883_",
+            "number": 10
+        },
+        {
+            "type": "paragraph",
+            "content": "In 1883, the volcanic island Krakatoa erupted. The blast expelled so much ash into the atmosphere that skies were darkened throughout the hemisphere and global harvests suffered. The death toll has been estimated at up to 120,000 people, and the island itself was so violently altered by the eruption that maps had to be redrawn. As Richard Hamblyn describes in [The Public Domain Review](http://publicdomainreview.org/2012/05/28/the-krakatoa-sunsets/), sunset skies throughout the world “flared through virulent shades of green, blue, copper and magenta” for months after the eruption due to ash particles suspended in the atmosphere.",
+            "number": 11
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/537/***/Ur.jpg",
+            "alt": "",
+            "caption": "",
+            "credit": ""
+        },
+        {
+            "type": "paragraph",
+            "content": "**Downfall of Ur**<br />\n_Mesopotamia, 3rd millennium BCE_",
+            "number": 12
+        },
+        {
+            "type": "paragraph",
+            "content": "From “[Calypso’s Island: A Short History of the Apocalypse](#1)”, an article appearing elsewhere in this issue: “In 2004 BC, soldiers from the emerging empire of Elam in present-day Iran overran the city’s fortifications and killed or enslaved many of its citizens. For the inhabitants of Ur, it truly was the end of the world – or, at least, of their world. Remembering the disaster decades later, the survivors produced some of the earliest poetry in the historical record. These poems are dark lamentations, frightening, violent and nihilistic in tone.” Despite Ur’s importance as one of the earliest cities, much of its culture and language was lost following this disastrous invasion.",
+            "number": 13,
+            "internal-links": [
+                {
+                    "token": "#1",
+                    "epub": "breen-calypso.xhtml",
+                    "web": "http://theappendix.net/issues/2012/12/calypso's-island:-a-short-history-of-the-apocalypse"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/538/***/Homo_Florensis.jpg",
+            "alt": "",
+            "caption": "",
+            "credit": ""
+        },
+        {
+            "type": "paragraph",
+            "content": "**Extinction of _Homo floriensis_**<br />\n_Indonesia, circa 13000 BCE?_",
+            "number": 14
+        },
+        {
+            "type": "paragraph",
+            "content": "Although this issue deals with apocalypse, endings, and destructive events, it returns to the theme of rebirth for a simple reason: humans have suffered numerous disasters throughout their history, but _Homo sapiens_ endures. Left out of this equation, however, are the hominid species who once co-existed with modern humans. These cousins of humanity did, in fact, witness true apocalypses. In 2003, the remains of one possible such species, dubbed _Homo floriensis_ were discovered in a cave on the island of Flores in Indonesia. These people may have survived until circa 13000-12000 BCE, well into the era of anatomically modern humans. Researchers are still trying to sequence their DNA and determine why they died out.  ",
+            "number": 15
+        },
+        {
+            "type": "major-header",
+            "content": "Divine Interventions"
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/539/***/GogMagog.jpg",
+            "alt": "",
+            "caption": "",
+            "credit": ""
+        },
+        {
+            "type": "paragraph",
+            "content": "**Gog and Magog**<br />\n_The Iron Gates, Central Asia, circa 1240_",
+            "number": 16
+        },
+        {
+            "type": "paragraph",
+            "content": "Both Medieval European and Muslim scholars believed that Alexander the Great had forged an “Iron Gate” somewhere in the steppes of Central Asia to prevent legendary giants known as Gog and Magog from being released. Islamic scholars believed that Allah would open the gates and lay waste to the settled states of Eurasia as a prelude to the End Times. Some commentators in both the Christian and Islamic worlds associated the depredations of the nomadic Mongols in the 13th century with these legends. ",
+            "number": 17
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/540/***/DeeCrop.jpg",
+            "alt": "",
+            "caption": "",
+            "credit": ""
+        },
+        {
+            "type": "paragraph",
+            "content": "**John Dee’s Angelic Dialogues**<br />\n_The Northwest Passage, 1580s_",
+            "number": 18
+        },
+        {
+            "type": "paragraph",
+            "content": "John Dee, an Elizabethan mathematician, philosopher and mystic, became convinced that he was being visited by angelic beings in the 1580s. He believed that he would play a pivotal role in the pre-apocalyptic Second Coming of Christ, and linked this personal mystical belief to contemporaneous English attempts to discover a Northwest Passage between the Atlantic and Pacific Oceans. Believing that the discovery of this passage would lead to the conversion of the world’s peoples to a new form of Christian faith, Dee chartered a “Fellowship of New Navigations Atlanticall” for “North-West streights discoverie” in 1583. Although the fellowship folded within a year, a similar charter was won by Dee’s friend, Sir Walter Raleigh. The result was the founding of Jamestown, Virginia in 1585.",
+            "number": 19
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/541/***/Kali.jpg",
+            "alt": "",
+            "caption": "",
+            "credit": ""
+        },
+        {
+            "type": "paragraph",
+            "content": "**Kali’s Cycle of Destruction**<br />_South Asia, ∞_",
+            "number": 20
+        },
+        {
+            "type": "paragraph",
+            "content": "When Robert Oppenheimer witnessed the first successful atomic bomb test—an event described in two pieces from this issue, Jonathan Fetter-Vorn’s [_Trinity_](#1) graphic novel excerpt and Bruce Hunt’s [article on the first feature film](#2) about the Bomb—his thoughts turned to a line from ancient Vedic scripture: “Now I am become Death, the destroyer of worlds.” This was Oppenheimer’s personal translation of the original Sanskrit, in which the word kala is used – a word that in its feminine form denotes Kali, the Hindu goddess of death. But the word can also mean “Time,” and Kali is associated with cyclical rebirth as well as destruction.",
+            "number": 21,
+            "internal-links": [
+                {
+                    "token": "#1",
+                    "web": "http://theappendix.net/issues/2012/12/not-so-funny-pages-excerpt-trinity-a-graphic-history-of-the-first-atomic-bomb",
+                    "epub": "fetter-vorm-trinity.xhtml"
+                },
+                {
+                    "token": "#2",
+                    "web": "http://theappendix.net/issues/2012/12/box-office-bomb-the-beginning-or-the-end-1947",
+                    "epub": "hunt-box_office.xhtml"
+                }
+            ]
+        }
+    ],
+    "supernotes": {}
+}
