@@ -9,7 +9,7 @@
     "content": [
         {
             "type": "image",
-            "url-format": "/000/000/955/***/digs1.jpg",
+            "url-format": "/000/000/955/***/jazzage1.jpg",
             "alt": "illustration",
             "no-border": true
         },
@@ -33,7 +33,7 @@
         },
         {
             "type": "image",
-            "url-format": "/000/000/956/***/Digs2.jpg",
+            "url-format": "/000/000/956/***/jazzage2.jpg",
             "alt": "A photograph from the newsletter",
             "caption": "The Anti-Rain Dance."
         },
@@ -208,42 +208,42 @@
             "images": [
                 {
                     "type": "image",
-                    "url-format": "/000/000/957/***/digs3.jpg",
+                    "url-format": "/000/000/957/***/jazzage3.jpg",
                     "full-page": true
                 },
                 {
                     "type": "image",
-                    "url-format": "/000/000/958/***/Digs4.jpg",
+                    "url-format": "/000/000/958/***/jazzage4.jpg",
                     "full-page": true
                 },
                 {
                     "type": "image",
-                    "url-format": "/000/000/959/***/digs5.jpg",
+                    "url-format": "/000/000/959/***/jazzage5.jpg",
                     "full-page": true
                 },
                 {
                     "type": "image",
-                    "url-format": "/000/000/960/***/Digs6.jpg",
+                    "url-format": "/000/000/960/***/jazzage6.jpg",
                     "full-page": true
                 },
                 {
                     "type": "image",
-                    "url-format": "/000/000/962/***/Digs8.jpg",
+                    "url-format": "/000/000/962/***/jazzage7.jpg",
                     "full-page": true
                 },
                 {
                     "type": "image",
-                    "url-format": "/000/000/963/***/Digs9.jpg",
+                    "url-format": "/000/000/963/***/jazzage8.jpg",
                     "full-page": true
                 },
                 {
                     "type": "image",
-                    "url-format": "/000/000/964/***/Digs10.jpg",
+                    "url-format": "/000/000/964/***/jazzage9.jpg",
                     "full-page": true
                 },
                 {
                     "type": "image",
-                    "url-format": "/000/000/965/***/Digs11.jpg",
+                    "url-format": "/000/000/965/***/jazzage10.jpg",
                     "full-page": true
                 }
             ]
