@@ -56,20 +56,10 @@
         "content": "Newsbook plays like the _Mistris Parliament_ series circulated in the same printed format as other political works from this era. _Mistris Parliament I_ looks like this:",
         "number": 7
     }, {
-        "type": "anvil-gallery",
-        "images": [{
-            "url-format": "/000/001/348/***/Nicosia3.jpg",
-            "alt": "Mistris Parliament I",
-            "credit": "The [HathiTrust/Google digital copy](http://babel.hathitrust.org/cgi/pt?id=nnc1.cu56787960;view=1up;seq=4) of the Columbia RBML original of  _Mistris Parliament I_"
-        }, {
-            "url-format": "/000/001/349/***/Nicosia4.jpeg",
-            "alt": "Mistris Parliament I",
-            "credit": "The [HathiTrust/Google digital copy](http://babel.hathitrust.org/cgi/pt?id=nnc1.cu56787960;view=1up;seq=4) of the Columbia RBML original of  _Mistris Parliament I_"
-        }, {
-            "url-format": "/000/001/350/***/Nicosia5.jpg",
-            "alt": "Mistris Parliament I",
-            "credit": "The [HathiTrust/Google digital copy](http://babel.hathitrust.org/cgi/pt?id=nnc1.cu56787960;view=1up;seq=4) of the Columbia RBML original of  _Mistris Parliament I_"
-        }]
+      "type": "image",
+      "url-format": "/000/001/348/***/Nicosia3.jpg",
+      "alt": "Mistris Parliament I",
+      "credit": "The [HathiTrust/Google digital copy](http://babel.hathitrust.org/cgi/pt?id=nnc1.cu56787960;view=1up;seq=4) of the Columbia RBML original of  _Mistris Parliament I_"
     }, {
         "type": "paragraph",
         "content": "After the text was printed on a single sheet of paper, these pamphlets were made by folding the printed sheet of paper into four parts, trimming the edges, and stab-stitching the folds together to produce a slim volume. To keep these brief books, owners would bind them together in a sammelbände, with similarly-sized or thematically-related materials, and store them in their personal libraries. But political print ephemera were also discarded, used for scrap paper, or repurposed as toilet tissue, a trend “Bum Fodder” and other ballads affirm in their verses.  These short-lived pamphlets recorded the news: the day-to-day events of a nation at war with itself, the debates in Parliament and among the troops, the grievances of the capital and the countryside. Reaching beyond the journalistic present, some _Mercurii_ imagined scenes—like the birth of a child of reformation—to distinguish themselves in the crowded market and perhaps avoid an excremental fate.",
