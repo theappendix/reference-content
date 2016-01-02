@@ -121,29 +121,6 @@
       "number": 17
     },
     {
-      "type": "anvil-gallery",
-      "images": [
-        {
-          "url-format": "/000/001/126/***/trainor3a.jpg",
-          "alt": "Portrait of side-whiskers",
-          "caption": "Portrait of an unidentified man with side-whiskers c. 1850 by Matthew Brady’s studio.",
-          "credit": "Library of Congress"
-        },
-        {
-          "url-format": "/000/001/127/***/trainor3b.jpg",
-          "alt": "Confederate general S.D. Lee",
-          "caption": "Confederate general S. D. Lee, whom the _Columbian Register_ of New Haven, Connecticut described as having “light hair and whiskers.”",
-          "credit": "Wikimedia Commons"
-        },
-        {
-          "url-format": "/000/001/128/***/trainor3c.jpg",
-          "alt": "Photograph of neck-bearded man",
-          "caption": "A neck-bearded (neck-whiskered?) young man photographed in 1888 by C. Burr Marsh.",
-          "credit": "Wikimedia Commons"
-        }
-      ]
-    },
-    {
       "type": "paragraph",
       "content": "‘Beards,’ on the other hand, were more unruly affairs. In an article in the _American Phrenological Journal_ entitled “Wearing the Beard,” for instance, the anonymous F.W.E. instructed beard-wearers that, contrary to the practice of bewhiskered men, “_Thou shalt not cut it off at all, but let it grow. Let it grow, all of it, as long as it will_.” What often distinguished beards from whiskers, then, was neither facial real-estate nor the length of one’s hair—one might wear a short, untamed beard-in-the-making or a long, carefully-sculpted set of whiskers—but rather one’s relationship to the work of men’s grooming. Hairy men who continued to visit the barber, trim their mustaches, or wax their locks wore whiskers; men who let their facial hair grow unrestrained sported beards.",
       "number": 18
