@@ -42,18 +42,17 @@
         "content": "Only one complete dream manual has survived from antiquity, the _oneirocritica_ (ὀνειροκριτικά) by Artemidorus of Daldis. Likely writing in the second and perhaps early third century CE, Artemidorus argued that dream interpretation could be an empirical practice rather than simply a service of swindlers, as [alleged](http://www.tertullian.org/fathers/juvenal_satires_06.htm) by writers such as the satirist Juvenal.",
         "number": 5
     }, {
-        "type": "anvil-gallery",
-        "images": [{
-            "url-format": "/000/001/405/***/Bond3.jpg",
-            "alt": "mandible",
-            "caption": "T57 Mandible from a Roman skeleton.",
-            "credit": "Courtesy of Kristina Killgrove"
-        }, {
-            "url-format": "/000/001/406/***/Bond3a.jpg",
-            "alt": "votive offering",
-            "caption": "Ancient Roman votive offering of teeth, c. 200 BCE to 200 CE.",
-            "credit": "Wellcome Images"
-        }]
+        "type": "image",
+        "url-format": "/000/001/405/***/Bond3.jpg",
+        "alt": "mandible",
+        "caption": "T57 Mandible from a Roman skeleton.",
+        "credit": "Courtesy of Kristina Killgrove"
+    }, {
+        "type": "image",
+        "url-format": "/000/001/406/***/Bond3a.jpg",
+        "alt": "votive offering",
+        "caption": "Ancient Roman votive offering of teeth, c. 200 BCE to 200 CE.",
+        "credit": "Wellcome Images"
     }, {
         "type": "paragraph",
         "content": "Many themes in the dreams of antiquity are familiar to dreamers today. Where they differ is in the interpretation. Today, we tend to interpret dreams of teeth falling out as indicative of anxiety. Yet Romans favored a rather more complex interpretation, often centered on teeth as representative of individuals or objects. Tooth loss was especially significant. The historian Suetonius claimed that while in Greece, the future emperor Vespasian dreamed that fortune would begin to shine on him and his family as soon as the emperor Nero lost a tooth. Sure enough, the next day, a physician showed him a tooth that he had earlier extracted from the mouth of the infamous Julio-Claudian. Our aforementioned dream diviner, Artemidorus, writes extensively about the subject of teeth. To Artemidorus, your mouth personified your household. As such, the top teeth indicated important persons, while the bottom were the inferior individuals.",

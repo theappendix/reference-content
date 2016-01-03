@@ -10,27 +10,25 @@
     },
     "content": [
         {
-            "type": "anvil-gallery",
-            "images": [
-                {
-                    "url-format": "/000/001/625/***/LibroEntradasYSalidas1793.jpg",
-                    "alt": "Ship Log",
-                    "caption": "Title page of Cartagena’s 1793 book of ship arrivals and departures.",
-                    "credit": "Archivo General de la Nación, Bogota, Colombia. Archivo Anexo 1, Aduanas, 22, 539-569"
-                },
-                {
-                    "url-format": "/000/001/626/***/Entradas1793.jpg",
-                    "alt": "Ship Log",
-                    "caption": "Sample pages of Cartagena’s 1793 book of arrivals and departures.",
-                    "credit": "Archivo General de la Nación, Bogota, Colombia. Archivo Anexo 1, Aduanas, 22, 539-569"
-                },
-                {
-                    "url-format": "/000/001/627/***/Salidas1793.jpg",
-                    "alt": "Ship Log",
-                    "caption": "Sample pages of Cartagena’s 1793 book of arrivals and departures.",
-                    "credit": "Archivo General de la Nación, Bogota, Colombia. Archivo Anexo 1, Aduanas, 22, 539-569"
-                }
-            ]
+            "type": "image",
+            "url-format": "/000/001/625/***/LibroEntradasYSalidas1793.jpg",
+            "alt": "Ship Log",
+            "caption": "Title page of Cartagena’s 1793 book of ship arrivals and departures.",
+            "credit": "Archivo General de la Nación, Bogota, Colombia. Archivo Anexo 1, Aduanas, 22, 539-569"
+        },
+        {
+            "type": "image",
+            "url-format": "/000/001/626/***/Entradas1793.jpg",
+            "alt": "Ship Log",
+            "caption": "Sample pages of Cartagena’s 1793 book of arrivals and departures.",
+            "credit": "Archivo General de la Nación, Bogota, Colombia. Archivo Anexo 1, Aduanas, 22, 539-569"
+        },
+        {
+            "type": "image",
+            "url-format": "/000/001/627/***/Salidas1793.jpg",
+            "alt": "Ship Log",
+            "caption": "Sample pages of Cartagena’s 1793 book of arrivals and departures.",
+            "credit": "Archivo General de la Nación, Bogota, Colombia. Archivo Anexo 1, Aduanas, 22, 539-569"
         },
         {
             "type": "paragraph",
@@ -53,19 +51,16 @@
             "number": 4
         },
         {
-            "type": "anvil-gallery",
-            "images": [
-                {
-                    "url-format": "/000/001/680/***/bassinew1.jpg",
-                    "caption": "Nightingale (1825), a two gun schooner.",
-                    "credit": "National Maritime Museum, Greenwich, London"
-                },
-                {
-                    "url-format": "/000/001/681/***/bassinew2.jpg",
-                    "caption": "The schooner Little Cumberland, 1802.",
-                    "credit": "National Maritime Museum, Greenwich, London"
-                }
-            ]
+            "type": "image",
+            "url-format": "/000/001/680/***/bassinew1.jpg",
+            "caption": "Nightingale (1825), a two gun schooner.",
+            "credit": "National Maritime Museum, Greenwich, London"
+        },
+        {
+            "type": "image",
+            "url-format": "/000/001/681/***/bassinew2.jpg",
+            "caption": "The schooner Little Cumberland, 1802.",
+            "credit": "National Maritime Museum, Greenwich, London"
         },
         {
             "type": "paragraph",
@@ -83,25 +78,24 @@
             "number": 7
         },
         {
-            "type": "anvil-gallery",
-            "images": [
-                {
-                    "url-format": "/000/001/628/***/Bassi1a.jpg",
-                    "alt": "Map"
-                },
-                {
-                    "url-format": "/000/001/629/***/Bassi1b.jpg",
-                    "alt": "Map"
-                },
-                {
-                    "url-format": "/000/001/630/***/bassi1c.jpg",
-                    "alt": "Map"
-                },
-                {
-                    "url-format": "/000/001/646/***/bassi1d.jpg",
-                    "alt": "Map"
-                }
-            ]
+            "type": "image",
+            "url-format": "/000/001/628/***/Bassi1a.jpg",
+            "alt": "Map"
+        },
+        {
+            "type": "image",
+            "url-format": "/000/001/629/***/Bassi1b.jpg",
+            "alt": "Map"
+        },
+        {
+            "type": "image",
+            "url-format": "/000/001/630/***/bassi1c.jpg",
+            "alt": "Map"
+        },
+        {
+            "type": "image",
+            "url-format": "/000/001/646/***/bassi1d.jpg",
+            "alt": "Map"
         },
         {
             "type": "paragraph",
@@ -124,29 +118,29 @@
             "number": 11
         },
         {
-            "type": "anvil-gallery",
-            "images": [
-                {
-                    "url-format": "/000/001/632/***/Bassi2a.jpg",
-                    "alt": "Map"
-                },
-                {
-                    "url-format": "/000/001/633/***/Bassi2b.jpg",
-                    "alt": "Map"
-                },
-                {
-                    "url-format": "/000/001/634/***/bassi2c.jpg",
-                    "alt": "Map"
-                },
-                {
-                    "url-format": "/000/001/636/***/bassi2d.jpg",
-                    "alt": "Map"
-                },
-                {
-                    "url-format": "/000/001/637/***/bassi2e.jpg",
-                    "alt": "Map"
-                }
-            ]
+            "type": "image",
+            "url-format": "/000/001/632/***/Bassi2a.jpg",
+            "alt": "Map"
+        },
+        {
+            "type": "image",
+            "url-format": "/000/001/633/***/Bassi2b.jpg",
+            "alt": "Map"
+        },
+        {
+            "type": "image",
+            "url-format": "/000/001/634/***/bassi2c.jpg",
+            "alt": "Map"
+        },
+        {
+            "type": "image",
+            "url-format": "/000/001/636/***/bassi2d.jpg",
+            "alt": "Map"
+        },
+        {
+            "type": "image",
+            "url-format": "/000/001/637/***/bassi2e.jpg",
+            "alt": "Map"
         },
         {
             "type": "paragraph",

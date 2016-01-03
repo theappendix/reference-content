@@ -36,81 +36,88 @@
             "type": "major-divider"
         },
         {
-            "type": "anvil-gallery",
-            "images": [
-                {
-                    "url-format": "/000/000/857/***/page24.jpg",
-                    "alt": "Page 24",
-                    "no-border": true,
-                    "full-page": true
-                },
-                {
-                    "url-format": "/000/000/858/***/page25.jpg",
-                    "alt": "Page #25",
-                    "no-border": true,
-                    "full-page": true
-                },
-                {
-                    "url-format": "/000/000/859/***/page26.jpg",
-                    "alt": "Page #26",
-                    "no-border": true,
-                    "full-page": true
-                },
-                {
-                    "url-format": "/000/000/860/***/page27.jpg",
-                    "alt": "Page #27",
-                    "no-border": true,
-                    "full-page": true
-                },
-                {
-                    "url-format": "/000/000/861/***/page28.jpg",
-                    "alt": "Page #28",
-                    "no-border": true,
-                    "full-page": true
-                },
-                {
-                    "url-format": "/000/000/862/***/page29.jpg",
-                    "alt": "Page #29",
-                    "no-border": true,
-                    "full-page": true
-                },
-                {
-                    "url-format": "/000/000/863/***/page30.jpg",
-                    "alt": "Page #30",
-                    "no-border": true,
-                    "full-page": true
-                },
-                {
-                    "url-format": "/000/000/864/***/page31.jpg",
-                    "alt": "Page #31",
-                    "no-border": true,
-                    "full-page": true
-                },
-                {
-                    "url-format": "/000/000/865/***/page32.jpg",
-                    "alt": "Page #32",
-                    "no-border": true,
-                    "full-page": true
-                },
-                {
-                    "url-format": "/000/000/866/***/page33.jpg",
-                    "alt": "Page #33",
-                    "no-border": true,
-                    "full-page": true
-                },
-                {
-                    "url-format": "/000/000/867/***/page34.jpg",
-                    "alt": "Page #34",
-                    "no-border": true,
-                    "full-page": true
-                },
-                {
-                    "url-format": "/000/000/868/***/page35.jpg",
-                    "alt": "Page #35",
-                    "no-border": true,
-                    "full-page": true
-                }
-            ]
+            "type": "image",
+            "url-format": "/000/000/857/***/page24.jpg",
+            "alt": "Page 24",
+            "no-border": true,
+            "full-page": true
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/858/***/page25.jpg",
+            "alt": "Page #25",
+            "no-border": true,
+            "full-page": true
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/859/***/page26.jpg",
+            "alt": "Page #26",
+            "no-border": true,
+            "full-page": true
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/860/***/page27.jpg",
+            "alt": "Page #27",
+            "no-border": true,
+            "full-page": true
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/861/***/page28.jpg",
+            "alt": "Page #28",
+            "no-border": true,
+            "full-page": true
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/862/***/page29.jpg",
+            "alt": "Page #29",
+            "no-border": true,
+            "full-page": true
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/863/***/page30.jpg",
+            "alt": "Page #30",
+            "no-border": true,
+            "full-page": true
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/864/***/page31.jpg",
+            "alt": "Page #31",
+            "no-border": true,
+            "full-page": true
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/865/***/page32.jpg",
+            "alt": "Page #32",
+            "no-border": true,
+            "full-page": true
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/866/***/page33.jpg",
+            "alt": "Page #33",
+            "no-border": true,
+            "full-page": true
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/867/***/page34.jpg",
+            "alt": "Page #34",
+            "no-border": true,
+            "full-page": true
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/868/***/page35.jpg",
+            "alt": "Page #35",
+            "no-border": true,
+            "full-page": true
         }
     ]
 }

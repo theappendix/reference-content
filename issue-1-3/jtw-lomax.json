@@ -33,37 +33,36 @@
       "type": "major-divider"
     },
     {
-      "type": "anvil-gallery",
-      "images": [
-        {
-          "url-format": "/000/000/489/***/blues1.jpg",
-          "alt": "Page 1",
-          "caption": "Page 1",
-          "credit": "",
-          "full-page": true
-        },
-        {
-          "url-format": "/000/000/490/***/blues2.jpg",
-          "alt": "Page 2",
-          "caption": "Page 2",
-          "credit": "",
-          "full-page": true
-        },
-        {
-          "url-format": "/000/000/491/***/blues3.jpg",
-          "alt": "Page 3",
-          "caption": "Page 3",
-          "credit": "",
-          "full-page": true
-        },
-        {
-          "url-format": "/000/000/492/***/blues4.jpg",
-          "alt": "Page 4",
-          "caption": "Page 4",
-          "credit": "",
-          "full-page": true
-        }
-      ]
+      "type": "image",
+      "url-format": "/000/000/489/***/blues1.jpg",
+      "alt": "Page 1",
+      "caption": "Page 1",
+      "credit": "",
+      "full-page": true
+    },
+    {
+      "type": "image",
+      "url-format": "/000/000/490/***/blues2.jpg",
+      "alt": "Page 2",
+      "caption": "Page 2",
+      "credit": "",
+      "full-page": true
+    },
+    {
+      "type": "image",
+      "url-format": "/000/000/491/***/blues3.jpg",
+      "alt": "Page 3",
+      "caption": "Page 3",
+      "credit": "",
+      "full-page": true
+    },
+    {
+      "type": "image",
+      "url-format": "/000/000/492/***/blues4.jpg",
+      "alt": "Page 4",
+      "caption": "Page 4",
+      "credit": "",
+      "full-page": true
     }
   ],
   "supernotes": {}

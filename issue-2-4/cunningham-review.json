@@ -32,17 +32,14 @@
             "number": 3
         },
         {
-            "type": "anvil-gallery",
-            "images": [
-                {
-                    "url-format": "/000/001/602/***/cunningham2a.jpg",
-                    "alt": "Jill Lepore Book of Ages"
-                },
-                {
-                    "url-format": "/000/001/603/***/cunningham2b.jpg",
-                    "alt": "Gaiutra Bahadur Coolie Woman"
-                }
-            ]
+            "type": "image",
+            "url-format": "/000/001/602/***/cunningham2a.jpg",
+            "alt": "Jill Lepore Book of Ages"
+        },
+        {
+            "type": "image",
+            "url-format": "/000/001/603/***/cunningham2b.jpg",
+            "alt": "Gaiutra Bahadur Coolie Woman"
         },
         {
             "type": "paragraph",

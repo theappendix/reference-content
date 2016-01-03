@@ -85,21 +85,18 @@
       "number": 12
     },
     {
-      "type": "anvil-gallery",
-      "images": [
-        {
-          "url-format": "/000/000/427/***/healthgood.jpg",
-          "alt": "A Health to All Good-Fellowes",
-          "caption": "“A Health to All Good-Fellowes”",
-          "credit": "English Broadside Ballad Archive, Roxburghe collection by permission of The British Library"
-        },
-        {
-          "url-format": "/000/000/428/***/merrycobblers.jpg",
-          "alt": "The Three Merry Cobblers",
-          "caption": "“The three merry Coblers”",
-          "credit": "English Broadside Ballad Archive, Roxburghe collection by permission of the British Library"
-        }
-      ]
+      "type": "image",
+      "url-format": "/000/000/427/***/healthgood.jpg",
+      "alt": "A Health to All Good-Fellowes",
+      "caption": "“A Health to All Good-Fellowes”",
+      "credit": "English Broadside Ballad Archive, Roxburghe collection by permission of The British Library"
+    },
+    {
+      "type": "image",
+      "url-format": "/000/000/428/***/merrycobblers.jpg",
+      "alt": "The Three Merry Cobblers",
+      "caption": "“The three merry Coblers”",
+      "credit": "English Broadside Ballad Archive, Roxburghe collection by permission of the British Library"
     },
     {
       "type": "paragraph",

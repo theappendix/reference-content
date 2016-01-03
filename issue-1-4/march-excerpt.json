@@ -30,44 +30,46 @@
             "type": "major-divider"
         },
         {
-            "type": "anvil-gallery",
-            "images": [
-                {
-                    "url-format": "/000/000/620/***/March-interior-hi-res-67.jpg",
-                    "alt": "Page 1",
-                    "full-page": true
-                },
-                {
-                    "url-format": "/000/000/621/***/March-interior-hi-res-68.jpg",
-                    "alt": "Page 2",
-                    "full-page": true
-                },
-                {
-                    "url-format": "/000/000/622/***/March-interior-hi-res-69.jpg",
-                    "alt": "Page 3",
-                    "full-page": true
-                },
-                {
-                    "url-format": "/000/000/623/***/March-interior-hi-res-70.jpg",
-                    "alt": "Page 4",
-                    "full-page": true
-                },
-                {
-                    "url-format": "/000/000/624/***/March-interior-hi-res-71.jpg",
-                    "alt": "Page 5",
-                    "full-page": true
-                },
-                {
-                    "url-format": "/000/000/625/***/March-interior-hi-res-72.jpg",
-                    "alt": "Page 6",
-                    "full-page": true
-                },
-                {
-                    "url-format": "/000/000/626/***/March-interior-hi-res-73.jpg",
-                    "alt": "Page 7",
-                    "full-page": true
-                }  
-            ]
-        }
+            "type": "image",
+            "url-format": "/000/000/620/***/March-interior-hi-res-67.jpg",
+            "alt": "Page 1",
+            "full-page": true
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/621/***/March-interior-hi-res-68.jpg",
+            "alt": "Page 2",
+            "full-page": true
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/622/***/March-interior-hi-res-69.jpg",
+            "alt": "Page 3",
+            "full-page": true
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/623/***/March-interior-hi-res-70.jpg",
+            "alt": "Page 4",
+            "full-page": true
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/624/***/March-interior-hi-res-71.jpg",
+            "alt": "Page 5",
+            "full-page": true
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/625/***/March-interior-hi-res-72.jpg",
+            "alt": "Page 6",
+            "full-page": true
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/626/***/March-interior-hi-res-73.jpg",
+            "alt": "Page 7",
+            "full-page": true
+        }  
     ]
 }

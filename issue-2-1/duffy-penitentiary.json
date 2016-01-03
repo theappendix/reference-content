@@ -162,19 +162,16 @@
             "number": 18
         },
         {
-            "type": "anvil-gallery",
-            "images": [
-                {
-                    "url-format": "/000/000/844/***/10_horse_seal.JPG",
-                    "alt": "Seal",
-                    "credit": "Kate Duffy, 2010"
-                },
-                {
-                    "url-format": "/000/000/845/***/11_unicorn_seal.JPG",
-                    "alt": "Seal",
-                    "credit": "Kate Duffy, 2010"
-                }
-            ]
+            "type": "image",
+            "url-format": "/000/000/844/***/10_horse_seal.JPG",
+            "alt": "Seal",
+            "credit": "Kate Duffy, 2010"
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/845/***/11_unicorn_seal.JPG",
+            "alt": "Seal",
+            "credit": "Kate Duffy, 2010"
         },
         {
             "type": "paragraph",
@@ -302,19 +299,16 @@
             "type": "major-divider"
         },
         {
-            "type": "anvil-gallery",
-            "images": [
-                {
-                    "url-format": "/000/000/851/***/16_facta_non_verba_RED.jpg",
-                    "alt": "Facta Non Verba",
-                    "credit": "Kate Duffy, 2010"
-                },
-                {
-                    "url-format": "/000/000/852/***/17_facta_non_verba_backstop_RED.jpg",
-                    "alt": "Facta Non Verba",
-                    "credit": "Kate Duffy, 2010"
-                }
-            ]
+            "type": "image",
+            "url-format": "/000/000/851/***/16_facta_non_verba_RED.jpg",
+            "alt": "Facta Non Verba",
+            "credit": "Kate Duffy, 2010"
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/852/***/17_facta_non_verba_backstop_RED.jpg",
+            "alt": "Facta Non Verba",
+            "credit": "Kate Duffy, 2010"
         },
         {
             "type": "paragraph",
@@ -333,19 +327,16 @@
             "number": 39
         },
         {
-            "type": "anvil-gallery",
-            "images": [
-                {
-                    "url-format": "/000/000/854/***/19_stone_wall_CK.JPG",
-                    "alt": "CK on Wall",
-                    "credit": "Kate Duffy, 2010"
-                },
-                {
-                    "url-format": "/000/000/855/***/20_stonewall_face.JPG",
-                    "alt": "Face on Wall",
-                    "credit": "Kate Duffy, 2010"
-                }
-            ]
+            "type": "image",
+            "url-format": "/000/000/854/***/19_stone_wall_CK.JPG",
+            "alt": "CK on Wall",
+            "credit": "Kate Duffy, 2010"
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/855/***/20_stonewall_face.JPG",
+            "alt": "Face on Wall",
+            "credit": "Kate Duffy, 2010"
         },
         {
             "type": "paragraph",

@@ -32,21 +32,18 @@
       "number": 3
     },
     {
-      "type": "anvil-gallery",
-      "images": [
-        {
-          "url-format": "/000/000/449/***/WhitneyHall03.jpg",
-          "alt": "Exhibit",
-          "caption": "The dome above the Whitney Hall as it looks today.",
-          "credit": "Branan Edgens"
-        },
-        {
-          "url-format": "/000/000/450/***/WhitneyHall04.jpg",
-          "alt": "Birds",
-          "caption": "The dome above the Whitney Hall as it originally appeared.",
-          "credit": "AMNH Photo #315991"
-        }
-      ]
+      "type": "image",
+      "url-format": "/000/000/449/***/WhitneyHall03.jpg",
+      "alt": "Exhibit",
+      "caption": "The dome above the Whitney Hall as it looks today.",
+      "credit": "Branan Edgens"
+    },
+    {
+      "type": "image",
+      "url-format": "/000/000/450/***/WhitneyHall04.jpg",
+      "alt": "Birds",
+      "caption": "The dome above the Whitney Hall as it originally appeared.",
+      "credit": "AMNH Photo #315991"
     },
     {
       "type": "paragraph",
@@ -336,19 +333,16 @@
       "number": 32
     },
     {
-      "type": "anvil-gallery",
-      "images": [
-        {
-          "url-format": "/000/000/470/***/WhitneyHall35.jpg",
-          "caption": "Scenes from the visible Whitney hall dioramas today.",
-          "credit": "Branan Edgens"
-        },
-        {
-          "url-format": "/000/000/471/***/WhitneyHall36.jpg",
-          "caption": "Scenes from the visible Whitney hall dioramas today.",
-          "credit": "Branan Edgens"
-        }
-      ]
+      "type": "image",
+      "url-format": "/000/000/470/***/WhitneyHall35.jpg",
+      "caption": "Scenes from the visible Whitney hall dioramas today.",
+      "credit": "Branan Edgens"
+    },
+    {
+      "type": "image",
+      "url-format": "/000/000/471/***/WhitneyHall36.jpg",
+      "caption": "Scenes from the visible Whitney hall dioramas today.",
+      "credit": "Branan Edgens"
     },
     {
       "type": "paragraph",

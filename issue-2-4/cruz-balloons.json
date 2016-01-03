@@ -224,19 +224,16 @@
             "number": 22
         },
         {
-            "type": "anvil-gallery",
-            "images": [
-                {
-                    "url-format": "/000/001/660/***/balao4.JPG",
-                    "alt": "Baloeiros",
-                    "caption": "Baloeiros preparing for a launch, using the characteristic striped winter hats that teams often share as part of their uniform."
-                },
-                {
-                    "url-format": "/000/001/661/***/balao4a.JPG",
-                    "alt": "Inflating a Balloon",
-                    "caption": "Baloeiros about to inflate a huge balloon with a propane torch."
-                }
-            ]
+            "type": "image",
+            "url-format": "/000/001/660/***/balao4.JPG",
+            "alt": "Baloeiros",
+            "caption": "Baloeiros preparing for a launch, using the characteristic striped winter hats that teams often share as part of their uniform."
+        },
+        {
+            "type": "image",
+            "url-format": "/000/001/661/***/balao4a.JPG",
+            "alt": "Inflating a Balloon",
+            "caption": "Baloeiros about to inflate a huge balloon with a propane torch."
         },
         {
             "type": "paragraph",
@@ -279,21 +276,18 @@
             "number": 30
         },
         {
-            "type": "anvil-gallery",
-            "images": [
-                {
-                    "url-format": "/000/001/662/***/BaloeiroUniform1.JPG",
-                    "alt": "Balloonist Uniform",
-                    "caption": "Most teams have their own uniforms, which they use at launch events.",
-                    "credit": "Author’s collection"
-                },
-                {
-                    "url-format": "/000/001/663/***/BaloeiroUniform2.JPG",
-                    "alt": "Balloonist Uniform",
-                    "caption": "Most teams have their own uniforms, which they use at launch events.",
-                    "credit": "Author’s collection"
-                }
-            ]
+            "type": "image",
+            "url-format": "/000/001/662/***/BaloeiroUniform1.JPG",
+            "alt": "Balloonist Uniform",
+            "caption": "Most teams have their own uniforms, which they use at launch events.",
+            "credit": "Author’s collection"
+        },
+        {
+            "type": "image",
+            "url-format": "/000/001/663/***/BaloeiroUniform2.JPG",
+            "alt": "Balloonist Uniform",
+            "caption": "Most teams have their own uniforms, which they use at launch events.",
+            "credit": "Author’s collection"
         },
         {
             "type": "paragraph",

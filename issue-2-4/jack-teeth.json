@@ -272,17 +272,14 @@
             "type": "major-divider"
         },
         {
-            "type": "anvil-gallery",
-            "images": [
-                {
-                    "url-format": "/000/001/552/***/SAM_0057.JPG",
-                    "alt": "Letter from Doris Gould to CNI"
-                },
-                {
-                    "url-format": "/000/001/553/***/SAM_0058.JPG",
-                    "alt": "Letter from Doris Gould to CNI"
-                }
-            ]
+            "type": "image",
+            "url-format": "/000/001/552/***/SAM_0057.JPG",
+            "alt": "Letter from Doris Gould to CNI"
+        },
+        {
+            "type": "image",
+            "url-format": "/000/001/553/***/SAM_0058.JPG",
+            "alt": "Letter from Doris Gould to CNI"
         },
         {
           "type": "paragraph",

@@ -240,21 +240,18 @@
       "number": 37
     },
     {
-      "type": "anvil-gallery",
-      "images": [
-        {
-          "url-format": "/000/000/384/***/smith4.jpg",
-          "alt": "discharge poster",
-          "caption": "Poster for _Discharge’s_ ill fated 1986 show.",
-          "credit": "[_True Punk and Metal_](http://truepunkmetal.blogspot.com)"
-        },
-        {
-          "url-format": "/000/000/385/***/smith3.JPG",
-          "alt": "tapes",
-          "caption": "Original tape recording for the 1986 concert, which you can hear through the embedded audio in the beginning of this article.",
-          "credit": "[_True Punk and Metal_](http://truepunkmetal.blogspot.com)"
-        }
-      ]
+      "type": "image",
+      "url-format": "/000/000/384/***/smith4.jpg",
+      "alt": "discharge poster",
+      "caption": "Poster for _Discharge’s_ ill fated 1986 show.",
+      "credit": "[_True Punk and Metal_](http://truepunkmetal.blogspot.com)"
+    },
+    {
+      "type": "image",
+      "url-format": "/000/000/385/***/smith3.JPG",
+      "alt": "tapes",
+      "caption": "Original tape recording for the 1986 concert, which you can hear through the embedded audio in the beginning of this article.",
+      "credit": "[_True Punk and Metal_](http://truepunkmetal.blogspot.com)"
     },
     {
       "type": "paragraph",

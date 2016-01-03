@@ -123,20 +123,21 @@
         "type": "paragraph",
         "content": "The island’s closest neighbor, St. Helena, emerged as a kind of exotic imperial prison: it was there that the British confined Napoleon following his defeat at Waterloo. Seventy years later, a second defeated military leader would be exiled at St. Helena: Dinuzulu kaCetshwayo, the King of the Zulu. Islands like St. Helena and Tristan da Cunha ceased to tantalize adventurers and sailors with the promise of a life of Robinson Crusoe-like self-reliance. They became way stations in a vast system of global empire, staffed and maintained like fortresses, and administered by bureaucrats thousands of miles away.",
         "number": 20
+    },
+    {
+        "type": "image",
+        "url-format": "/000/001/300/***/Tristan3a.jpg",
+        "alt": "Napoelon on Island",
+        "caption": "Francois-Joseph Sandmann, _Napoleon at Saint-Helene_, 1828.",
+        "credit": "Wikimedia Commons"
     }, {
-        "type": "anvil-gallery",
-        "images": [{
-            "url-format": "/000/001/300/***/Tristan3a.jpg",
-            "alt": "Napoelon on Island",
-            "caption": "Francois-Joseph Sandmann, _Napoleon at Saint-Helene_, 1828.",
-            "credit": "Wikimedia Commons"
-        }, {
-            "url-format": "/000/001/302/***/Tristan3b.jpg",
-            "alt": "Dinuzulu kaCetshwayo",
-            "caption": "Dinuzulu kaCetshwayo in 1883.",
-            "credit": "Wikimedia Commons"
-        }]
-    }, {
+        "type": "image",
+        "url-format": "/000/001/302/***/Tristan3b.jpg",
+        "alt": "Dinuzulu kaCetshwayo",
+        "caption": "Dinuzulu kaCetshwayo in 1883.",
+        "credit": "Wikimedia Commons"
+    },
+    {
         "type": "paragraph",
         "content": "In the great games of nineteenth-century imperial rivalry, it seemed impossible that such tiny outposts could ever be more than places to restock supplies or deposit the occasional prisoner. But in the twenty-first century, such tiny, remote islands have taken on a entirely different function.",
         "number": 21

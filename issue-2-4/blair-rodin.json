@@ -164,21 +164,18 @@
             "number": 15
         },
         {
-            "type": "anvil-gallery",
-            "images": [
-                {
-                    "url-format": "/000/001/619/***/Blair9a.jpeg",
-                    "alt": "Rodin Sketch",
-                    "caption": "‘Front of Cambodian dancer’, 1906.",
-                    "credit": "Musée Rodin, Paris"
-                },
-                {
-                    "url-format": "/000/001/620/***/Blair9b.jpeg",
-                    "alt": "Rodin Sketch",
-                    "caption": "‘Cambodian dancer in left three-quarter profile’, 1906.",
-                    "credit": "Musée Rodin, Paris"
-                }
-            ]
+            "type": "image",
+            "url-format": "/000/001/619/***/Blair9a.jpeg",
+            "alt": "Rodin Sketch",
+            "caption": "‘Front of Cambodian dancer’, 1906.",
+            "credit": "Musée Rodin, Paris"
+        },
+        {
+            "type": "image",
+            "url-format": "/000/001/620/***/Blair9b.jpeg",
+            "alt": "Rodin Sketch",
+            "caption": "‘Cambodian dancer in left three-quarter profile’, 1906.",
+            "credit": "Musée Rodin, Paris"
         },
         {
             "type": "paragraph",
