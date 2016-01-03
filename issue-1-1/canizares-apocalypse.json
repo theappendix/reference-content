@@ -10,21 +10,18 @@
     },
     "content": [
         {
-            "type": "anvil-gallery",
-            "images": [
-                {
-                    "url-format": "/000/000/093/***/2._valades_millennial_church.jpg",
-                    "alt": "Rhetorica Christiana",
-                    "caption": "From Diego Valades, <i>Rhetorica Christiana</i>, 1579.",
-                    "credit": ""
-                },
-                {
-                    "url-format": "/000/000/092/***/2._gazophilatium_regium_perubicum-1647-gaspar_de_escalona_aguero-grab_juan_de_noort.jpg",
-                    "alt": "Gazophilatium regium Perubicum",
-                    "caption": "From Gaspar de Escalona Aguero, <i>Gazophilatium regium Perubicum</i>, 1647.",
-                    "credit": ""
-                }
-            ]
+            "type": "image",
+            "url-format": "/000/000/093/***/2._valades_millennial_church.jpg",
+            "alt": "Rhetorica Christiana",
+            "caption": "From Diego Valades, <i>Rhetorica Christiana</i>, 1579.",
+            "credit": ""
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/092/***/2._gazophilatium_regium_perubicum-1647-gaspar_de_escalona_aguero-grab_juan_de_noort.jpg",
+            "alt": "Gazophilatium regium Perubicum",
+            "caption": "From Gaspar de Escalona Aguero, <i>Gazophilatium regium Perubicum</i>, 1647.",
+            "credit": ""
         },
         {
             "type": "paragraph",

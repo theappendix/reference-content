@@ -193,21 +193,18 @@
             "number": 25
         },
         {
-            "type": "anvil-gallery",
-            "images": [
-                {
-                    "url-format": "/000/000/299/***/Walsh6.jpg",
-                    "alt": "Drawing by Boban",
-                    "caption": "Drawings from Boban’s _Antiquites Mexicaine_.",
-                    "credit": "Hispanic Society of America, New York"
-                },
-                {
-                    "url-format": "/000/000/300/***/Walsh7.jpg",
-                    "alt": "Drawing by Boban",
-                    "caption": "Drawings from Boban’s _Antiquites Mexicaine_.",
-                    "credit": "Hispanic Society of America, New York"
-                }
-            ]
+            "type": "image",
+            "url-format": "/000/000/299/***/Walsh6.jpg",
+            "alt": "Drawing by Boban",
+            "caption": "Drawings from Boban’s _Antiquites Mexicaine_.",
+            "credit": "Hispanic Society of America, New York"
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/300/***/Walsh7.jpg",
+            "alt": "Drawing by Boban",
+            "caption": "Drawings from Boban’s _Antiquites Mexicaine_.",
+            "credit": "Hispanic Society of America, New York"
         },
         {
             "type": "paragraph",

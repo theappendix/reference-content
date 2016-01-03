@@ -23,27 +23,25 @@
             "type": "major-divider"
         },
         {
-            "type": "anvil-gallery",
-            "images": [
-                {
-                    "url-format": "/000/000/133/***/island-of-thieves-1.jpg",
-                    "alt": "comics page 1",
-                    "caption": "",
-                    "credit": ""
-                },
-                {
-                    "url-format": "/000/000/134/***/island-of-thieves-2.jpg",
-                    "alt": "comics page 2",
-                    "caption": "",
-                    "credit": ""
-                },
-                {
-                    "url-format": "/000/000/135/***/island-of-thieves-3.jpg",
-                    "alt": "comics page 3",
-                    "caption": "",
-                    "credit": ""
-                }
-            ]
+            "type": "image",
+            "url-format": "/000/000/133/***/island-of-thieves-1.jpg",
+            "alt": "comics page 1",
+            "caption": "",
+            "credit": ""
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/134/***/island-of-thieves-2.jpg",
+            "alt": "comics page 2",
+            "caption": "",
+            "credit": ""
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/135/***/island-of-thieves-3.jpg",
+            "alt": "comics page 3",
+            "caption": "",
+            "credit": ""
         }
     ],
     "supernotes": {}

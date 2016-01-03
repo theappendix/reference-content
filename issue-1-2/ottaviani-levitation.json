@@ -53,75 +53,81 @@
             "type": "major-divider"
         },
         {
-            "type": "anvil-gallery",
-            "images": [
-                {
-                    "url-format": "/000/000/205/***/levitation_Page_01.jpg",
-                    "alt": "Page #1",
-                    "caption": "",
-                    "credit": ""
-                },
-                {
-                    "url-format": "/000/000/206/***/levitation_Page_02.jpg",
-                    "alt": "Page #2",
-                    "caption": "",
-                    "credit": ""
-                },
-                {
-                    "url-format": "/000/000/207/***/levitation_Page_03.jpg",
-                    "alt": "Page #3",
-                    "caption": "",
-                    "credit": ""
-                },
-                {
-                    "url-format": "/000/000/208/***/levitation_Page_04.jpg",
-                    "alt": "Page #4",
-                    "caption": "",
-                    "credit": ""
-                },
-                {
-                    "url-format": "/000/000/209/***/levitation_Page_05.jpg",
-                    "alt": "Page #5",
-                    "caption": "",
-                    "credit": ""
-                },
-                {
-                    "url-format": "/000/000/210/***/levitation_Page_06.jpg",
-                    "alt": "Page #6",
-                    "caption": "",
-                    "credit": ""
-                },
-                {
-                    "url-format": "/000/000/211/***/levitation_Page_07.jpg",
-                    "alt": "Page #7",
-                    "caption": "",
-                    "credit": ""
-                },
-                {
-                    "url-format": "/000/000/212/***/levitation_Page_08.jpg",
-                    "alt": "Page #8",
-                    "caption": "",
-                    "credit": ""
-                },
-                {
-                    "url-format": "/000/000/213/***/levitation_Page_09.jpg",
-                    "alt": "Page #9",
-                    "caption": "",
-                    "credit": ""
-                },
-                {
-                    "url-format": "/000/000/214/***/levitation_Page_10.jpg",
-                    "alt": "Page #10",
-                    "caption": "",
-                    "credit": ""
-                },
-                {
-                    "url-format": "/000/000/215/***/levitation_Page_11.jpg",
-                    "alt": "Page #11",
-                    "caption": "",
-                    "credit": ""
-                }
-            ]
+            "type": "image",
+            "url-format": "/000/000/205/***/levitation_Page_01.jpg",
+            "alt": "Page #1",
+            "caption": "",
+            "credit": ""
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/206/***/levitation_Page_02.jpg",
+            "alt": "Page #2",
+            "caption": "",
+            "credit": ""
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/207/***/levitation_Page_03.jpg",
+            "alt": "Page #3",
+            "caption": "",
+            "credit": ""
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/208/***/levitation_Page_04.jpg",
+            "alt": "Page #4",
+            "caption": "",
+            "credit": ""
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/209/***/levitation_Page_05.jpg",
+            "alt": "Page #5",
+            "caption": "",
+            "credit": ""
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/210/***/levitation_Page_06.jpg",
+            "alt": "Page #6",
+            "caption": "",
+            "credit": ""
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/211/***/levitation_Page_07.jpg",
+            "alt": "Page #7",
+            "caption": "",
+            "credit": ""
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/212/***/levitation_Page_08.jpg",
+            "alt": "Page #8",
+            "caption": "",
+            "credit": ""
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/213/***/levitation_Page_09.jpg",
+            "alt": "Page #9",
+            "caption": "",
+            "credit": ""
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/214/***/levitation_Page_10.jpg",
+            "alt": "Page #10",
+            "caption": "",
+            "credit": ""
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/215/***/levitation_Page_11.jpg",
+            "alt": "Page #11",
+            "caption": "",
+            "credit": ""
         }
     ],
     "supernotes": {

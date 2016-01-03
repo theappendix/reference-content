@@ -23,37 +23,36 @@
             "type": "major-divider"
         },
         {
-            "type": "anvil-gallery",
-            "images": [
-                {
-                    "url-format": "/000/000/200/***/Tom_Molineaux_01.jpg",
-                    "alt": "“The Tremendous Man of Color!!” Page 1",
-                    "credit": "",
-                    "caption": "",
-                    "full-page": true
-                },
-                {
-                    "url-format": "/000/000/201/***/Tom_Molineaux_02.jpg",
-                    "alt": "“The Tremendous Man of Color!!” Page 2",
-                    "credit": "",
-                    "caption": "",
-                    "full-page": true
-                },
-                {
-                    "url-format": "/000/000/202/***/Tom_Molineaux_03.jpg",
-                    "alt": "“The Tremendous Man of Color!!” Page 3",
-                    "credit": "",
-                    "caption": "",
-                    "full-page": true
-                },
-                {
-                    "url-format": "/000/000/203/***/Tom_Molineaux_04.jpg",
-                    "alt": "“The Tremendous Man of Color!!” Page 4",
-                    "credit": "",
-                    "caption": "",
-                    "full-page": true
-                }
-            ]
+            "type": "image",
+            "url-format": "/000/000/200/***/Tom_Molineaux_01.jpg",
+            "alt": "“The Tremendous Man of Color!!” Page 1",
+            "credit": "",
+            "caption": "",
+            "full-page": true
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/201/***/Tom_Molineaux_02.jpg",
+            "alt": "“The Tremendous Man of Color!!” Page 2",
+            "credit": "",
+            "caption": "",
+            "full-page": true
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/202/***/Tom_Molineaux_03.jpg",
+            "alt": "“The Tremendous Man of Color!!” Page 3",
+            "credit": "",
+            "caption": "",
+            "full-page": true
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/203/***/Tom_Molineaux_04.jpg",
+            "alt": "“The Tremendous Man of Color!!” Page 4",
+            "credit": "",
+            "caption": "",
+            "full-page": true
         }
     ],
     "supernotes": {}

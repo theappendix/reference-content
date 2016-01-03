@@ -42,21 +42,18 @@
             "number": 5
         },
         {
-            "type": "anvil-gallery",
-            "images": [
-                {
-                    "url-format": "/000/000/262/***/Lovejoy2.jpg",
-                    "alt": "Orrill Stapp’s manuscript",
-                    "caption": "“Wedged in among the newer works was a volume I’d never seen before.”",
-                    "credit": "Courtesy of the Seattle Public Library"
-                },
-                {
-                    "url-format": "/000/000/263/***/Lovejoy3.jpg",
-                    "alt": "Orrill Stapp’s manuscript title page",
-                    "caption": "Orrill Stapp’s manuscript title page",
-                    "credit": "Courtesy of the Seattle Public Library"
-                }
-            ]
+            "type": "image",
+            "url-format": "/000/000/262/***/Lovejoy2.jpg",
+            "alt": "Orrill Stapp’s manuscript",
+            "caption": "“Wedged in among the newer works was a volume I’d never seen before.”",
+            "credit": "Courtesy of the Seattle Public Library"
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/263/***/Lovejoy3.jpg",
+            "alt": "Orrill Stapp’s manuscript title page",
+            "caption": "Orrill Stapp’s manuscript title page",
+            "credit": "Courtesy of the Seattle Public Library"
         },
         {
             "type": "paragraph",

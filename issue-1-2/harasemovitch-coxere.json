@@ -71,23 +71,18 @@
             "number": 5
         },
         {
-            "type": "anvil-gallery",
-            "images": [
-                {
-                    "type": "image",
-                    "url-format": "/000/000/220/***/coxere4.jpg",
-                    "alt": "",
-                    "caption": "Ghar El Melhn, the port in which Ned Coxere spent some time as a slave.",
-                    "credit": "Library of Congress"
-                },
-                {
-                    "type": "image",
-                    "url-format": "/000/000/221/***/coxere5.jpg",
-                    "alt": "",
-                    "caption": "A Spanish town in the Barbary Coast being attacked by Moors.",
-                    "credit": "Library of Congress"
-                }
-            ]
+            "type": "image",
+            "url-format": "/000/000/220/***/coxere4.jpg",
+            "alt": "",
+            "caption": "Ghar El Melhn, the port in which Ned Coxere spent some time as a slave.",
+            "credit": "Library of Congress"
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/221/***/coxere5.jpg",
+            "alt": "",
+            "caption": "A Spanish town in the Barbary Coast being attacked by Moors.",
+            "credit": "Library of Congress"
         },
         {
             "type": "paragraph",
