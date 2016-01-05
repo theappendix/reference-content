@@ -187,6 +187,7 @@
     },
     {
       "type": "anvil-gallery",
+      "group": "reid1",
       "images": [
         {
           "url-format": "/000/001/562/***/IMG_5.jpg",

@@ -116,6 +116,7 @@
     },
     {
       "type": "anvil-gallery",
+      "group": "hyrtl1",
       "images": [
         {
           "url-format": "/000/001/232/***/Hyrtl2.jpg",

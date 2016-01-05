@@ -151,6 +151,7 @@
         },
         {
             "type": "anvil-gallery",
+            "group": "keiter1",
             "images": [
                 {
                     "url-format": "/000/001/145/***/Keiter6a.jpg",
@@ -288,6 +289,7 @@
         },
         {
             "type": "anvil-gallery",
+            "group": "keiter2",
             "images": [
                 {
                     "url-format": "/000/001/150/***/Keiter9a.jpg",

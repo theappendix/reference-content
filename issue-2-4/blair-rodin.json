@@ -69,6 +69,7 @@
         },
         {
             "type": "anvil-gallery",
+            "group": "blair1",
             "images": [
                 {
                     "url-format": "/000/001/612/***/Blair4a.jpeg",

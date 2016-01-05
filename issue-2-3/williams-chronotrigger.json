@@ -97,6 +97,7 @@
         "number": 13
     }, {
         "type": "anvil-gallery",
+        "group": "williams1",
         "images": [{
             "url-format": "/000/001/423/***/Williams5a.jpg",
             "caption": "Covers from the book series _Nazenani Gakushū Zukan_.",

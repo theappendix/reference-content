@@ -11,6 +11,7 @@
   "content": [
     {
       "type": "anvil-gallery",
+      "group": "schmidt1",
       "images": [
         {
           "url-format": "/000/000/432/***/LITA1c.jpg",

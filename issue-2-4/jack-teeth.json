@@ -232,6 +232,7 @@
         },
         {
             "type": "anvil-gallery",
+            "group": "jack1",
             "images": [
                 {
                     "url-format": "/000/001/547/***/SAM_0180.JPG",

@@ -60,6 +60,7 @@
         },
         {
             "type": "anvil-gallery",
+            "group": "duffy1",
             "images": [
                 {
                     "url-format": "/000/000/837/***/3_cutlery_set.JPG",
@@ -138,6 +139,7 @@
         },
         {
             "type": "anvil-gallery",
+            "group": "duffy2",
             "images": [
                 {
                     "url-format": "/000/000/841/***/7_eye_mural_cell.JPG",

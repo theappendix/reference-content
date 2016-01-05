@@ -159,6 +159,7 @@
     },
     {
       "type": "anvil-gallery",
+      "group": "cruz1",
       "images": [
         {
           "url-format": "/000/001/183/***/14bis.jpg",

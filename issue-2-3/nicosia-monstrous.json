@@ -88,6 +88,7 @@
         "number": 13
     }, {
         "type": "anvil-gallery",
+        "group": "nicosia1",
         "images": [{
             "url-format": "/000/001/351/***/Nicosia__MP_2.JPG",
             "alt": "Mistris Parliament",

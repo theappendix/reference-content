@@ -140,6 +140,7 @@
         },
         {
             "type": "anvil-gallery",
+            "group": "pyne1",
             "images": [
                 {
                     "url-format": "/000/001/530/***/IMG6a_Moscow_Exhibit_Marxist.jpg",

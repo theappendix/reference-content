@@ -41,6 +41,7 @@
         },
         {
             "type": "anvil-gallery",
+            "group": "cruz1",
             "images": [
                 {
                     "url-format": "/000/001/647/***/Balao1a.jpg",
@@ -173,6 +174,7 @@
         },
         {
             "type": "anvil-gallery",
+            "group": "cruz2",
             "images": [
                 {
                     "url-format": "/000/001/656/***/Balao3a.jpg",
@@ -400,6 +402,7 @@
         },
         {
             "type": "anvil-gallery",
+            "group": "cruz3",
             "images": [
                 {
                     "url-format": "/000/001/665/***/Balao5a.jpg",
@@ -466,6 +469,7 @@
         },
         {
             "type": "anvil-gallery",
+            "group": "cruz4",
             "images": [
                 {
                     "url-format": "/000/001/671/***/balao6a.jpg",
@@ -516,6 +520,7 @@
         },
         {
             "type": "anvil-gallery",
+            "group": "cruz5",
             "images": [
                 {
                     "url-format": "/000/001/676/***/Balao7a.jpg",

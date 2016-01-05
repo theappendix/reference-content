@@ -92,6 +92,7 @@
         },
         {
             "type": "anvil-gallery",
+            "group": "bigelow1",
             "images": [
                 {
                     "url-format": "/000/000/829/***/Bigelow6.jpg",

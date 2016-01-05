@@ -28,6 +28,7 @@
         },
         {
             "type": "anvil-gallery",
+            "group": "coxere1",
             "images": [
                 {
                     "type": "image",
@@ -166,6 +167,7 @@
         },
         {
             "type": "anvil-gallery",
+            "group": "coxere2",
             "images": [
                 {
                     "type": "image",

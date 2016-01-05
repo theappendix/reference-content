@@ -193,6 +193,7 @@
         },
         {
             "type": "anvil-gallery",
+            "group": "scranton1",
             "images": [
                 {
                     "url-format": "/000/000/715/***/bartleby-1.jpg",

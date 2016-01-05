@@ -84,6 +84,7 @@
     },
     {
       "type": "anvil-gallery",
+      "group": "meiburg1",
       "images": [
         {
           "url-format": "/000/000/453/***/WhitneyHall08.jpg",
@@ -135,6 +136,7 @@
     },
     {
       "type": "anvil-gallery",
+      "group": "meiburg2",
       "images": [
         {
           "url-format": "/000/000/457/***/WhitneyHall12.jpg",
@@ -223,6 +225,7 @@
     },
     {
       "type": "anvil-gallery",
+      "group": "meiburg3",
       "images": [
         {
           "url-format": "/000/000/464/***/WhitneyHall22.jpg",
@@ -283,6 +286,7 @@
     },
     {
       "type": "anvil-gallery",
+      "group": "meiburg4",
       "images": [
         {
           "url-format": "/000/000/627/***/WhitneyHall41.jpg",

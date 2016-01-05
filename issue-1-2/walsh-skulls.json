@@ -320,6 +320,7 @@
         },
         {
             "type": "anvil-gallery",
+            "group": "skulls",
             "images": [
                 {
                     "url-format": "/000/000/305/***/Walsh12.jpg",

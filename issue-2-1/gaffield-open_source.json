@@ -84,6 +84,7 @@
         },
         {
             "type": "anvil-gallery",
+            "group": "gaffield1",
             "images": [
                 {
                     "url-format": "/000/000/875/***/gaffield1a.jpg",

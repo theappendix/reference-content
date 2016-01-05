@@ -114,6 +114,7 @@
         },
         {
             "type": "anvil-gallery",
+            "group": "fibiger1",
             "images": [
                 {
                     "url-format": "/000/000/612/***/A4515-6A.jpg",
