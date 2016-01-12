@@ -32,6 +32,13 @@
             "number": 3
         },
         {
+            "type": "image",
+            "url-format": "/000/000/176/***/Rachelmap.jpg",
+            "alt": "Cornelissen map",
+            "caption": "Direk Cornelissen's 1690 map of West Africa, with the (approximate) future site of Freetown in Sierra Leone indicated by a white arrow.",
+            "credit": ""
+        },
+        {
             "type": "paragraph",
             "content": "His mother, Yamacopra, put her accusations in a letter that Henry’s brother, Bartholomew, delivered to the British in Freetown. Events quickly accelerated. According to custom the Temne called a *palaver*, or meeting, to resolve the issue. Zachary Macaulay, future governor of Sierra Leone, noted in his journal that on August 2 the Temne and several other prominent African rulers met the British to discuss Henry’s death.",
             "number": 4
@@ -100,6 +107,13 @@
             "type": "paragraph",
             "content": "For the British, the reading of Henry’s will came at a particularly opportune moment. The colonists had struggled to feed themselves from their arrival in the spring of 1792 up through September of that year. Although they had been doing better since then, the May to August rainy season always threatened their food security. This gift not only allowed the fledgling Sierra Leone Company to survive, it also, in effect, guaranteed a continuing British presence in Freetown.",
             "number": 17
+        },
+        {
+            "type": "image",
+            "url-format": "/000/000/177/***/mapfreetown.jpg",
+            "alt": "Freetown map",
+            "caption": "A fold-out map of Freetown with regions marked “Town of Runaway Slaves” and “Land purchased from the Natives,” included in J. Phillips, Substance of the Report… of the Sierra Leone Company (London, 1794).",
+            "credit": ""
         },
         {
             "type": "paragraph",
