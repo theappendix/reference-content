@@ -28,7 +28,10 @@
         },
         {
             "type": "major-divider",
-            "content": "An Act of God"
+        },
+        {
+            "type": "major-header",
+            "content": "I. An Act of God"
         },
         {
             "type": "paragraph",
@@ -100,7 +103,7 @@
         },
         {
             "type": "major-header",
-            "content": "Time and the Maya Apocalypse"
+            "content": "II. Time and the Maya Apocalypse"
         },
         {
             "type": "paragraph",
@@ -159,7 +162,7 @@
         },
         {
             "type": "major-header",
-            "content": "Roofing for the Soul"
+            "content": "III. Roofing for the Soul"
         },
         {
             "type": "paragraph",
@@ -216,7 +219,7 @@
         },
         {
             "type": "major-header",
-            "content": "When the Saints"
+            "content": "IV. When the Saints"
         },
         {
             "type": "paragraph",
@@ -274,8 +277,11 @@
             "number": 45
         },
         {
+          "type": "major-divider",
+        },
+        {
             "type": "major-header",
-            "content": "The Pan-American Highway Revisited; or Protestantism and the Maya Apocalypse in Rural Guatemala"
+            "content": "V. The Pan-American Highway Revisited; or Protestantism and the Maya Apocalypse in Rural Guatemala"
         },
         {
             "type": "paragraph",
@@ -323,8 +329,11 @@
             "number": 54
         },
         {
+          "type": "major-divider"
+        },
+        {
             "type": "major-header",
-            "content": "History and the Maya Holy Spirit"
+            "content": "VI. History and the Maya Holy Spirit"
         },
         {
             "type": "paragraph",

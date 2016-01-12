@@ -382,6 +382,7 @@
         {
             "type": "image",
             "url-format": "/000/000/155/***/Surgun4.jpg",
+            "float": "left",
             "alt": "illustration",
             "caption": "",
             "credit": "Benjamin Breen"

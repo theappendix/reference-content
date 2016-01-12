@@ -18,7 +18,7 @@
         },
         {
             "type": "major-header",
-            "content": "Apocalypse Later"
+            "content": "I. Apocalypse Later"
         },
         {
             "type": "paragraph",
@@ -46,8 +46,11 @@
             "number": 5
         },
         {
+          "type": "major-divider"
+        },
+        {
             "type": "major-header",
-            "content": "What’s So Funny About Truth, Justice, and the American Way?"
+            "content": "II. What’s So Funny About Truth, Justice, and the American Way?"
         },
         {
             "type": "paragraph",
@@ -104,8 +107,11 @@
             "number": 13
         },
         {
+          "type": "major-divider"
+        },
+        {
             "type": "major-header",
-            "content": "Along Came a Spider"
+            "content": "III. Along Came a Spider"
         },
         {
             "type": "paragraph",
@@ -160,8 +166,11 @@
             "number": 22
         },
         {
+          "type": "major-divider"
+        },
+        {
             "type": "major-header",
-            "content": "Marvel-ous Mystery Tour"
+            "content": "IV. Marvel-ous Mystery Tour"
         },
         {
             "type": "paragraph",
@@ -233,8 +242,11 @@
             "number": 33
         },
         {
+          "type": "major-divider"
+        },
+        {
             "type": "major-header",
-            "content": "Secret Wars"
+            "content": "V. Secret Wars"
         },
         {
             "type": "paragraph",
@@ -302,8 +314,11 @@
             "number": 46
         },
         {
+          "type": "major-divider"
+        },
+        {
             "type": "major-header",
-            "content": "Webspinners"
+            "content": "VI. Webspinners"
         },
         {
             "type": "paragraph",
@@ -348,8 +363,11 @@
             "number": 53
         },
         {
+          "type": "major-divider"
+        },
+        {
             "type": "major-header",
-            "content": "The Phoenix Effect"
+            "content": "VII. The Phoenix Effect"
         },
         {
             "type": "paragraph",
@@ -426,8 +444,11 @@
             "number": 65
         },
         {
+          "type": "major-divider"
+        },
+        {
             "type": "major-header",
-            "content": "Magneto in Chains"
+            "content": "VIII. Magneto in Chains"
         },
         {
             "type": "paragraph",
