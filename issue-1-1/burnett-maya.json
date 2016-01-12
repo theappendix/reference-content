@@ -27,7 +27,7 @@
             "number": 2
         },
         {
-            "type": "major-divider",
+            "type": "major-divider"
         },
         {
             "type": "major-header",
@@ -277,7 +277,7 @@
             "number": 45
         },
         {
-          "type": "major-divider",
+          "type": "major-divider"
         },
         {
             "type": "major-header",
