@@ -55,7 +55,7 @@
         },
         {
             "type": "major-header",
-            "content": "Boatman of the Underworld"
+            "content": "I. Boatman of the Underworld"
         },
         {
             "type": "paragraph",
@@ -114,7 +114,7 @@
         },
         {
             "type": "major-header",
-            "content": "Strangeness Visible"
+            "content": "II. Strangeness Visible"
         },
         {
             "type": "paragraph",
@@ -223,7 +223,7 @@
         },
         {
             "type": "major-header",
-            "content": "Moving Mountains"
+            "content": "III. Moving Mountains"
         },
         {
             "type": "paragraph",
@@ -284,7 +284,7 @@
         },
         {
             "type": "major-header",
-            "content": "The Matter of the Carpenter and the Boy"
+            "content": "IV. The Matter of the Carpenter and the Boy"
         },
         {
             "type": "paragraph",
@@ -349,12 +349,12 @@
             "number": 53
         },
         {
-            "type": "paragraph",
+            "type": "alt-voice-paragraph",
             "content": "John Ross, <a href='http://books.google.com/books?id=VOEeV18ToFcC' target='_blank'><i>A voyage of discovery, made under the orders of the Admiralty, in his majesty’s ships “Isabella” and “Alexander,” for the purpose of exploring Baffin’s Bay, and enquiring into the probability of a north-west passage</i></a> (London, 1819; 2nd ed., 2v., 1819).",
             "number": 54
         },
         {
-            "type": "paragraph",
+            "type": "alt-voice-paragraph",
             "content": "Thomas A. Janvier, <a href='http://books.google.com/books?id=JmwEAAAAYAAJ&amp;dq' target='_blank'><i>Henry Hudson: A Brief Statement of his Aims and his Achievements</i></a> (Harper &amp; Bros., 1909).",
             "number": 55
         }

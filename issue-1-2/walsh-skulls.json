@@ -38,7 +38,7 @@
             "number": 4
         },
         {
-            "type": "paragraph",
+            "type": "editorial-intro-paragraph",
             "content": "This is a tale of four skulls, but it is also the story of authenticity and fakery in the imagined ruins of the Mexican past, conjuring images of pre-Columbian sacrificial victims, bloody bandits and betrayal—a history of illusions unlocked by twenty-first century science.",
             "number": 5
         },
@@ -54,7 +54,7 @@
         },
         {
             "type": "major-header",
-            "content": "Digging for Treasure"
+            "content": "I. Digging for Treasure"
         },
         {
             "type": "paragraph",
@@ -125,7 +125,7 @@
         },
         {
             "type": "major-header",
-            "content": "Aztecs in Paris"
+            "content": "II. Aztecs in Paris"
         },
         {
             "type": "paragraph",
@@ -216,7 +216,7 @@
         },
         {
             "type": "major-header",
-            "content": "“Unique in All the World”"
+            "content": "III. “Unique in All the World”"
         },
         {
             "type": "paragraph",
@@ -296,7 +296,7 @@
         },
         {
             "type": "major-header",
-            "content": "Boban and the Bandit"
+            "content": "IV. Boban and the Bandit"
         },
         {
             "type": "paragraph",
@@ -424,7 +424,7 @@
         },
         {
             "type": "major-header",
-            "content": "Rojas’s Skull"
+            "content": "V. Rojas’s Skull"
         },
         {
             "type": "paragraph",
