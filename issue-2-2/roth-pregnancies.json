@@ -53,6 +53,9 @@
       "number": 5
     },
     {
+      "type": "major-divider"
+    },
+    {
       "type": "major-header",
       "content": "How I Met Angelica: Police Investigations in the Archive"
     },
@@ -98,6 +101,9 @@
       "number": 9
     },
     {
+      "type": "major-divider"
+    },
+    {
       "type": "major-header",
       "content": "Case Closed"
     },
@@ -112,6 +118,9 @@
       "alt": "police summary",
       "caption": "District police chief’s closing remarks.",
       "credit": "Arquivo Nacional, Rio de Janeiro (AN) CR.0.IQP.466 (1911)"
+    },
+    {
+      "type": "major-divider"
     },
     {
       "type": "major-header",
@@ -131,6 +140,9 @@
       "type": "paragraph",
       "content": "While infanticide and the denial or concealment of pregnancy are different events (although at times the former follows the latter), they both fly in the face of the logic of a maternalist society that reduced a woman’s nature to her biological ability to reproduce. Investigations of pregnancy denial at the turn of the twentieth century remedied the paradox of its existence by citing ignorance. Infanticide law similarly rectified the inherent contradiction between a woman’s nature and the act of infanticide through the idea of madness.",
       "number": 13
+    },
+    {
+      "type": "major-divider"
     },
     {
       "type": "major-header",
