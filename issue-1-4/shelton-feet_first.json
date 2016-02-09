@@ -188,10 +188,7 @@
         {
         "type": "map",
             "tileset":  "terrain",
-        "center":   {
-            "latitude":     "29.759609", 
-            "longitude":     "-95.375276"
-        },
+        "center":   ["29.759609", "-95.375276"],
         "zoom":     10,
         "minZoom":  6,
         "maxZoom":  16,
