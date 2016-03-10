@@ -210,42 +210,58 @@
                 {
                     "type": "image",
                     "url-format": "/000/000/957/***/jazzage3.jpg",
-                    "full-page": true
+                    "full-page": true,
+                    "caption": "",
+                    "credit": ""
                 },
                 {
                     "type": "image",
                     "url-format": "/000/000/958/***/jazzage4.jpg",
-                    "full-page": true
+                    "full-page": true,
+                    "caption": "",
+                    "credit": ""
                 },
                 {
                     "type": "image",
                     "url-format": "/000/000/959/***/jazzage5.jpg",
-                    "full-page": true
+                    "full-page": true,
+                    "caption": "",
+                    "credit": ""
                 },
                 {
                     "type": "image",
                     "url-format": "/000/000/960/***/jazzage6.jpg",
-                    "full-page": true
+                    "full-page": true,
+                    "caption": "",
+                    "credit": ""
                 },
                 {
                     "type": "image",
                     "url-format": "/000/000/962/***/jazzage7.jpg",
-                    "full-page": true
+                    "full-page": true,
+                    "caption": "",
+                    "credit": ""
                 },
                 {
                     "type": "image",
                     "url-format": "/000/000/963/***/jazzage8.jpg",
-                    "full-page": true
+                    "full-page": true,
+                    "caption": "",
+                    "credit": ""
                 },
                 {
                     "type": "image",
                     "url-format": "/000/000/964/***/jazzage9.jpg",
-                    "full-page": true
+                    "full-page": true,
+                    "caption": "",
+                    "credit": ""
                 },
                 {
                     "type": "image",
                     "url-format": "/000/000/965/***/jazzage10.jpg",
-                    "full-page": true
+                    "full-page": true,
+                    "caption": "",
+                    "credit": ""
                 }
             ]
         }

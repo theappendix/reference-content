@@ -146,18 +146,22 @@
             "images": [
                 {
                     "url-format": "/000/000/906/***/0001.jpg",
+                    "caption": "",
                     "credit": "Yale University Manuscripts and Archives"
                 },
                 {
                     "url-format": "/000/000/907/***/0002.jpg",
+                    "caption": "",
                     "credit": "Yale University Manuscripts and Archives"
                 },
                 {
                     "url-format": "/000/000/908/***/0003.jpg",
+                    "caption": "",
                     "credit": "Yale University Manuscripts and Archives"
                 },
                 {
                     "url-format": "/000/000/909/***/0004.jpg",
+                    "caption": "",
                     "credit": "Yale University Manuscripts and Archives"
                 }
             ]

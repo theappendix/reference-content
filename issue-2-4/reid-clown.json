@@ -192,27 +192,32 @@
         {
           "url-format": "/000/001/562/***/IMG_5.jpg",
           "alt": "Marceline",
-          "caption": "“At last he winds up in a saloon and is set to washing the mirrors in the back bar…”"
+          "caption": "“At last he winds up in a saloon and is set to washing the mirrors in the back bar…”",
+          "credit": ""
         },
         {
           "url-format": "/000/001/563/***/IMG_6.jpg",
           "alt": "Marceline",
-          "caption": "“His ladder slips, and a hundred dollars’ worth of glass goes crashing to its ruin.”"
+          "caption": "“His ladder slips, and a hundred dollars’ worth of glass goes crashing to its ruin.”",
+          "credit": ""
         },
         {
           "url-format": "/000/001/564/***/IMG_7.jpg",
           "alt": "Marceline",
-          "caption": "“Marceline is arrested…”"
+          "caption": "“Marceline is arrested…”",
+          "credit": ""
         },
         {
           "url-format": "/000/001/565/***/IMG_8.jpg",
           "alt": "Marceline",
-          "caption": "“…and arraigned in court…”"
+          "caption": "“…and arraigned in court…”",
+          "credit": ""
         },
         {
           "url-format": "/000/001/566/***/IMG_9.jpg",
           "alt": "Marceline",
-          "caption": "“…where he has many other laughable adventures.”"
+          "caption": "“…where he has many other laughable adventures.”",
+          "credit": ""
         }
       ]
     },
