@@ -41,22 +41,22 @@
             "internal-links": [
                 {
                     "token": "#1",
-                    "web": "http://theappendix.net/issues/2013/10/mapping-babel-a-sixteenth-century-indigenous-map-from-mexico",
+                    "web": "/issues/2013/10/mapping-babel-a-sixteenth-century-indigenous-map-from-mexico",
                     "epub": "mundy-cempoala.xhtml"
                 },
                 {
                     "token": "#2",
-                    "web": "http://theappendix.net/issues/2013/10/cropped-out-considering-environmental-history-through-a-car-window",
+                    "web": "/issues/2013/10/cropped-out-considering-environmental-history-through-a-car-window",
                     "epub": "brownell-cropped_out.xhtml"
                },
                {
                     "token": "#3",
-                    "web": "http://theappendix.net/issues/2013/10/local-history-feet-first",
+                    "web": "/issues/2013/10/local-history-feet-first",
                     "epub": "shelton-feet_first.xhtml"
                },
                {
                     "token": "#4",
-                    "web": "http://theappendix.net/issues/2013/10/reclaiming-a-fugitive-landscape",
+                    "web": "/issues/2013/10/reclaiming-a-fugitive-landscape",
                     "epub": "ashton_hepworth-fugitive.xhtml"
                }
             ]
@@ -68,17 +68,17 @@
             "internal-links": [
                 {
                     "token": "#1",
-                    "web": "http://theappendix.net/issues/2013/10/off-the-record",
+                    "web": "/issues/2013/10/off-the-record",
                     "epub": "fibiger-off_the_record.xhtml"
                 },
                 {
                     "token": "#2",
-                    "web": "http://theappendix.net/issues/2013/10/death-of-a-sailor-chapter-3-the-locked-room",
+                    "web": "/issues/2013/10/death-of-a-sailor-chapter-3-the-locked-room",
                     "epub": "heaney-DoS3.xhtml"
                 },
                 {
                     "token": "#3",
-                    "web": "http://theappendix.net/issues/2013/10/white-nights",
+                    "web": "/issues/2013/10/white-nights",
                     "epub": "koretzky-white_nights.xhtml"
                 }
             ]
@@ -90,17 +90,17 @@
             "internal-links": [
                 {
                     "token": "#1",
-                    "web": "http://theappendix.net/issues/2013/10/made-in-taiwan-an-eighteenth-century-frenchmans-fictional-formosa",
+                    "web": "/issues/2013/10/made-in-taiwan-an-eighteenth-century-frenchmans-fictional-formosa",
                     "epub": "breen-made_in_taiwan.xhtml"
                 },
                 {
                     "token": "#2",
-                    "web": "http://theappendix.net/issues/2013/10/proto-spam-spanish-prisoners-and-confidence-games",
+                    "web": "/issues/2013/10/proto-spam-spanish-prisoners-and-confidence-games",
                     "epub": "whitaker-proto_spam.xhtml"
                 },
                 {
                     "token": "#3",
-                    "web": "http://theappendix.net/issues/2013/10/the-politics-of-the-turtle-feast",
+                    "web": "/issues/2013/10/the-politics-of-the-turtle-feast",
                     "epub": "mandelkern-turtle_feast.xhtml"
                 }
             ]
@@ -112,22 +112,22 @@
             "internal-links": [
                 {
                     "token": "#1",
-                    "web": "http://theappendix.net/issues/2013/10/the-curse-of-coherence-cold-war-cia-funding-for-oulipos-confidence-man",
+                    "web": "/issues/2013/10/the-curse-of-coherence-cold-war-cia-funding-for-oulipos-confidence-man",
                     "epub": "scranton-melville.xhtml"
                 },
                 {
                     "token": "#2",
-                    "web": "http://theappendix.net/issues/2013/10/fiction-the-golden-likeness",
+                    "web": "/issues/2013/10/fiction-the-golden-likeness",
                     "epub": "ron-golden_likeness.xhtml"
                 },
                 {
                     "token": "#3",
-                    "web": "http://theappendix.net/issues/2013/10/march-interview-with-nate-powell-and-andrew-aydin",
+                    "web": "/issues/2013/10/march-interview-with-nate-powell-and-andrew-aydin",
                     "epub": "heaney-march_interview.xhtml"
                 },
                 {
                     "token": "#4",
-                    "web": "http://theappendix.net/issues/2013/10/the-silence-of-our-friends",
+                    "web": "/issues/2013/10/the-silence-of-our-friends",
                     "epub": "carney-silence.xhtml"
                 }
             ]
@@ -147,7 +147,7 @@
             "internal-links": [
                 {
                     "token": "#1",
-                    "web": "http://theappendix.net/issues/2013/10/letters-to-the-appendix",
+                    "web": "/issues/2013/10/letters-to-the-appendix",
                     "epub": "letters_to_the_editor.xhtml"
                 }
             ]

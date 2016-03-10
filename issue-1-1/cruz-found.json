@@ -120,7 +120,7 @@
     },
     {
         "type": "paragraph",
-        "content": "Some were just sad, like the prepared script that PanAm provided to employees for condolence calls to the families of the victims. There were English and Portuguese versions of it, since many of the passengers were Brazilian: “This is _______(name)_______, of Pan American World Airways. I called you again to convey our continued sympathy and condolence and also because of our wish to reassure you that everything possible is being done to gain access to the location of and thoroughly investigate the accident.”  At one point, the script instructs the PanAm employee to stop and listen to the victim’s family:",
+        "content": "Some were just sad, like the prepared script that PanAm provided to employees for condolence calls to the families of the victims. There were English and Portuguese versions of it, since many of the passengers were Brazilian: “This is <i>_______(name)_______</i>, of Pan American World Airways. I called you again to convey our continued sympathy and condolence and also because of our wish to reassure you that everything possible is being done to gain access to the location of and thoroughly investigate the accident.”  At one point, the script instructs the PanAm employee to stop and listen to the victim’s family:",
         "number": 20
     },
     {
@@ -261,42 +261,42 @@
                             "latitude": "25.72058",
                             "longitude": "-80.27916"
                         },
-                        "message": "<p><b>University of Miami Libraries - Special Collections</b></p><p>I was here looking at the PanAm Corporate Archives. I found not only lots of old maps and narratives from early air routes in Brazil, but also found a mysterious box with the personal effects of victims of PanAm flight 202, which crashed in the Amazon.—<i>Felipe Fernandes Cruz</i></p>"
+                        "message": "<b>University of Miami Libraries - Special Collections</b><br /><br />I was here looking at the PanAm Corporate Archives. I found not only lots of old maps and narratives from early air routes in Brazil, but also found a mysterious box with the personal effects of victims of PanAm flight 202, which crashed in the Amazon.—<i>Felipe Fernandes Cruz</i>"
                     },
                     {
                         "position": {
                             "latitude": "37.384832",
                             "longitude": "-5.99276"
                         },
-                        "message": "<p><b>General Archive of the Indies</b></p><p>Pilot exams, relations of Pacific voyages, derroteros, and other documents having to do with sixteenth century navigation.—<i>Brian Jones</i></p>"
+                        "message": "<b>General Archive of the Indies</b><br /><br />Pilot exams, relations of Pacific voyages, derroteros, and other documents having to do with sixteenth century navigation.—<i>Brian Jones</i>"
                     },
                     {
                         "position": {
                             "latitude": "38.886089",
                             "longitude": "-77.021413"
                         },
-                        "message": "<p><b>Smithsonian Archives, Washington, D.C.</b></p><p>Apocalyptic prophecies, ship manifests listing “barrel of mummies,” pseudo-syphilitic skulls, and passive agressive letters from anthropologists.—<i>Christopher Heaney</i></p>"
+                        "message": "<b>Smithsonian Archives, Washington, D.C.</b><br /><br />Apocalyptic prophecies, ship manifests listing “barrel of mummies,” pseudo-syphilitic skulls, and passive agressive letters from anthropologists.—<i>Christopher Heaney</i>"
                     },
                     {
                         "position": {
                             "latitude": "51.511734",
                             "longitude": "-0.132523"
                         },
-                        "message": "<p><b>Royal Society Archives, London</b></p><p>Drawing of dolphin from the 17th century, packet of mysterious powder sent by German alchemist, watercolor of a toad’s internal organs from Guiana, and a letter from a young Isaac Newton complaining about his landlady bugging him.—<i>Benjamin Breen</i></p>"
+                        "message": "<b>Royal Society Archives, London</b><br /><br />Drawing of dolphin from the 17th century, packet of mysterious powder sent by German alchemist, watercolor of a toad’s internal organs from Guiana, and a letter from a young Isaac Newton complaining about his landlady bugging him.—<i>Benjamin Breen</i>"
                     },
                     {
                         "position": {
                             "latitude": "38.754722",
                             "longitude": "-9.156389"
                         },
-                        "message": "<p><b>Portuguese National Archives, Lisbon</b></p><p>Inquisition trial of an African who claimed to have invented a magical bolsa that made him invulnerable to knife wounds and an apothecary’s record book of drugs he shipped to Rio de Janeiro and Bahia in the 18th century.—<i>Benjamin Breen</i></p>"
+                        "message": "<b>Portuguese National Archives, Lisbon</b><br /><br />Inquisition trial of an African who claimed to have invented a magical bolsa that made him invulnerable to knife wounds and an apothecary’s record book of drugs he shipped to Rio de Janeiro and Bahia in the 18th century.—<i>Benjamin Breen</i>"
                     },
                     {
                         "position": {
                             "latitude": "38.712304",
                             "longitude": "-9.170065"
                         },
-                        "message": "<p><b>Archivo Historico Ultramarino</b></p><p>Letters from soldiers in Angola complaining that the malign influence of the moon was giving them fevers.—<i>Benjamin Breen</i></p>"
+                        "message": "<b>Archivo Historico Ultramarino</b><br /><br />Letters from soldiers in Angola complaining that the malign influence of the moon was giving them fevers.—<i>Benjamin Breen</i>"
                     }
                 ]
             }

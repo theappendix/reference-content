@@ -259,11 +259,11 @@
         "type": "major-divider"
     }, {
         "type": "alt-voice-paragraph",
-        "content": "**Further Reading:**<br /><br />Joyce Chaplin on [“terrestriality” and the dangers of space flight](http://theappendix.net/issues/2014/4/terrestriality) in our fifth issue, “Bodies.”<br /><br />Matt Goldmark on [Star Trek’s colonial inspirations](#1) elsewhere in this issue.",
+        "content": "**Further Reading:**<br /><br />Joyce Chaplin on [“terrestriality” and the dangers of space flight](/issues/2014/4/terrestriality) in our fifth issue, “Bodies.”<br /><br />Matt Goldmark on [Star Trek’s colonial inspirations](#1) elsewhere in this issue.",
         "number": 41,
         "internal-links": [{
             "token": "#1",
-            "web": "http://theappendix.net/issues/2014/7/futures-on-demand",
+            "web": "/issues/2014/7/futures-on-demand",
             "epub": "goldmark-star_trek.xhtml",
             "chapter": 2
         }]

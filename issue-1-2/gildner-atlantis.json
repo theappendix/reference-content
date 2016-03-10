@@ -152,6 +152,9 @@
             "credit": ""
         },
         {
+            "type": "major-divider"
+        },
+        {
             "type": "major-header",
             "content": "Berlin, 1939."
         },

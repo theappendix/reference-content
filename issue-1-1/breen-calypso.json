@@ -85,6 +85,9 @@
             "number": 9
         },
         {
+            "type": "major-divider"
+        },
+        {
             "type": "major-header",
             "content": "San Diego, 1997:"
         },
@@ -128,6 +131,9 @@
             "type": "paragraph",
             "content": "Like the survivors who lamented Ur, Rio DiAngelo is an orphan, irreparably cut off from the context that made his life whole. Yet they are also witnesses, and in their act of witnessing they join the ranks of those who survived. Their lives are split between endings and beginnings, between knowing what came before and what came after.",
             "number": 15
+        },
+        {
+            "type": "major-divider"
         },
         {
             "type": "major-header",
@@ -218,6 +224,9 @@
             "number": 28
         },
         {
+            "type": "major-divider"
+        },
+        {
             "type": "major-header",
             "content": "Escaping Calypso’s Island"
         },
@@ -292,7 +301,7 @@
         "8": {
             "image": [
                 {
-                    "url-format": "/000/000/071/***/NannaSeal.jpeg",
+                    "url-format": "/000/000/071/***/NannaSeal.jpg",
                     "alt": "",
                     "caption": "Cylinder-seal of Khashkhamer, patesi of Ishkun-Sin (in North Babylonia), and vassal of Ur-Engur, king of Ur (c. 2400 BC).",
                     "credit": ""
@@ -323,7 +332,7 @@
             ],
             "image": [
                 {
-                    "url-format": "/000/000/072/***/DoHG.jpeg",
+                    "url-format": "/000/000/072/***/DoHG.jpg",
                     "alt": "",
                     "caption": "A still from a tape recoding of Heaven’s Gate founder Marshall Applewhite, or “Do” as he was known to followers.",
                     "credit": ""

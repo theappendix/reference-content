@@ -46,6 +46,9 @@
             "number": 5
         },
         {
+            "type": "major-divider"
+        },
+        {
             "type": "major-header",
             "content": "1980"
         },
@@ -63,6 +66,9 @@
             "type": "paragraph",
             "content": "In 1980, a woman named Meng Jian recalled the pain of standing in front of her father’s ashes. Writing a postscript to the republication of a play written by her father, Meng Chao (1902-1976), she poured out her rage.  She directed her internal fury not at Mao Zedong or his wife, Jiang Qing—one of the faces of the Great Proletarian Cultural Revolution that had plunged China into years of chaos and upheaval. Instead, she cursed Li Huiniang, the concubine her father had reinterpreted. The cries of a grieving daughter echoed the cries of the ghost she cursed. “It’s all because of wanting to write *you*, having written you that it’s come to such an end. You are an ancient, immortal ghost—you can become a celestial immortal, but my father is a new ghost, and that fact is extremely hard to swallow, it is an extraordinary injustice!”",
             "number": 8
+        },
+        {
+            "type": "major-divider"
         },
         {
             "type": "major-header",
@@ -87,6 +93,9 @@
             "type": "paragraph",
             "content": "There are many beautiful women in historical tales who are swept up in the midst of great events. Helen of Troy “launched a thousand ships.” The Tang consort Yang Guifei was blamed for a rebellion. Henry VIII broke with the Catholic Church for his bewitching Anne Boleyn. Mao had Jiang Qing, his wife who stepped into political prominence in 1964, after years of being excluded from the political stage. And then there was Meng Chao’s—beautiful Li Huiniang, with the blood-stained face. She was the ghost whose downfall, along with Meng Chao, marked the beginning of Mao’s last great assault on his party.",
             "number": 12
+        },
+        {
+            "type": "major-divider"
         },
         {
             "type": "major-header",
@@ -123,6 +132,9 @@
             "type": "paragraph",
             "content": "It was not the fate Meng Chao wanted for himself, however. In the late 1960s, he attempted suicide. Though rushed to the hospital, the doctors refused to treat him until the officials handling his case arrived. The question the doctors asked was simple: “Is this a person you want or not?” The handlers responded: “This person is a big traitor, and you mustn’t allow him to die!” At which point treatment commenced.",
             "number": 17
+        },
+        {
+            "type": "major-divider"
         },
         {
             "type": "major-header",
@@ -174,6 +186,9 @@
             "number": 26
         },
         {
+            "type": "major-divider"
+        },
+        {
             "type": "major-header",
             "content": "1959"
         },
@@ -220,6 +235,9 @@
             "number": 33
         },
         {
+            "type": "major-divider"
+        },
+        {
             "type": "major-header",
             "content": "1912"
         },
@@ -237,6 +255,9 @@
             "type": "paragraph",
             "content": "Long after he took a pen name—like so many Chinese intellectuals before him—and threw himself into working for a socialist future, he would remember that ghost from his childhood. It was so dazzling a memory that she reappeared to him in the cool autumn of 1959; but also so fleeting that it might as well have been centuries ago.",
             "number": 36
+        },
+        {
+            "type": "major-divider"
         },
         {
             "type": "major-header",
@@ -278,6 +299,9 @@
             "alt": "Poster of the Woman in Green",
             "caption": "Poser for the 1981 film _Li Huiniang_.",
             "credit": "Maggie Greene"
+        },
+        {
+            "type": "major-divider"
         },
         {
             "type": "major-header",

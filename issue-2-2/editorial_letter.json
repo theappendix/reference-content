@@ -59,6 +59,9 @@
       "credit": "<a href=\"http://machinatorium.wordpress.com\">Machinatorium</a>"
     },
     {
+        "type": "major-divider"
+    },
+    {
       "type": "major-header",
       "content": "Chapter One: Human Bodies"
     },
@@ -69,41 +72,44 @@
       "internal-links": [
         {
           "token": "#1",
-          "web": "http://theappendix.net/issues/2014/4/the-aviators-heart",
+          "web": "/issues/2014/4/the-aviators-heart",
           "epub": "cruz-heart.xhtml",
           "chapter": 1
         },
         {
           "token": "#2",
-          "web": "http://theappendix.net/issues/2014/4/abe-lincolns-whiskers",
+          "web": "/issues/2014/4/abe-lincolns-whiskers",
           "epub": "trainor-beard.xhtml",
           "chapter": 1
         },
         {
           "token": "#3",
-          "web": "http://theappendix.net/issues/2014/4/a-pirate-surgeon-in-panama",
+          "web": "/issues/2014/4/a-pirate-surgeon-in-panama",
           "epub": "breen-pirate_surgeon.xhtml",
           "chapter": 1
         },
         {
           "token": "#4",
-          "web": "http://theappendix.net/issues/2014/4/mug-shots-a-small-town-noir",
+          "web": "/issues/2014/4/mug-shots-a-small-town-noir",
           "epub": "mogg-noir.xhtml",
           "chapter": 1
         },
         {
           "token": "#5",
-          "web": "http://theappendix.net/issues/2014/4/terrestriality",
+          "web": "/issues/2014/4/terrestriality",
           "epub": "chaplin-circumnavigation.xhtml",
           "chapter": 1
         },
         {
           "token": "#6",
-          "web": "http://theappendix.net/issues/2014/4/interpreting-physick-the-familiar-and-foreign-eighteenth-century-body",
+          "web": "/issues/2014/4/interpreting-physick-the-familiar-and-foreign-eighteenth-century-body",
           "epub": "keiter-apothecaries.xhtml",
           "chapter": 1
         }
       ]
+    },
+    {
+        "type": "major-divider"
     },
     {
       "type": "major-header",
@@ -116,47 +122,50 @@
       "internal-links": [
         {
           "token": "#1",
-          "web": "http://theappendix.net/issues/2014/4/robot-of-jihad-a-guide-to-tipus-tiger",
+          "web": "/issues/2014/4/robot-of-jihad-a-guide-to-tipus-tiger",
           "epub": "smith-tiger.xhtml",
           "chapter": 2
         },
         {
           "token": "#2",
-          "web": "http://theappendix.net/issues/2014/4/ditsongs-dioramas-putting-a-body-on-a-fossil-and-a-fossil-in-a-narrative",
+          "web": "/issues/2014/4/ditsongs-dioramas-putting-a-body-on-a-fossil-and-a-fossil-in-a-narrative",
           "epub": "pyne-ditsong.xhtml",
           "chapter": 2
         },
         {
           "token": "#3",
-          "web": "http://theappendix.net/issues/2014/4/flesh-made-wood-the-invention-of-artificial-refrigeration",
+          "web": "/issues/2014/4/flesh-made-wood-the-invention-of-artificial-refrigeration",
           "epub": "woods-refrigeration.xhtml",
           "chapter": 2
         },
         {
           "token": "#4",
-          "web": "http://theappendix.net/issues/2014/4/mozarts-skull-the-hyrtl-skull-collection-at-the-college-of-physicians-of-philadelphia",
+          "web": "/issues/2014/4/mozarts-skull-the-hyrtl-skull-collection-at-the-college-of-physicians-of-philadelphia",
           "epub": "open_source-hyrtl.xhtml",
           "chapter": 2
         },
         {
           "token": "#5",
-          "web": "http://theappendix.net/issues/2014/4/on-looking-friendship-and-the-new-haven-green",
+          "web": "/issues/2014/4/on-looking-friendship-and-the-new-haven-green",
           "epub": "schwartz-new_haven.xhtml",
           "chapter": 2
         },
         {
           "token": "#6",
-          "web": "http://theappendix.net/issues/2014/4/elegy-and-effigy",
+          "web": "/issues/2014/4/elegy-and-effigy",
           "epub": "crabtree-elegy.xhtml",
           "chapter": 2
         },
         {
           "token": "#7",
-          "web": "http://theappendix.net/issues/2014/4/el-nanigo-spirit-dancer-of-afro-cuba",
+          "web": "/issues/2014/4/el-nanigo-spirit-dancer-of-afro-cuba",
           "epub": "rodriguez-nanigo.xhtml",
           "chapter": 2
         }
       ]
+    },
+    {
+        "type": "major-divider"
     },
     {
       "type": "major-header",
@@ -169,37 +178,37 @@
       "internal-links": [
         {
           "token": "#1",
-          "web": "http://theappendix.net/issues/2014/4/fever-to-tell-interactive-storytelling-online-and-philadelphias-yellow-fever-outbreak",
+          "web": "/issues/2014/4/fever-to-tell-interactive-storytelling-online-and-philadelphias-yellow-fever-outbreak",
           "epub": "ponce-qa.xhtml",
           "chapter": 3
         },
         {
           "token": "#2",
-          "web": "http://theappendix.net/issues/2014/4/angelicas-baby-pregnancy-narratives-in-twentieth-century-rio-de-janeiro",
+          "web": "/issues/2014/4/angelicas-baby-pregnancy-narratives-in-twentieth-century-rio-de-janeiro",
           "epub": "roth-pregnancies.xhtml",
           "chapter": 3
         },
         {
           "token": "#3",
-          "web": "http://theappendix.net/issues/2014/4/victorian-occultism-and-the-art-of-synesthesia",
+          "web": "/issues/2014/4/victorian-occultism-and-the-art-of-synesthesia",
           "epub": "breen-synesthesia.xhtml",
           "chapter": 3
         },
         {
           "token": "#4",
-          "web": "http://theappendix.net/issues/2014/4/the-history-of-mana-how-an-austronesian-concept-became-a-video-game-mechanic",
+          "web": "/issues/2014/4/the-history-of-mana-how-an-austronesian-concept-became-a-video-game-mechanic",
           "epub": "golub-mana.xhtml",
           "chapter": 3
         },
         {
           "token": "#5",
-          "web": "http://theappendix.net/issues/2014/4/where-be-monsters-daedalus-sea-serpent-and-war-for-credibility",
+          "web": "/issues/2014/4/where-be-monsters-daedalus-sea-serpent-and-war-for-credibility",
           "epub": "willis-sea_monsters.xhtml",
           "chapter": 3
         },
         {
           "token": "#6",
-          "web": "http://theappendix.net/issues/2014/4/letters-to-the-editor-bodies",
+          "web": "/issues/2014/4/letters-to-the-editor-bodies",
           "epub": "letters.xhtml",
           "chapter": 3
         }

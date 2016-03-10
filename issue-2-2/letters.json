@@ -36,7 +36,7 @@
       "type": "major-divider"
     },
     {
-      "type": "minor-header",
+      "type": "major-header",
       "content": "“[A Seasonable Recommendation of Frugality. In a Letter to the Editor.](http://books.google.com/books?id=ilUDAAAAMAAJ&amp;pg=PA521&amp;lpg=PA521&amp;dq=%22seasonable+recommendation+of+frugality%22&amp;source=bl&amp;ots=oVVb0D9NPU&amp;sig=kha5zakYzl8kEFvqw38SDkrbuME&amp;hl=en&amp;sa=X&amp;ei=3iwRU4LsH8rCyAHzx4GYCg&amp;ved=0CCcQ6AEwAA)”"
     },
     {
@@ -58,7 +58,7 @@
       "type": "major-divider"
     },
     {
-      "type": "minor-header",
+      "type": "major-header",
       "content": "[“On the Use of Nitrous Oxide”](http://books.google.com/books?id=cIg1AQAAMAAJ&amp;dq=%22letter%20to%20the%20editor%22%20%22nitrous%20oxide%22&amp;pg=PA572)"
     },
     {
@@ -98,11 +98,11 @@
     },
     {
       "type": "alt-voice-paragraph",
-      "content": "The following letter relates to our article **[“Ditsong’s Dioramas”](http://theappendix.net/issues/2014/4/ditsongs-dioramas-putting-a-body-on-a-fossil-and-a-fossil-in-a-narrative)** in the present issue.",
+      "content": "The following letter relates to our article **[“Ditsong’s Dioramas”](/issues/2014/4/ditsongs-dioramas-putting-a-body-on-a-fossil-and-a-fossil-in-a-narrative)** in the present issue.",
       "number": 13
     },
     {
-      "type": "minor-header",
+      "type": "major-header",
       "content": "“The Taungs Skull”"
     },
     {

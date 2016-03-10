@@ -154,7 +154,7 @@
         },
         {
             "type": "paragraph",
-            "content": "There is one thing balloonists like almost as much as making balloons—talking about them. Despite the fact that launching balloons is now a federal crime, there are myriad publications and resources about balloons. Some traditional balloon magazines have existed since the early 1980s. There are photographers specializing strictly in balloons—_balógrafos—_who sell balloon photo books and launch footage DVDs, available anywhere from street stalls to the internet. Searching for “balão” on YouTube will bring up endless hours of footage. Sometimes these balógrafos are even hired to create _balografias_ (yes, a balloon bibliography) of a team’s entire history of launches, much like a family might commission a genealogy. Balloon teams are indeed much like families, and often consist of actual blood families and their closest friends and in-laws.",
+            "content": "There is one thing balloonists like almost as much as making balloons—talking about them. Despite the fact that launching balloons is now a federal crime, there are myriad publications and resources about balloons. Some traditional balloon magazines have existed since the early 1980s. There are photographers specializing strictly in balloons—<i>balógrafos</i>—who sell balloon photo books and launch footage DVDs, available anywhere from street stalls to the internet. Searching for “balão” on YouTube will bring up endless hours of footage. Sometimes these balógrafos are even hired to create <i>balografias</i> (yes, a balloon bibliography) of a team’s entire history of launches, much like a family might commission a genealogy. Balloon teams are indeed much like families, and often consist of actual blood families and their closest friends and in-laws.",
             "number": 15
         },
         {
@@ -582,7 +582,7 @@
         "15": {
             "link": [
                 {
-                    "label": "A youtube playlist of balloon launches",
+                    "label": "A YouTube playlist of balloon launches",
                     "url": "http://www.youtube.com/playlist?list=PLhczMFfp6Itt212qLuUHltmhNA_B1hqnM"
                 }
             ]
