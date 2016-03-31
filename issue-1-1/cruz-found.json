@@ -41,7 +41,7 @@
     },
     {
         "type": "image",
-        "url-format": "/000/000/049/***/JungleEnvelope.JPG",
+        "url-format": "/000/000/049/***/JungleEnvelope.jpg",
         "alt": "Photo of the envelope in the archive",
         "caption": "“Jungle Episode 1952” Envelope.",
         "credit": "PanAmerican World Airways Collection, University of Miami Libraries"
@@ -314,7 +314,7 @@
         ],
         "image": [
             {
-                "url-format": "/000/000/022/***/HazardsList.JPG",
+                "url-format": "/000/000/022/***/HazardsList.jpg",
                 "alt": "",
                 "caption": "",
                 "credit": ""
@@ -350,13 +350,13 @@
         ],
         "image": [
             {
-                "url-format": "/000/000/025/***/MatchFront.JPG",
+                "url-format": "/000/000/025/***/MatchFront.jpg",
                 "alt": "",
                 "caption": "",
                 "credit": ""
             },
             {
-                "url-format": "/000/000/026/***/MatchBack.JPG",
+                "url-format": "/000/000/026/***/MatchBack.jpg",
                 "alt": "",
                 "caption": "",
                 "credit": ""
@@ -374,7 +374,7 @@
         ],
         "image": [
             {
-                "url-format": "/000/000/027/***/PsyLetter.JPG",
+                "url-format": "/000/000/027/***/PsyLetter.jpg",
                 "alt": "",
                 "caption": "",
                 "credit": ""
@@ -384,7 +384,7 @@
     "19": {
         "image": [
             {
-                "url-format": "/000/000/029/***/Pistolao.JPG",
+                "url-format": "/000/000/029/***/Pistolao.jpg",
                 "alt": "",
                 "caption": "",
                 "credit": ""
@@ -394,7 +394,7 @@
     "20": {
         "image": [
             {
-                "url-format": "/000/000/028/***/Condolences.JPG",
+                "url-format": "/000/000/028/***/Condolences.jpg",
                 "alt": "",
                 "caption": "",
                 "credit": ""
@@ -409,7 +409,7 @@
     "24": {
         "image": [
             {
-                "url-format": "/000/000/030/***/Distribution.JPG",
+                "url-format": "/000/000/030/***/Distribution.jpg",
                 "alt": "",
                 "caption": "",
                 "credit": ""
